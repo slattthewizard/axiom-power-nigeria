@@ -1,0 +1,59 @@
+{
+  "slug": "turbine-services-lagos",
+  "city": "Lagos",
+  "metaTitle": "Turbine and Generator Services Lagos State | Axiom Power",
+  "metaDescription": "Steam and gas turbine overhaul, generator maintenance and rotating equipment services across Lagos: Ikeja, Agbara, Ikorodu, Apapa. Call +234 803 000 0000.",
+  "h1": "Turbine and Generator Services in Lagos",
+  "heroSub": "Lagos carries the densest standby and prime generation base in Nigeria, from the Ikeja and Agbara factory belts to the terminals at Apapa and Tin Can Island. We overhaul steam and gas turbines, maintain industrial gensets and diagnose rotating equipment on outage windows that cannot slip.",
+  "introHtml": "<p>Lagos is the country's industrial and commercial capital, and its plants run their prime movers harder than plants anywhere else in Nigeria. The manufacturing clusters at Ikeja, Ilupeju, Isolo, Agbara and Odogunyan in Ikorodu, together with the cold stores, cranes and processing lines around Apapa and Tin Can Island, sit on a distribution supply that swings often enough to keep diesel sets and turbines in near continuous duty. That duty profile, rather than machine age alone, is what drives most of the failures we are called in to correct.</p><p>We cover the full rotating train: back pressure and condensing steam turbines on boiler plant, industrial and aeroderivative gas turbines, diesel and gas gensets from a few hundred kVA to multi megawatt synchronised banks, and the pumps, compressors, fans and gearboxes coupled to them. Every scope begins with measurement rather than assumption, so you know what is worn, what is fouled and what can safely run to the next window. Start with <a href=\"/steam-turbine-overhaul-nigeria/\">steam turbine overhaul</a>, <a href=\"/generator-maintenance-nigeria/\">generator maintenance</a> or a full <a href=\"/power-plant-audit-nigeria/\">power plant audit</a>, then request a technical proposal with the findings and costs written down.</p>",
+  "services": [
+    {
+      "title": "Steam and Gas Turbine Overhaul",
+      "desc": "Combustion, hot gas path and major inspections on industrial gas turbines, plus rotor, diaphragm and bearing work on the steam sets that run alongside boiler plant in Lagos food, beverage and process factories. Borescope findings, clearance records and torque records are handed over with the machine."
+    },
+    {
+      "title": "Industrial Generator Maintenance",
+      "desc": "Scheduled servicing, AVR and governor tuning, synchronising panel checks and load bank testing for the dense standby fleet across Ikeja, Ilupeju, Agbara and Ikorodu. We correct the wet stacking and injector fouling that comes from long hours at low load on off spec AGO."
+    },
+    {
+      "title": "Rotating Equipment Services",
+      "desc": "Laser shaft alignment, field and workshop balancing, vibration surveys and bearing replacement on pumps, screw and centrifugal compressors, ID and FD fans and gearboxes. Port side and coastal installations in Apapa and Amuwo Odofin get particular attention on seal and coupling condition."
+    },
+    {
+      "title": "Plant Assessment and Power Audit",
+      "desc": "A structured survey of your Lagos site: generation and load profile, fuel consumption per kWh, redundancy gaps, protection settings and deferred maintenance. You receive a written condition register and a costed intervention plan you can take to procurement."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What Lagos duty cycles actually do to turbines and gensets",
+      "html": "<p>Two things separate Lagos from the rest of the country: run hours and air quality. Sets specified as standby routinely log prime mover hours because distribution supply from the Ikeja and Eko networks comes and goes several times in a shift, and each restart is a thermal and mechanical cycle the original maintenance plan never budgeted for. We see the result as accelerated hot gas path oxidation and thermal fatigue cracking on turbine transition pieces, and as premature bearing and turbocharger wear on diesel sets whose service intervals are still being counted in calendar months instead of running hours.</p><p>Air is the second factor. Plants close to Apapa, Tin Can Island, Amuwo Odofin and the Lekki corridor draw salt laden air that fouls compressor blading and attacks radiator cores and control cubicle terminations. Inland estates at Ikeja, Isolo and Odogunyan pull in cement, silica and traffic particulate, and the January harmattan load pushes filter differential pressure up sharply for several weeks. Fouled axial compressors lose output and heat rate before anything trips, so the loss shows on your fuel bill long before it shows on an alarm list.</p><p>The third factor is fuel and load. Long spells at twenty to thirty percent of rating cause wet stacking, glazed bores and carbon build up in exhaust systems, and variable AGO quality drives injector deposits and fuel pump wear. A machine that has never been load banked can carry these faults quietly for years and then fail on the one night the process cannot tolerate it.</p>"
+    },
+    {
+      "heading": "Planning outages around Lagos logistics",
+      "html": "<p>An outage plan in Lagos is a logistics plan first. Spares for turbines and large gensets are almost all imported, and clearance at Apapa, Tin Can Island or Lekki Deep Sea Port plus haulage on the Apapa and Oshodi corridor can add weeks between order and site. We build long lead items into the schedule at proposal stage, name them explicitly, and hold the outage until the critical path parts are physically on site rather than starting a strip down and stalling with a machine open.</p><p>We also plan the window itself around how your site actually runs. Factories in Agbara and Ikorodu often prefer a continuous multi shift outage with crews resident on site, while port side and cold chain operations in Apapa usually need staged night work so that reefer and handling loads stay supported by the remaining sets. Where redundancy is thin, we sequence work set by set and keep a temporary supply arrangement in the plan rather than assuming one machine can carry the whole load.</p><p>Costs are quoted against that plan. Scheduled outage hours are far cheaper than the same hours taken unplanned, because unplanned time takes your production line, your cold chain or your loading operation with it. Our proposals state the outage duration, the manpower on site, the exclusions and the conditions under which the scope can grow, so procurement is not comparing a fixed number against an open one. See <a href=\"/generator-turbine-maintenance-cost/\">turbine and generator maintenance cost</a> for how the figures are built up.</p>"
+    },
+    {
+      "heading": "How we scope, diagnose and control the work",
+      "html": "<p>Our engineers start with data rather than a parts list. That means a vibration baseline with spectra and phase at each bearing, oil sampling for wear metals, water and viscosity, borescope inspection of combustion and hot gas path components where access allows, insulation resistance and polarisation index on the alternator, and a review of your control and protection settings against how the machine is actually loaded. Only then do we write a scope, because a fouled compressor, a misaligned coupling and a worn journal bearing can all present as high vibration and none of them is fixed by the same job.</p><p>Intervals are set on equivalent operating hours and starts, not on the calendar. For heavy duty industrial gas turbines that generally places a combustion inspection near 8,000 equivalent operating hours, a hot gas path inspection near 24,000 and a major near 48,000, with start counts pulling those forward on peaking and standby duty. Diesel gensets in Lagos service typically need a minor service every 250 to 500 running hours, a major every 1,000 to 2,000, oil analysis at every service and at least an annual load bank test.</p><p>Control comes from the record. We work to written procedures with hold points, log clearances, torque values, bolt tensioning and as found and as left readings, and hand over a report your team can audit and use to plan the next window. Where a finding falls outside our scope, we say so in writing rather than absorbing it silently. <a href=\"/rotating-equipment-services-nigeria/\">Rotating equipment services</a> follow the same discipline, and neighbouring plants are covered from the same base through <a href=\"/turbine-services-abuja/\">Abuja</a>, <a href=\"/turbine-services-port-harcourt/\">Port Harcourt</a> and <a href=\"/turbine-services-warri/\">Warri</a>.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Which parts of Lagos do you cover, and does that include Agbara and Ikorodu?",
+      "a": "We are based in Lagos and cover the whole state, including the Ikeja, Ilupeju, Isolo and Oregun estates, Apapa, Tin Can Island and Amuwo Odofin, Odogunyan and the wider Ikorodu axis, and the Lekki and Epe corridor. Agbara sits on the Ogun boundary but is served on the same mobilisation as our Lagos sites. Site surveys are booked directly and crews mobilise with test equipment rather than arriving to look and return later."
+    },
+    {
+      "q": "What does a gas turbine inspection cost in Lagos and how long is the outage?",
+      "a": "As an indicative range, a combustion inspection on a small to mid size industrial gas turbine falls between NGN 35,000,000 and NGN 90,000,000 (about USD 23,000 to USD 58,000) for labour, consumables and inspection, with hot gas path components quoted separately because they depend on frame, hours and findings. Typical site duration is one to three weeks depending on access, staging and whether long lead parts are already in country. Genset work is a different order: a preventive service on a 500 to 1,000 kVA set generally runs NGN 450,000 to NGN 1,200,000 (about USD 290 to USD 780). Final figures are confirmed only after a plant assessment."
+    },
+    {
+      "q": "Our sets run daily because grid supply is unstable. How often should we service them?",
+      "a": "Count running hours, not months. Under Lagos conditions a set logging six to ten hours a day will reach a 250 to 500 hour minor service every four to eight weeks, and a 1,000 to 2,000 hour major two to four times a year. Add oil analysis at each service and quarterly vibration checks, because dust and salt loading shorten filter and cooling system life well before the engine itself is due."
+    },
+    {
+      "q": "Can you work night shifts or weekends so our Lagos production line keeps running?",
+      "a": "Yes. Night and weekend outage windows are normal for Lagos sites, particularly for port side, cold chain and continuous process plants where daytime shutdown is not an option and daytime haulage on the Apapa corridor is unpredictable. We agree the window, the permit to work regime and the site access arrangement before mobilising, and we sequence multi set work so that a supply remains available throughout. Book a plant assessment and we will build the schedule around your production calendar."
+    }
+  ]
+}

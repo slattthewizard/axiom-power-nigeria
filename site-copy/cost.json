@@ -1,0 +1,89 @@
+{
+  "metaTitle": "Generator Overhaul Cost in Nigeria: What Drives the Price",
+  "metaDescription": "Generator overhaul cost in Nigeria is set by scope, set rating, core condition, craneage, outage window, spares lead times and FX. Book a plant assessment.",
+  "h1": "Generator Overhaul Cost in Nigeria",
+  "heroSub": "A straight account of what actually moves the number on a diesel or gas generator overhaul, and why a defensible figure comes from strip and measurement rather than a phone call. Based in Lagos, mobilising to plants in Rivers, Delta, FCT, Kaduna and Kano States.",
+  "introHtml": "<p>There is no single price for a generator overhaul in Nigeria, and any page that gives you one is guessing. The same nameplate rating can carry a spread wide enough to wreck a budget line, because scope, the condition found at strip, parts specification and import timing each move the figure independently. A set needing a top end overhaul with the crankshaft left in place sits in a different commercial band from the same set with a scored crank, a cracked head and a seized turbocharger.</p><p>What we can set out plainly is what the number depends on, in the order those items move money, so you can build a realistic budget and interrogate any quotation put in front of you. The table below shows the span of each cost driver rather than a price, because the drivers are what a procurement officer can actually verify. A firm figure follows a plant assessment: inspection and measurement against OEM service limits, then a scope of work and bill of quantities you can price line by line.</p>",
+  "costTable": [
+    {
+      "item": "Extent of disassembly",
+      "range": "Major service, through top end work, to full strip and rebuild",
+      "note": "The single largest swing on the final figure."
+    },
+    {
+      "item": "Set rating and engine class",
+      "range": "Under 100 kVA to above 1,500 kVA, 4 to 16 cylinders",
+      "note": "Parts count, crane class and crew size all scale with rating."
+    },
+    {
+      "item": "Condition of the core at strip",
+      "range": "Serviceable core to seized, overheated or water damaged",
+      "note": "Confirmed by measurement, not by looking through the ports."
+    },
+    {
+      "item": "Site access and craneage",
+      "range": "Ground level roll out to rooftop or basement plant room lift",
+      "note": "Rigging and permits can rival mechanical labour on a tight site."
+    },
+    {
+      "item": "Outage window",
+      "range": "Planned window against emergency turnaround",
+      "note": "Compression buys shift work, standby hire and premium freight."
+    },
+    {
+      "item": "Spares availability and lead time",
+      "range": "Ex stock consumables to imported kits at 6 to 16 weeks",
+      "note": "Form M, PAAR and port clearance sit on top of factory lead time."
+    },
+    {
+      "item": "FX exposure on imported content",
+      "range": "Imported portion priced at the rate on the day of order",
+      "note": "Labour is in NGN, parts are not. Validity is short by design."
+    },
+    {
+      "item": "Parts specification",
+      "range": "OEM genuine, OEM equivalent, or reconditioned exchange units",
+      "note": "Fix one specification before comparing bids, or you compare nothing."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Scope: The Four Tiers That Get Called an Overhaul",
+      "html": "<p>Overhaul is a loose word in this market, and it is the main reason two quotations for the same set can differ by a multiple rather than a margin. Before you compare prices, fix which tier you are actually buying and require every bidder to price that same tier. Most of the disputes we are called into on other people's jobs come down to a scope that was never written down.</p><ul><li><strong>Major service:</strong> oils, filters, coolant, belts and hoses, fuel system and injector service, valve clearance reset, battery and charging system check, protection and control verification, load bank test. No pressure parts removed.</li><li><strong>Top end overhaul, in frame:</strong> heads removed, valves, guides and seats reworked or renewed, heads pressure tested and skimmed, liners and pistons assessed in place, rings and shell bearings renewed where the crankshaft measures within limits, turbocharger and injectors serviced or exchanged.</li><li><strong>Full overhaul, out of frame:</strong> engine lifted and stripped to the bare block, crankshaft out for measurement, grinding or renewal, liners renewed, camshaft, gear train and oil pump assessed, deck and main bore alignment checked, full gasket and bearing set, alternator stripped with windings tested and bearings renewed.</li><li><strong>Repower or replacement:</strong> exchange engine or new set, where measured wear, obsolete parts or fuel burn make a rebuild uneconomic once whole life cost is compared honestly.</li></ul><p>Rating and engine class then scale everything inside whichever tier you selected. A 16 cylinder set carries four times the head, piston, liner and bearing count of a small standby unit, needs heavier lifting gear and a larger crew, and its alternator and control gear are separate work packages in their own right. Insist the scope is priced by work package rather than as a lump sum, so that a variation later is arithmetic instead of a negotiation.</p><p>Where the set sits inside a larger installation, the overhaul decision belongs with the wider maintenance plan rather than on its own. Our <a href=\"/generator-maintenance-nigeria/\">generator maintenance</a> page covers the service regime that stops a rebuilt set arriving back in the same condition, and a <a href=\"/power-plant-audit-nigeria/\">power plant audit</a> establishes condition across the whole plant before capital is committed.</p>"
+    },
+    {
+      "heading": "Condition at Strip, Site Access and Craneage",
+      "html": "<p>Condition is the one driver nobody can price honestly from the outside. Blowby and crankcase pressure, compression readings, oil analysis, exhaust temperature spread and a borescope survey will narrow the range, and we take all of them at assessment. But crankshaft journal ovality and taper, liner bore wear, head deck flatness and main bore alignment are measured with instruments on a stripped engine, and until that measurement exists a firm price is a guess wearing a letterhead.</p><p>Certain histories push condition reliably towards the expensive end, and they are worth flagging at enquiry stage because they change the shape of the quotation. Run to failure operation spreads damage from one component into the block. Coolant loss and overheating warp heads and glaze liners. Prolonged light load running on a diesel set brings wet stacking, bore glazing and a carboned turbocharger and valve train. Adulterated fuel takes out injectors and pumps together, and flood or water ingress turns a mechanical job into a rewind and a full electrical strip.</p><p>Access is the driver that surprises procurement most often. A set in a basement or rooftop plant room, a containerised unit in a tight yard, a doorway narrower than the engine or a site with no crane hardstand all convert a routine lift into a rigging exercise with permits, road closure and possibly night working attached. On constrained sites in <a href=\"/turbine-services-lagos/\">Lagos</a> and <a href=\"/turbine-services-port-harcourt/\">Port Harcourt</a> the rigging line can approach the mechanical labour line, which is why we survey access before pricing rather than after.</p><p>That survey also settles whether the work is done in situ or the unit comes to a workshop. Workshop rebuild gives better cleanliness control, proper measurement and a testable result, but adds rigging, transport, reinstatement and standby cover for the transit period. In situ work saves that logistics cost and is often right for a large set, provided the plant room can be sealed, lit and kept clean enough to open an engine in.</p>"
+    },
+    {
+      "heading": "Outage Window, Spares Lead Times and FX Exposure",
+      "html": "<p>The outage window sets the price of the same labour twice over. Planned work, with spares landed and staged before the crew mobilises, is executed on day rates in normal hours. Emergency work buys the identical scope with shift working, weekend rates, air freight in place of sea freight and hired standby capacity while the set is down. The comparison worth making is not overhaul cost against overhaul cost, but the premium for emergency execution against your own cost of unplanned downtime per hour.</p><p>Spares are the item most likely to move your programme, and therefore your cost. Consumables and common filtration are generally available in country. Overhaul kits, liners and piston sets, crankshafts and crank kits, turbocharger cartridges, AVRs, exciter and rotating diode assemblies and control cards are imported. Plan on roughly 6 to 16 weeks for imported kits once factory lead time, Form M and PAAR processing, shipping and clearance at Apapa, Tin Can or Onne are counted, and longer again on older or obsolete engine families where parts are built to order.</p><p>Currency exposure then sits on top of the whole parts scope. Labour, consumables, transport and site facilities are incurred in NGN, while the imported content is priced against the rate on the day the order is placed rather than the day of enquiry, which is why serious quotations for imported items carry a validity measured in days rather than months. We recommend three controls: split the quotation so local NGN scope and FX exposed imported scope are visible as separate totals, agree the reference rate and its source in the contract, and release the long lead parts order against confirmed scope as early as the assessment allows.</p><p>Parts specification is the last variable, and the one most often used to make a number look better than it is. OEM genuine, OEM equivalent from a named manufacturer, and reconditioned exchange units are three different commercial propositions with three different service lives. Any of them can be the right answer for a given machine and duty, but the specification has to be fixed and stated on every bid before the prices mean anything.</p>"
+    },
+    {
+      "heading": "How a Firm Number Is Built: Assessment, Scope and Bill of Quantities",
+      "html": "<p>We do not issue a price against a phone description of a fault, because a number produced that way is either padded for the worst case or destined to arrive back as variations. The route to a defensible figure starts with a plant assessment. We capture nameplate and control data, hours run, service and fault history and the actual load profile, then take instrument readings: oil analysis, blowby and crankcase pressure, compression, exhaust temperature spread, insulation resistance and winding tests on the alternator, and a borescope survey where access allows.</p><p>Where the assessment points to top end or full overhaul, the strip is carried out under an agreed inspection scope so measurement replaces assumption. You then receive an inspection report giving measured values against OEM service limits, a scope of work split into confirmed and contingent items, a bill of quantities listing parts by part number and origin, a programme with spares delivery shown on the critical path, and a pre agreed rate for work found at strip. That is the document set a purchase order can actually be raised against.</p><p>When you compare bids, normalise them before you read the totals. Confirm every bidder priced the same tier of work, the same parts specification, the same test regime including load bank verification, the same handover records and the same warranty terms. A lower figure that quietly omits alternator work, leaves the parts origin unstated or drops load testing is not a lower figure, it is a smaller scope.</p><p>The same discipline applies across the rest of the plant. Turbine driven capacity is covered on our <a href=\"/steam-turbine-overhaul-nigeria/\">steam and gas turbine overhaul</a> page, driven machines in the same train under <a href=\"/rotating-equipment-services-nigeria/\">rotating equipment services</a>, and we mobilise from Lagos to plants in <a href=\"/turbine-services-warri/\">Warri</a>, <a href=\"/turbine-services-abuja/\">Abuja</a>, <a href=\"/turbine-services-kaduna/\">Kaduna</a> and <a href=\"/turbine-services-kano/\">Kano</a>. To get a number you can defend in procurement, book a plant assessment or request a technical proposal on +234 803 000 0000 or info@axiompower.com.ng.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How much does a generator overhaul cost in Nigeria?",
+      "a": "We will not publish a headline figure, because the honest answer is that it depends on scope, set rating, the condition measured at strip, parts specification and import timing, and those move the total independently of each other. A major service on a mid sized standby set and a full out of frame rebuild of the same machine are different orders of cost, and the difference is decided by measurement rather than by nameplate. What we do commit to is a bill of quantities that lists every part and labour item separately, so the figure can be checked line by line. Book a plant assessment and you get that document rather than a lump sum."
+    },
+    {
+      "q": "How long will the set be out of service?",
+      "a": "Site time and total downtime are two different numbers, and it is the second one that hurts. Mechanical work on a top end overhaul is typically a matter of days once parts are on site, while a full out of frame rebuild with alternator work and load bank testing runs materially longer. The controlling item is almost always spares: imported kits commonly need 6 to 16 weeks once factory lead time, Form M and PAAR processing, shipping and port clearance are counted. This is why we build the programme backwards from parts delivery and arrange standby cover for the window rather than promising dates the supply chain cannot support."
+    },
+    {
+      "q": "Should we overhaul or replace the set?",
+      "a": "Compare whole life cost rather than capital cost. Take the measured rebuild cost including alternator and controls, the expected service life at your actual load profile and fuel quality, the fuel burn of the rebuilt unit against a current model, and the availability and price trend of spares for that engine family. Where parts are obsolete or built to order, or where measurement shows the block, crankshaft or main bore alignment is beyond economic recovery, replacement or an exchange engine usually wins even at a higher day one figure. We set both options out with figures in the technical proposal so the decision is documented rather than argued."
+    },
+    {
+      "q": "How long is a quoted price valid, given exchange rate movement?",
+      "a": "Local scope in NGN, meaning labour, consumables, transport and site facilities, can be held for a normal commercial period. Imported content is different: it is priced against the rate on the day the order is placed, so that portion carries a validity measured in days rather than months. We split the quotation so you can see the FX exposed portion as a separate total, we state the reference rate and its source, and we recommend releasing long lead parts against confirmed scope early rather than holding the order while the rate moves. That way the exposure is visible and managed instead of appearing later as a variation."
+    },
+    {
+      "q": "What do you need from us to issue a technical proposal?",
+      "a": "Send the nameplate data for the engine, alternator and controller, hours run and the service history if it is held, the fault or symptom with any alarm and shutdown records, your typical and peak load, fuel source and quality, and photographs of the set and its access route. Site access matters as much as the machine, so tell us the plant room location, doorway and hatch dimensions and whether a crane can reach a hardstand. From there we run a plant assessment, and you receive an inspection report with measured values against service limits, a scope of work, a bill of quantities, a programme with spares on the critical path and a pre agreed rate for anything found at strip."
+    }
+  ]
+}

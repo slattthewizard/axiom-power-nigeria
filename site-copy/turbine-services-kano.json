@@ -1,0 +1,59 @@
+{
+  "slug": "turbine-services-kano",
+  "city": "Kano",
+  "metaTitle": "Turbine and Generator Services Kano | Axiom Power Services",
+  "metaDescription": "Turbine overhaul, generator maintenance and rotating equipment services for Kano plants and industrial estates. Book a plant assessment on +234 803 000 0000",
+  "h1": "Turbine and Generator Services in Kano",
+  "heroSub": "Kano industry runs its production hours on captive power, not on the grid. We overhaul and maintain the generators, turbines and rotating equipment behind the tanneries, mills and processing lines in Bompai, Sharada, Challawa and Dakata.",
+  "introHtml": "<p>Kano is the largest manufacturing and commercial centre in northern Nigeria, and almost every plant in it treats grid supply as a supplement rather than a baseline. Tanneries in Challawa and Sharada, flour and food processing lines in Bompai, textile and plastics plants around Dakata, and the agro-processing yards handling groundnut, sesame and hides and skins all run their production hours on captive generation. That makes the generator hall a process asset rather than a standby asset, and it changes how the equipment has to be maintained.</p><p>We deliver <a href=\"/generator-maintenance-nigeria/\">generator maintenance</a>, <a href=\"/steam-turbine-overhaul-nigeria/\">steam and gas turbine overhaul</a> and <a href=\"/rotating-equipment-services-nigeria/\">rotating equipment services</a> to industrial sites across Kano State from our Lagos base. Kano carries a heavy installed base of medium and high capacity sets with very few providers able to strip, measure and rebuild one properly, so a lot of plant here is being kept alive by parts changing rather than engineering. Every scope we quote begins with measurement: load profile, running hours, oil and coolant condition, vibration signature and thermal survey, then a written proposal with defined work content and a fixed outage window.</p>",
+  "services": [
+    {
+      "title": "Diesel generator overhaul and top end repair",
+      "desc": "Top end and full overhauls on sets from 250 kVA to 2.5 MVA that carry the long daily runs normal for Kano industry. We work to running hours and oil analysis results rather than the calendar, because a set on 16 hours a day reaches a 12,000 hour overhaul point in well under three years."
+    },
+    {
+      "title": "Planned maintenance and condition monitoring contracts",
+      "desc": "Scheduled visits covering oil and coolant sampling, vibration readings, load bank testing and thermographic checks on alternators, breakers and busbars. Dust loading in Kano means filter, breather and radiator intervals here are shorter than the OEM figures written for temperate installations."
+    },
+    {
+      "title": "Steam and gas turbine overhaul",
+      "desc": "Combustion and hot gas path inspections, rotor and blade assessment, bearing and seal work and full major overhauls, including the back pressure steam turbines found on boiler equipped textile, tannery and food processing plants. We also assess dual fuel and CNG readiness as gas supply moves north."
+    },
+    {
+      "title": "Rotating equipment, pumps and drive trains",
+      "desc": "Laser shaft alignment, dynamic balancing, bearing and seal replacement and gearbox repair on process pumps, boiler feed sets, air compressors, blowers, dryers and tannery drum drives. Misalignment, bearing failure and dust ingress are the failure modes we are called to most often on Kano production lines."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Captive generation is the primary supply for Kano industry",
+      "html": "<p>Kano sits in the KEDCO distribution franchise, and industrial users across the estates plan their shifts around available generation rather than around the feeder. Most plants are sized to run full production on their own sets, with a second unit for redundancy, which means the equipment is on prime duty and not standby duty. A set running 16 hours a day, six days a week, accumulates close to 5,000 running hours in a year, so it passes through service intervals three to five times faster than a standby unit on the same nameplate.</p><p>Prime duty in this environment produces a predictable set of failures. Injector fouling and turbocharger deterioration on poor quality diesel, liner glazing and wet stacking where a large set spends long periods below 40 percent of rating, and alternator insulation degradation where a plant runs unbalanced single phase loads across three phases. Load bank testing and a corrected load profile fix most of that, and it is cheaper than the top end rebuild that follows if it is ignored.</p><p>The cost that matters is not the repair. It is the tannery drum line, the mill or the extruder standing idle while a crankshaft is measured. That is why we scope the work in advance and agree the outage window before mobilising, rather than opening an engine and then discovering what it needs.</p>"
+    },
+    {
+      "heading": "Harmattan dust, ambient heat and site derating in Kano",
+      "html": "<p>Kano sits at roughly 470 metres above sea level, and ambient temperatures through the March to May period regularly sit above 40 degrees Celsius. Both facts move the site rating of your plant away from the nameplate figure. Under the ISO 3046 and ISO 8528 correction rules, altitude and intake air temperature together can remove a meaningful slice of available output, which is how a plant that believes it holds 20 percent spare capacity finds itself running flat out at peak load.</p><p>The harmattan compounds it. From November to February the north easterly carries fine dust that loads air filters, blinds radiator and intercooler cores, packs alternator windings and shows up as silica in oil analysis. Air filter differential pressure has to be monitored rather than assumed, pre-cleaners and cyclonic stages need to be specified properly, and turbine inlet filtration on gas machines needs a staged arrangement with a realistic replacement plan. Radiator core cleaning intervals in Kano should be indexed to the season, not fixed once a year.</p><p>Combine a derated site rating with a fouled cooling pack and the result is high exhaust gas temperature, reduced load acceptance and shortened component life. A <a href=\"/power-plant-audit-nigeria/\">power plant audit</a> measures the real headroom, the real specific fuel consumption and the real thermal margins, so that any decision on a new set or an overhaul is made on data from your own site.</p>"
+    },
+    {
+      "heading": "Spares, mobilisation and outage planning for a Kano site",
+      "html": "<p>Kano is roughly 1,000 kilometres by road from Lagos, and there is no specialist turbine and rotating equipment provider in the city to fall back on. That distance dictates the method: nothing gets diagnosed on arrival. We carry out a site survey first, take clearances, bearing readings, oil samples and photographs of the nameplates and running gear, then issue a technical proposal with a defined parts list, labour content and a fixed window before any engineer travels.</p><p>The job is kitted in Lagos and moved as one consignment, with critical wear items, gaskets, bearings, seals and consumables included rather than ordered mid outage. Where lead times on OEM parts are long, we say so in the proposal and offer exchange or refurbished options with the trade offs written out, so procurement can compare like with like. Engineers fly into Mallam Aminu Kano International Airport while heavy freight and tooling move by road ahead of them.</p><p>We plan Kano visits alongside our <a href=\"/turbine-services-kaduna/\">Kaduna</a> coverage where schedules allow, which shortens mobilisation for planned maintenance contracts on the northern corridor. Indicative ranges for overhauls and maintenance contracts are set out on our <a href=\"/generator-turbine-maintenance-cost/\">maintenance cost page</a>. To start, book a plant assessment and we will return a written technical proposal.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "Are you based in Kano, or do you travel in from Lagos?",
+      "a": "Our engineering base is Lagos and we serve Kano State as a covered region, with work planned rather than improvised. Planned maintenance visits are scheduled in advance and often batched along the Kaduna and Kano corridor to keep mobilisation efficient. For breakdown response, engineers can fly into Mallam Aminu Kano International Airport at short notice while tooling and heavy spares move by road, which is why we hold agreed critical spares lists for contract sites."
+    },
+    {
+      "q": "How should harmattan change our service intervals in Kano?",
+      "a": "Treat the November to February period as a separate maintenance season rather than applying one annual schedule. Air filter changes should be driven by measured differential pressure, radiator and intercooler cores should be inspected and cleaned more frequently, and oil sampling should be read for silica and soot rather than only for hours in service. On gas turbines, inlet filtration staging and compressor washing frequency both need reviewing before the dust season begins."
+    },
+    {
+      "q": "What does a generator overhaul cost for a Kano plant?",
+      "a": "A top end overhaul on a 500 kVA class set typically falls between NGN 4,500,000 and NGN 9,000,000 (about USD 2,800 to USD 5,600) depending on parts condition and whether the head assemblies are rebuilt or exchanged. Mobilisation of a crew and tooling from Lagos to Kano generally adds NGN 350,000 to NGN 900,000 (about USD 220 to USD 560), which reduces materially when the visit is scheduled with other northern work. Turbine overhauls are quoted only after inspection, because scope depends on hot section and rotor condition. Figures are indicative and confirmed in a written proposal after a site survey."
+    },
+    {
+      "q": "Should we wait for pipeline gas before investing in new generation in Kano?",
+      "a": "The Ajaokuta to Kaduna to Kano pipeline is under construction and CNG is already being trucked to northern industrial users, so fuel flexibility is a live commercial question in Kano rather than a theoretical one. The practical answer depends on your load factor, current diesel spend and how long your existing sets can safely run. We assess whether your installed sets are candidates for dual fuel conversion, whether a gas engine or gas turbine makes sense at your load profile, and what the whole life cost looks like against continuing on diesel, then put the comparison in writing."
+    }
+  ]
+}

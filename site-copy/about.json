@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About Axiom Power Services | Turbine Overhaul in Nigeria",
+  "metaDescription": "How Axiom Power Services scopes, diagnoses and controls turbine overhaul and generator maintenance work across Nigeria. Lagos based. Call +234 803 000 0000.",
+  "h1": "About Axiom Power Services",
+  "heroSub": "A Lagos based engineering contractor working on steam and gas turbines, industrial generating sets and rotating equipment in Lagos, Rivers, FCT, Kaduna, Delta and Kano States. We scope from measured condition, work to written hold points and hand machines back documented.",
+  "storyHtml": "<p>Axiom Power Services is an engineering contractor based in Lagos, working on steam and gas turbines, industrial generating sets and the pumps, gearboxes, fans and compressors that sit in the same trains. Our engineers mobilise to plants in <a href=\"/turbine-services-lagos/\">Lagos</a>, <a href=\"/turbine-services-port-harcourt/\">Port Harcourt</a>, <a href=\"/turbine-services-warri/\">Warri</a>, <a href=\"/turbine-services-abuja/\">Abuja</a>, <a href=\"/turbine-services-kaduna/\">Kaduna</a> and <a href=\"/turbine-services-kano/\">Kano</a>. The work itself is the unglamorous end of power generation: outage execution, condition assessment, clearance restoration, alignment, balancing and recommissioning.</p><p>The plant we are usually called to has run well past its inspection window. History files are incomplete, clearance sheets from the last outage cannot be found, the vibration data stops at a monitor that was never trended, and the spares that were listed two outages ago were never ordered. That is the normal starting position in Nigerian industry, and a contractor who cannot work from it is of no use to a maintenance manager. So we begin by establishing what the machine is actually doing rather than what the manual says it should be doing.</p><p>Diagnosis comes before disassembly. Operating hours, trip and start counts, first stage and stage to stage pressures, heat rate drift, bearing metal temperatures, lube oil analysis and a borescope survey tell us whether the loss of output is deposits on the blading, solid particle erosion at the HP nozzles, moisture erosion in the last LP stages, worn gland and interstage seals, a condenser pulling air, or a fault that is not in the turbine at all. On generating sets the same discipline applies to load bank behaviour, exhaust temperature spread, blow by, coolant and oil condition, alternator insulation resistance and polarisation index. Naming the failure mode before opening the machine is what keeps an outage from becoming an open ended discovery exercise.</p><p>Quality control is written down or it did not happen. Work runs to agreed hold points, as found and as left clearances go on signed sheets, NDT results and balance data are recorded against the component they belong to, and vibration acceptance is judged against ISO 20816 and the OEM or API criteria for the machine rather than the feel of a bearing housing. Every job closes with a dossier that the next engineer can plan from: clearance records, alignment figures, inspection reports, spares consumed and a fresh baseline. If you want the condition of a unit established before you commit to any scope, start with a <a href=\"/power-plant-audit-nigeria/\">power plant audit</a>, then request a technical proposal on info@axiompower.com.ng or +234 803 000 0000.</p>",
+  "values": [
+    {
+      "title": "Condition First, Scope Second",
+      "desc": "We do not price a scope from a machine description and a phone call. Operating hours, trip and start history, vibration trends, stage pressures, oil analysis and a borescope survey come first, and the scope of work is written against what that data shows. Where records are missing, a plant assessment establishes the baseline before anything is quoted."
+    },
+    {
+      "title": "A Scope Priced Line by Line",
+      "desc": "Each proposal carries a scope of work, a bill of quantities, an outage bar chart with float shown, a manpower schedule and a pre agreed rate for work found during disassembly. A procurement officer can compare it against a competing submission item by item instead of weighing two lump sums. When a wiped thrust pad or a cracked disc rim is found mid outage, it is priced against the agreed rate rather than stalling the job while commercial terms are reopened."
+    },
+    {
+      "title": "Acceptance Against Published Limits",
+      "desc": "Clearances are restored to drawing, alignment is confirmed cold and verified hot with thermal growth allowances applied, and vibration is accepted against ISO 20816 and the OEM or API criteria applicable to the machine. As found and as left figures are recorded and signed at each hold point, including the ones that are within tolerance. Handover is a dossier of clearance sheets, NDT reports, balance data and a fresh vibration baseline, not a verbal sign off at the gate."
+    },
+    {
+      "title": "Lead Times Planned, Not Discovered",
+      "desc": "Blading, diaphragms, bearing sets and rotor repairs are manufactured items with a production queue in front of them, and Form M, PAAR and port clearance sit on top of that. We split the work into confirmed, probable and contingency scope so long lead items are ordered against the first two categories months before the window opens. Consumables, gaskets, fasteners, seal strips and bearing spares are held at site before the crew mobilises so no day of downtime is spent waiting on a courier."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What equipment do you work on, and where do you operate?",
+      "a": "Steam and gas turbines, industrial and standby generating sets, and the rotating equipment in the same trains, including pumps, gearboxes, fans, blowers and compressors. The core services are <a href=\"/steam-turbine-overhaul-nigeria/\">turbine overhaul</a>, <a href=\"/generator-maintenance-nigeria/\">generator maintenance</a>, <a href=\"/power-plant-audit-nigeria/\">plant audits</a> and <a href=\"/rotating-equipment-services-nigeria/\">rotating equipment services</a>. We are based in Lagos and mobilise to plants in Lagos, Rivers, FCT, Kaduna, Delta and Kano States."
+    },
+    {
+      "q": "How do you scope work on a machine with no maintenance history?",
+      "a": "We rebuild the history from the machine itself. Nameplate and general arrangement data, operating hour and trip counters, stage pressures and heat rate against design, bearing temperatures, lube oil analysis, alternator insulation testing and a borescope survey give a condition picture without opening the unit. From there the scope is issued in three parts, confirmed work, probable work and contingency, so you can commit a purchase order against the confirmed portion and hold priced cover for the rest."
+    },
+    {
+      "q": "What do we receive at handover?",
+      "a": "A close out dossier covering as found and as left clearances, NDT and inspection reports, alignment figures, balance data, protection and overspeed trip test results, spares consumed and a fresh vibration and performance baseline. Photographs are indexed against the component and stage they were taken at, so the record is usable at the next outage rather than decorative. The dossier also carries our recommended inspection interval and the spares to order ahead of it, with indicative budgets set out on our <a href=\"/generator-turbine-maintenance-cost/\">turbine and generator maintenance cost</a> page."
+    }
+  ]
+}

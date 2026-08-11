@@ -1,0 +1,74 @@
+{
+  "slug": "generator-maintenance-nigeria",
+  "metaTitle": "Industrial Generator Maintenance | Axiom Power Services",
+  "metaDescription": "Industrial generator maintenance in Nigeria: service contracts, overhauls, AVR faults and load bank testing. Request a technical proposal on +234 803 000 0000.",
+  "h1": "Industrial Generator and Genset Maintenance in Nigeria",
+  "heroSub": "Preventive maintenance contracts, top end and major overhauls, AVR and control fault diagnosis and load bank testing for diesel and gas gensets. Based in Lagos, mobilising to Rivers, FCT, Kaduna, Delta and Kano States.",
+  "introHtml": "<p>Industrial generator maintenance in Nigeria is not housekeeping, it is capacity assurance. Where grid supply is unreliable, the genset carries the plant rather than backing it up, and it runs a duty cycle the original design assumed would be occasional. We maintain diesel and gas gensets from 100 kVA to multi megawatt sets across factories, processing plants, banks, hospitals, hotels and telecom facilities, covering scheduled servicing, top end and major overhauls, AVR and control faults, load bank testing, fuel systems and cooling.</p><p>The work is driven by measured condition rather than calendar habit. Every engagement opens with running hour data, oil and coolant sample results, the site load profile and a physical inspection of engine, alternator and control panel, so the scope you approve reflects the actual state of the set. You receive a written scope, parts list, outage window and price before any spanner is lifted, and where the wider power system is in question we start with a <a href=\"/power-plant-audit-nigeria/\">power plant audit</a>.</p>",
+  "features": [
+    {
+      "title": "Preventive Maintenance Contracts",
+      "desc": "Scheduled visits tied to running hours with a calendar backstop, typically 250 and 500 hour service points and a 1,000 to 1,500 hour major inspection. Each visit closes with a signed report, oil analysis result and a list of items trending toward failure."
+    },
+    {
+      "title": "Top End and Major Overhauls",
+      "desc": "Cylinder head, valve train, injector and turbocharger work at top end, through to liner, piston, bearing shell and crankshaft attention at major overhaul. Scope is set by compression, blow by and oil analysis data rather than by guesswork on hours alone."
+    },
+    {
+      "title": "AVR, Governor and Control Faults",
+      "desc": "We trace voltage hunting, over voltage trips, load rejection faults and failure to build residual to the actual source, whether AVR, exciter, sensing circuit, actuator or controller. Panel wiring, ATS logic and protection settings are checked as one system."
+    },
+    {
+      "title": "Load Bank Testing",
+      "desc": "Resistive load bank testing at 25, 50, 75 and 100 percent steps proves the set will accept its rated block load and clears the effects of prolonged light running. Voltage, frequency, exhaust temperature, coolant temperature and fuel burn are logged at every step."
+    },
+    {
+      "title": "Fuel and Cooling Systems",
+      "desc": "Fuel quality is the largest single cause of unplanned genset failure on Nigerian sites. We handle bulk tank cleaning, water and microbial contamination, filtration and polishing, injection system service, radiator recoring, thermostats and coolant chemistry."
+    },
+    {
+      "title": "Black Start and Standby Readiness",
+      "desc": "Where the genset carries critical load we verify start batteries and chargers, air start pressure, fuel priming, ATS transfer timing and first attempt start reliability over repeated cold starts. Findings are issued as a readiness report your operations team can work to."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What an Industrial Generator Maintenance Contract Covers",
+      "html": "<p>A maintenance contract should state intervals, tasks, parts and response obligations in writing, not in general terms. Ours is built on running hours with a calendar backstop, because a bank branch set at 400 hours a year and a factory set at 4,000 hours a year cannot share one schedule.</p><ul><li><strong>250 running hours or 3 months:</strong> lube oil and filter change, fuel filter renewal, air filter check, belt tension, battery and charger condition, leak inspection and an on load run.</li><li><strong>500 running hours:</strong> the above plus coolant chemistry and top up, air filter renewal, hose and clamp inspection, alternator bearing check and control panel function check.</li><li><strong>1,000 to 1,500 running hours:</strong> valve lash adjustment, injector spray pattern test, turbocharger shaft play check, spectrographic oil analysis and a thermographic scan of alternator terminals, breaker and panel busbars.</li><li><strong>6,000 to 8,000 running hours:</strong> top end overhaul window for most medium speed industrial sets, confirmed by compression and blow by readings.</li><li><strong>12,000 to 18,000 running hours:</strong> major overhaul window, subject to oil analysis trend, oil consumption rate and crankcase pressure.</li></ul><p>Intervals vary by manufacturer and by duty. Where OEM documentation is available we follow it and state so in the contract; where a set has been rebuilt or the plate data is gone, we set intervals from condition data and revise them after two service cycles.</p>"
+    },
+    {
+      "heading": "Failure Modes We See on Nigerian Industrial Gensets",
+      "html": "<p>Most emergency call outs trace back to a small number of repeat causes. Nearly all of them are visible months in advance to anyone reading the service data, which is the argument for a contract rather than a repair budget.</p><ul><li><strong>Wet stacking from prolonged light load.</strong> Diesel sets held below roughly 30 percent of rating glaze the bores, foul injectors and pass unburnt fuel into the exhaust, which shows as oil at the stack, black smoke and lost output.</li><li><strong>Fuel contamination.</strong> Water ingress, sediment and microbial growth in bulk tanks block filters, erode injectors and stall sets under load. Tank cleaning and a polishing regime cost a fraction of an injection pump.</li><li><strong>Cooling system neglect.</strong> Blocked radiator cores, weak or plain water coolant, failed thermostats and slipping belts raise cylinder head temperature and produce cracked heads and gasket failure.</li><li><strong>AVR and excitation faults.</strong> Voltage hunting, over voltage trips and loss of residual magnetism are usually a failed AVR, a broken sensing lead or a damaged exciter rectifier, not a dead alternator.</li><li><strong>Starting system neglect.</strong> Sulphated batteries and failed chargers are the most common reason a mechanically healthy set does not answer a mains outage.</li><li><strong>Deferred top end work.</strong> Rising oil consumption, crankcase pressure and falling compression are ignored until a valve drops or a liner scores, turning a top end job into a major overhaul.</li></ul><p>We trend these through oil analysis, compression testing, thermography and load test records so the deterioration is priced into a planned outage instead of arriving as a shutdown. Where the driven plant is also in question, our <a href=\"/rotating-equipment-services-nigeria/\">rotating equipment services</a> cover the pumps, gearboxes and compressors around the set.</p>"
+    },
+    {
+      "heading": "Load Bank Testing, Black Start and Standby Assurance",
+      "html": "<p>Sites carrying critical load, hospitals, data rooms, bank operations centres and telecom facilities, need proof the set will accept load, not just proof it will start. A monthly no load exercise proves very little and actively damages a diesel engine over time.</p><p>A full resistive load bank test runs the set through 25, 50, 75 and 100 percent of rated output, holding at least one hour at full load, with readings logged every 15 minutes: voltage and frequency at each step, exhaust gas temperature per bank, coolant and lube oil temperature, alternator winding temperature and fuel consumption. Where transient performance matters we also test block load acceptance and voltage and frequency recovery time against the performance classes in ISO 8528-5. The output is a signed test record stating the capacity the set actually delivered, any derating found and the corrective work required.</p><p>Black start assurance goes further. For plants that must start on genset before restoring the wider system, we verify battery bank capacity under cranking load, air start pressure and receiver capacity, day tank and priming arrangements, ATS transfer time and first attempt start success over repeated cold starts. On sites where a genset backs a turbine installation, the same records feed the outage plan for <a href=\"/steam-turbine-overhaul-nigeria/\">steam and gas turbine overhaul</a>.</p>"
+    },
+    {
+      "heading": "Scope, Lead Times and What Goes Into the Purchase Order",
+      "html": "<p>Procurement cannot raise an order against a verbal estimate. Our proposals carry line item scope, part numbers where the OEM is known, labour hours, mobilisation, outage window and payment milestones, priced in Naira with a USD equivalent shown for comparison.</p><ul><li><strong>Preventive maintenance contract, 250 to 500 kVA:</strong> NGN 1,800,000 to NGN 3,500,000 per unit per year (about USD 1,150 to USD 2,250) for four scheduled visits with oil, filters and consumables included.</li><li><strong>Top end overhaul, 500 kVA class:</strong> NGN 9,000,000 to NGN 18,000,000 (about USD 5,800 to USD 11,600), 5 to 8 working days on site once parts are in hand.</li><li><strong>Major overhaul, 1 MVA class:</strong> NGN 35,000,000 to NGN 70,000,000 (about USD 22,500 to USD 45,000), 3 to 5 weeks on site depending on findings.</li><li><strong>Resistive load bank test, up to 1,000 kVA:</strong> NGN 850,000 to NGN 1,600,000 (about USD 550 to USD 1,000) per set per test, report included.</li><li><strong>AVR replacement and commissioning:</strong> NGN 450,000 to NGN 2,200,000 (about USD 290 to USD 1,400) depending on alternator make and controller integration.</li></ul><p>Ranges assume a rate near NGN 1,550 to the dollar and move with it. Imported OEM parts typically run 4 to 8 weeks from order to Lagos before Form M, PAAR and port clearance are counted, so we confirm the parts list from inspection first and book the outage window only when critical items are in country. A fuller breakdown sits on our <a href=\"/generator-turbine-maintenance-cost/\">generator and turbine maintenance cost</a> page.</p><p>Mobilisation is quoted from Lagos as a separate line item, with routes and spares logistics into <a href=\"/turbine-services-lagos/\">Lagos</a>, <a href=\"/turbine-services-port-harcourt/\">Port Harcourt</a>, <a href=\"/turbine-services-abuja/\">Abuja</a>, <a href=\"/turbine-services-kaduna/\">Kaduna</a>, <a href=\"/turbine-services-warri/\">Warri</a> and <a href=\"/turbine-services-kano/\">Kano</a>. To begin, book a plant assessment or request a technical proposal on info@axiompower.com.ng or +234 803 000 0000.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often should an industrial generator be serviced in Nigeria?",
+      "a": "Service on running hours with a calendar backstop: a minor service at 250 hours or every 3 months, a fuller service at 500 hours, and a major inspection with oil analysis at 1,000 to 1,500 hours. A factory set running 8 hours a day reaches 250 hours in about five weeks, so the hour meter and not the calendar must drive the schedule. Dusty inland sites and coastal locations normally need air and fuel filter intervals shortened by about a third."
+    },
+    {
+      "q": "What does a generator maintenance contract cost in Nigeria?",
+      "a": "For a 250 to 500 kVA industrial set, expect NGN 1,800,000 to NGN 3,500,000 per unit per year (about USD 1,150 to USD 2,250) covering four scheduled visits with oil, filters and consumables. Sets above 1 MVA and multi unit sites are priced per unit against a site rate, and mobilisation outside Lagos is a separate line. We issue a fixed price contract after a plant assessment rather than a rate card, because run hours and set condition move the figure more than kVA does."
+    },
+    {
+      "q": "How long does a generator overhaul take and how much downtime should we plan?",
+      "a": "A top end overhaul on a 500 kVA class set takes 5 to 8 working days on site, and a major overhaul on a 1 MVA set takes 3 to 5 weeks. The larger variable is parts: imported OEM components typically take 4 to 8 weeks to land before clearance, so we confirm the parts list from inspection and only book the outage window when the critical items are in country. Sites with a second set or a rental bridge normally keep production running throughout."
+    },
+    {
+      "q": "Why does our standby generator smoke and pass oil into the exhaust?",
+      "a": "That is wet stacking, caused by running a diesel engine below roughly 30 percent of rated load for extended periods. Unburnt fuel and soot glaze the cylinder bores and collect in the exhaust, which cuts output, fouls injectors and forces an early top end overhaul. The correction is a resistive load bank exercise at 75 to 100 percent load for at least one hour, followed by either a permanent change in load allocation or right sizing the set."
+    },
+    {
+      "q": "Do you cover sites outside Lagos, and how is that handled?",
+      "a": "Yes. We mobilise from Lagos to Rivers, FCT, Kaduna, Delta and Kano States, covering Port Harcourt, Warri, Abuja, Kaduna and Kano. Mobilisation, travel and per diem are quoted as separate line items so procurement can see them before the order is raised. For contract sites outside Lagos we batch scheduled visits across units and hold an agreed critical spares list at site to keep response times inside the contract."
+    }
+  ]
+}

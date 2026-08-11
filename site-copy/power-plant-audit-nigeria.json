@@ -1,0 +1,74 @@
+{
+  "slug": "power-plant-audit-nigeria",
+  "metaTitle": "Power Plant Audit Nigeria: Roadmap | Axiom Power Services",
+  "metaDescription": "Power plant audit Nigeria: turbine, generator, C&I and auxiliary condition evaluation, root cause analysis and a costed roadmap. Call +234 803 000 0000.",
+  "h1": "Power Plant Audit Nigeria: Turbine, Generator and Auxiliary Diagnostics",
+  "heroSub": "Independent condition evaluation of your generating plant, from steam path and drive train to generator, excitation and controls. You receive a written report with a prioritised, costed rehabilitation roadmap.",
+  "introHtml": "<p>Axiom Power Services carries out a full <strong>power plant audit in Nigeria</strong> for owners and operators who need an evidence based answer to one question: repair, refurbish or replace. We evaluate the complete turbine-generator train, the steam path, the drive train, the auxiliaries, the control and instrumentation system, and the generator and excitation equipment, then set what we find against measured performance rather than opinion. The deliverable is a written condition report with a prioritised rehabilitation roadmap and NGN costs attached to each option.</p><p>The audit is built for a technical buyer who has to defend a spend. Every finding is traced to a mechanism, graded by its risk to the next run period, and closed out with a scope of work, an outage duration and a spares list with lead times. Our engineers work from Lagos and mobilise across Rivers, FCT, Kaduna, Delta and Kano States, and the same reporting format applies whether the asset is a single 2 MW steam turbine or a multi-unit captive plant.</p>",
+  "features": [
+    {
+      "title": "Full Turbine-Generator Condition Evaluation",
+      "desc": "We assess the complete train from steam or gas inlet through to generator terminals, covering rotor condition, journal and thrust bearings, seals, casing distortion and alignment history. Findings are graded by risk to the next run period instead of being listed flat."
+    },
+    {
+      "title": "Steam Path and Blading Inspection",
+      "desc": "Borescope inspection, and direct inspection where the unit is open, of nozzles, blading, shrouds and labyrinth seals. We look specifically for solid particle erosion, silica and sodium deposit build-up, wet steam erosion on the last stages and clearance loss from historic rubs."
+    },
+    {
+      "title": "Drive Train and Rotating Equipment",
+      "desc": "Vibration data capture with phase analysis, laser shaft alignment checks, coupling condition, gearbox tooth contact and bearing wear pattern review. Unbalance, misalignment, bearing wiping and looseness are separated rather than lumped together as high vibration."
+    },
+    {
+      "title": "Auxiliaries and Balance of Plant",
+      "desc": "Lube oil system, coolers, condenser or radiator, feedwater, fuel handling, gland steam and instrument air are checked for the faults that actually take units off line. Oil analysis covers particle count to ISO 4406, water content and varnish potential."
+    },
+    {
+      "title": "Generator, Excitation and Protection Review",
+      "desc": "Insulation resistance and polarisation index, winding resistance, endwinding and slot wedge tightness, slip ring or brushless exciter condition and AVR behaviour under load. Rotor interturn faults and failed rotating diodes are identified before they turn into a rewind."
+    },
+    {
+      "title": "Root Cause Analysis and Costed Options",
+      "desc": "Where a unit trips repeatedly, we work the event and trend data back to a mechanism instead of replacing parts by elimination. Each conclusion closes with a scoped remedy and an NGN cost so the roadmap converts directly into a purchase order."
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What a Power Plant Audit Covers",
+      "html": "<p>The audit is structured as five workstreams so that nothing is assessed in isolation. A worn labyrinth seal, a fouled cooler and a drifting vibration probe produce very different symptoms but can all present as the same nuisance trip, and the only way to tell them apart is to look at the whole plant in one pass.</p><ul><li><strong>Steam path and hot section:</strong> nozzle and blade condition, deposit and erosion mapping, shroud and tenon cracking, seal clearances against original build data, casing joint condition. Findings here feed directly into a <a href=\"/steam-turbine-overhaul-nigeria/\">steam turbine overhaul</a> scope.</li><li><strong>Drive train:</strong> vibration signature and phase, alignment, coupling and gearbox condition, bearing clearances and wear pattern, rotor bow and run-out. This is assessed under our <a href=\"/rotating-equipment-services-nigeria/\">rotating equipment services</a> methodology.</li><li><strong>Auxiliaries:</strong> lube oil condition and cleanliness, cooler and condenser performance, air ingress, feed pump and fuel system condition, valve stroking and stiction.</li><li><strong>Control and instrumentation:</strong> governor response and droop settings, overspeed protection proof test status, trip valve function, thermocouple and proximity probe calibration, protection relay settings and coordination.</li><li><strong>Generator and excitation:</strong> stator and rotor insulation condition, core and wedge integrity, exciter and AVR performance, earthing and neutral arrangement, load capability against nameplate.</li></ul><p>Site work is carried out with the plant in whatever state it is in. Much of the data set is captured with the unit running, which is deliberate: running data on vibration, temperatures, pressures and load response tells you more about a machine than a stripped inspection alone, and it costs you no production.</p>"
+    },
+    {
+      "heading": "Root Cause Analysis on Repeat Trips and Forced Outages",
+      "html": "<p>Repeat trips are the most expensive fault class in a Nigerian plant because they are usually treated as a parts problem. A unit trips on high vibration, a bearing is replaced, the trip returns in six weeks, and by the third attempt the plant has spent more on unplanned work than a full audit would have cost. In most cases the mechanism is not the part that was replaced.</p><p>We reconstruct the fault from the evidence that already exists on site: trip logs and sequence of events, load and temperature trends before each event, oil analysis history, and the maintenance record for the affected system. That is then correlated with measured data we capture during the visit. Common outcomes include proximity probe gap voltage drift reading as genuine vibration, low lube oil pressure trips traced to a duplex filter changeover or a failed pressure switch rather than the pump, reverse power trips from governor droop mis-setting, and over-temperature trips caused by cooler fouling rather than winding degradation.</p><p><strong>The report states the mechanism, the evidence for it, and the test that would disprove it.</strong> Where the evidence is not sufficient to close out a cause, we say so and specify what monitoring or testing would settle it, rather than filling the gap with a guess that leads you into unnecessary spend.</p>"
+    },
+    {
+      "heading": "Heat Rate Assessment and What Degradation Is Costing You",
+      "html": "<p>Condition is only half the picture. A machine can be mechanically sound and still be burning money, and for most captive plants in Nigeria the fuel bill dwarfs the maintenance budget. We measure heat rate and specific fuel consumption against the design figure, then convert the deviation into an annual NGN number so the case for intervention is financial, not technical.</p><p>The arithmetic is usually decisive. On a 5 MW diesel fired plant running 6,000 hours a year at a specific fuel consumption of 0.24 litres per kWh and a diesel price of NGN 1,300 per litre, a 2 percent heat rate deviation is roughly NGN 187 million (about USD 121,000) of avoidable fuel every year. Steam path fouling and seal clearance loss on an unattended industrial steam turbine will commonly account for 3 to 5 percent, so the recovery from a single properly scoped overhaul often exceeds its own cost inside one operating year.</p><p>Measurement covers fuel flow, air and exhaust conditions, flue gas composition, steam pressures and temperatures at each available tapping, condenser or radiator performance, and electrical output logged at the terminals. Where instrumentation on site is not trustworthy, we say which readings we do not accept and use portable equipment instead. Full pricing structure is set out on our <a href=\"/generator-turbine-maintenance-cost/\">maintenance cost page</a>.</p>"
+    },
+    {
+      "heading": "Repair or Replace: The Prioritised Rehabilitation Roadmap",
+      "html": "<p>The roadmap is the part of the audit that a procurement officer actually uses. Findings are ranked into three bands: work that must be done before the next run period, work that can be deferred to the next planned outage with defined monitoring in the interim, and work that is economically justified but not condition driven. Each band carries an NGN cost, an outage duration and a spares requirement.</p><p>For a repair versus replace decision we cost both routes side by side and include the figures a whole-life comparison needs: rehabilitation cost, expected life extension, residual heat rate after the work, replacement capital cost, and the difference in annual fuel and maintenance spend. Imported spares carry realistic lead times, typically 8 to 16 weeks for turbine and generator components, which is often the constraint that decides an outage date rather than the engineering itself.</p><p>You receive the condition report, a findings register with photographic and instrument records, the costed roadmap, a spares list with part numbers where nameplate data allows, and a recommended inspection interval schedule. Ongoing execution is available through our <a href=\"/generator-maintenance-nigeria/\">generator maintenance programmes</a>, with field teams reaching plants from <a href=\"/turbine-services-lagos/\">Lagos</a>, <a href=\"/turbine-services-port-harcourt/\">Port Harcourt</a>, <a href=\"/turbine-services-abuja/\">Abuja</a>, <a href=\"/turbine-services-kaduna/\">Kaduna</a>, <a href=\"/turbine-services-warri/\">Warri</a> and <a href=\"/turbine-services-kano/\">Kano</a>. Request a technical proposal to see the full scope and reporting format before you commit.</p>"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does a power plant audit take?",
+      "a": "Site work runs 3 to 5 days for a single turbine-generator set and 8 to 12 days for a multi-unit plant, depending on how much of the data set can be captured with units running. A draft report follows within 10 working days of demobilisation and the final report with the costed roadmap within 15. Where a unit is already down and open, inspection can usually be folded into the existing outage without extending it."
+    },
+    {
+      "q": "What does a power plant audit cost in Nigeria?",
+      "a": "A single unit condition audit runs from NGN 3,500,000 to NGN 8,000,000 (about USD 2,300 to USD 5,200) depending on machine size, whether electrical testing is included and how much historical data exists. Plant-wide audits covering multiple generating units start at NGN 15,000,000 (about USD 9,700). Mobilisation outside Lagos is quoted separately and confirmed in the technical proposal before any work begins."
+    },
+    {
+      "q": "Do we have to shut the plant down for the audit?",
+      "a": "Most of the assessment is done with the plant running, including vibration, thermography, performance and heat rate measurement, oil sampling and control system observation. Borescope inspection of the steam path requires the unit off and cooled, typically 12 to 24 hours, and generator electrical testing requires the machine isolated for 6 to 8 hours. We schedule both into an existing outage window wherever your operating plan allows it."
+    },
+    {
+      "q": "How often should a generating plant be audited?",
+      "a": "We recommend a performance and condition baseline once a year, then inspection tied to running hours. Industrial steam turbines typically take a borescope inspection every 8,000 to 16,000 operating hours and a major overhaul at 50,000 to 60,000 equivalent operating hours or every 6 to 8 years, whichever comes first. Gas turbines run to roughly 8,000 EOH for combustion inspection and 24,000 EOH for hot gas path, while medium speed diesel sets are usually majored between 20,000 and 30,000 running hours."
+    },
+    {
+      "q": "What do we receive that supports a purchase order?",
+      "a": "You receive a condition report, a findings register ranked by risk with photographic and instrument evidence against each item, a prioritised rehabilitation roadmap with NGN costs and USD equivalents, an estimated outage duration per scope item, and a spares list with part numbers and lead times. Options are costed separately so you can approve work in phases rather than as a single block. If you want the scope reviewed before committing, book a plant assessment and we will walk your team through the format first."
+    }
+  ]
+}

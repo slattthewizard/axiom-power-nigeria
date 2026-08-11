@@ -1,0 +1,6 @@
+# Axiom Power Services — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://axiompower.com.ng/sitemap-index.xml

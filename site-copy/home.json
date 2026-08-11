@@ -1,0 +1,146 @@
+{
+  "metaTitle": "Steam Turbine Overhaul in Nigeria | Axiom Power Services",
+  "metaDescription": "Steam turbine overhaul, gas turbine inspection, generator maintenance and rotating equipment services across Nigeria. Site survey, scope and written proposal.",
+  "heroH1": "Steam Turbine Overhaul, Turbine and Generator Services in Nigeria",
+  "heroSub": "Axiom Power Services overhauls steam and gas turbines, maintains industrial generators and corrects rotating equipment faults for plants operating in Lagos, Rivers, FCT, Kaduna, Delta and Kano States. Send an enquiry and an engineer discusses the machine, the symptoms and your outage window before anything is quoted, then we arrange a site survey and put the scope and cost in writing.",
+  "introKicker": "Turbine, generator and rotating equipment engineering",
+  "introHeading": "Every Scope Starts With Measurement, Not With a Parts List",
+  "tilesHeading": "What Is Taking Your Plant Off Load?",
+  "tiles": [
+    {
+      "img": "service-1",
+      "label": "Steam and Gas Turbine Overhaul",
+      "href": "/steam-turbine-overhaul-nigeria/",
+      "alt": "Steam turbine rotor lifted out of its casing during a major overhaul"
+    },
+    {
+      "img": "service-2",
+      "label": "Industrial Generator Maintenance",
+      "href": "/generator-maintenance-nigeria/",
+      "alt": "Engineer servicing a containerised industrial diesel generator at a factory"
+    },
+    {
+      "img": "service-3",
+      "label": "Vibration, Alignment and Balancing",
+      "href": "/rotating-equipment-services-nigeria/",
+      "alt": "Laser shaft alignment being carried out on a pump and motor coupling"
+    },
+    {
+      "img": "service-4",
+      "label": "Power Plant Audit and Condition Survey",
+      "href": "/power-plant-audit-nigeria/",
+      "alt": "Engineers reviewing plant load and fuel data during a power plant audit"
+    },
+    {
+      "img": "tile-1",
+      "label": "Gas Turbine Tripping Under Load",
+      "href": "/blog/gas-turbine-trip-causes/",
+      "alt": "Control room screen showing a gas turbine trip alarm during loading"
+    },
+    {
+      "img": "tile-2",
+      "label": "Generator Will Not Reach Rated Output",
+      "href": "/blog/generator-low-output-causes/",
+      "alt": "Generator control panel showing output well below the rated kVA"
+    },
+    {
+      "img": "tile-3",
+      "label": "Dust Fouling and Harmattan Derating",
+      "href": "/blog/harmattan-dust-turbine-derating/",
+      "alt": "Dust laden turbine air intake filters removed for inspection"
+    },
+    {
+      "img": "tile-4",
+      "label": "Overhaul the Machine or Replace It?",
+      "href": "/blog/turbine-overhaul-vs-replacement/",
+      "alt": "Maintenance manager comparing overhaul and replacement options on a written proposal"
+    }
+  ],
+  "serviceCards": [
+    {
+      "title": "Steam & Gas Turbine Overhaul",
+      "desc": "Combustion, hot gas path and major inspections on industrial gas turbines, plus rotor, diaphragm, gland and bearing work on back pressure and condensing steam sets. Borescope findings, clearance readings and torque records are handed over with the machine so the next window can be planned from data.",
+      "href": "/steam-turbine-overhaul-nigeria/"
+    },
+    {
+      "title": "Industrial Generator Maintenance",
+      "desc": "Scheduled servicing, AVR and governor tuning, synchronising and protection checks, and load bank testing for diesel and gas sets from a few hundred kVA up to synchronised multi megawatt banks. We correct the wet stacking, injector fouling and cooling losses that come from long hours at low load.",
+      "href": "/generator-maintenance-nigeria/"
+    },
+    {
+      "title": "Rotating Equipment Services",
+      "desc": "Vibration surveys, laser shaft alignment, field and workshop balancing, and bearing, seal and coupling replacement on pumps, compressors, fans, blowers and gearboxes. Faults are traced to a cause and a measurement rather than replaced part by part until the symptom goes quiet.",
+      "href": "/rotating-equipment-services-nigeria/"
+    },
+    {
+      "title": "Power Plant Audit and Plant Assessment",
+      "desc": "A structured survey of generation and load profile, fuel burn per kWh, redundancy gaps, protection settings and deferred maintenance across the site. You receive a written condition register and a costed intervention plan your procurement team can act on.",
+      "href": "/power-plant-audit-nigeria/"
+    }
+  ],
+  "whyUs": [
+    {
+      "title": "Diagnosis Before Scope",
+      "desc": "Vibration data, borescope images, clearance readings and operating records decide the work list before a single part is ordered. That keeps you from paying for a major inspection when a hot gas path inspection would have carried the machine to the next window."
+    },
+    {
+      "title": "Work Planned Around Your Outage Window",
+      "desc": "Scopes are built backwards from the date your plant can afford to be down, with critical path items, spares lead times and hold points identified in advance. Where the window is too tight for the full scope, we say so in writing and propose what is safely deferrable."
+    },
+    {
+      "title": "Spares and Lead Times Stated Up Front",
+      "desc": "Long lead items such as bearings, seals, nozzles, diaphragms and control components are listed with expected delivery times in the proposal. You see which items decide the schedule and which can be released later without holding the job."
+    },
+    {
+      "title": "Records You Can Hand to the Next Engineer",
+      "desc": "Every job closes with as found and as left readings, torque and clearance records, replaced part lists and recommended inspection intervals. The file supports your maintenance plan, insurer questions and future budget submissions."
+    }
+  ],
+  "processSteps": [
+    {
+      "step": "1",
+      "title": "Enquiry and Technical Discussion",
+      "desc": "You tell us the machine class, rating, running hours, symptoms and the outage window you are working towards. An engineer goes through operating data, trip history and previous inspection reports with your maintenance team before any figure is discussed."
+    },
+    {
+      "step": "2",
+      "title": "Site Survey and Scope Definition",
+      "desc": "We attend site to take vibration readings, borescope the machine where access allows, check alignment, protection settings and auxiliaries, and confirm condition against your records. The output is a defined scope of work with the findings that justify each line item."
+    },
+    {
+      "step": "3",
+      "title": "Written Proposal and Execution",
+      "desc": "You receive a technical proposal in Naira setting out scope, spares with lead times, manpower, duration and hold points, so it can be compared line by line against other bids. On award we mobilise to the agreed window and close out with full inspection and handover records."
+    }
+  ],
+  "whyHeading": "Capability Across the Whole Rotating Train, From Turbine Hall to Genset House",
+  "aboutBlurb": "<p>Axiom Power Services is a Lagos based turbine and rotating equipment outfit serving industrial and commercial plants across Nigeria. Our engineers work on back pressure and condensing steam turbines, industrial and aeroderivative gas turbines, diesel and gas generator sets, and the pumps, compressors, fans and gearboxes coupled to them. The work is deliberately narrow: <a href=\"/steam-turbine-overhaul-nigeria/\">turbine overhaul</a>, <a href=\"/generator-maintenance-nigeria/\">generator maintenance</a> and <a href=\"/rotating-equipment-services-nigeria/\">rotating equipment correction</a>, carried out by people who spend their time on machines rather than on general electrical contracting.</p><p>Most of the plants we are called into are not failing because of machine age. They are failing because duty cycles have drifted far from what the original maintenance plan assumed, because grid instability turns standby sets into prime movers, and because dust, fuel quality and humidity load the machine in ways the manual never priced in. A <a href=\"/power-plant-audit-nigeria/\">power plant audit</a> puts numbers on that drift, and our <a href=\"/generator-turbine-maintenance-cost/\">cost guidance</a> shows how scope, spares and downtime combine into the figure you eventually approve.</p>",
+  "areaBlurb": "<p>We mobilise from Lagos to industrial sites across six states, and our hub pages set out the duty conditions, common failure modes and access constraints we meet in each. Work is covered in <a href=\"/turbine-services-lagos/\">Lagos</a> across the Ikeja, Agbara, Ikorodu and Apapa belts, in <a href=\"/turbine-services-port-harcourt/\">Port Harcourt</a> and the Rivers State oil and gas corridor, in <a href=\"/turbine-services-abuja/\">Abuja</a> and the FCT, in <a href=\"/turbine-services-kaduna/\">Kaduna</a>, in <a href=\"/turbine-services-warri/\">Warri</a> and Delta State, and in <a href=\"/turbine-services-kano/\">Kano</a> where harmattan dust loading drives much of the derating we are asked to correct. Sites outside these states are considered case by case, based on machine class, duration and access.</p>",
+  "contactBlurb": "Send your enquiry with the machine details and an engineer will call to go through symptoms, running hours and your target outage window, then agree a date for a site survey or plant assessment. After the survey you receive a written technical proposal covering scope, spares and lead times, manpower, duration and cost in Naira, which you can take straight to procurement.",
+  "faq": [
+    {
+      "q": "Which turbines and generators do you work on?",
+      "a": "Back pressure and condensing steam turbines running alongside boiler plant, industrial and aeroderivative gas turbines, and diesel and gas generator sets from a few hundred kVA up to synchronised multi megawatt banks. We also cover the driven and auxiliary equipment on the same train, including pumps, centrifugal and screw compressors, ID and FD fans, blowers and gearboxes. If you send the make, model, rating and running hours with your enquiry, we will confirm before a site visit whether the machine sits inside our scope."
+    },
+    {
+      "q": "How does pricing and scoping work?",
+      "a": "Nothing is priced before the machine is assessed, because scope is what drives cost on rotating equipment. A site survey or plant assessment establishes condition, and the resulting proposal separates mobilisation, manpower and duration, spares and consumables with lead times, and any specialist services such as balancing or machining, each priced in Naira so lines can be compared against other bids. As an indication, a single machine plant assessment typically falls in the 1.2 million to 3.5 million Naira band (roughly 800 to 2,300 US dollars) depending on machine class, location and how much historical data exists, while overhaul cost is governed by inspection level and parts condition. Our turbine and generator maintenance cost guide explains how those elements build up."
+    },
+    {
+      "q": "What are your response and lead times?",
+      "a": "Enquiries are answered the same working day and an engineer will normally speak with your maintenance team within 24 hours to establish urgency. Site surveys in Lagos are typically arranged within a week, and within one to two weeks for Rivers, FCT, Kaduna, Delta and Kano depending on access and permit requirements. The written proposal follows within five to seven working days of the survey. Execution dates depend mainly on spares: consumables and common bearings move quickly, while nozzles, diaphragms, blading and control components can carry lead times of several weeks, which is why long lead items are flagged in the proposal rather than discovered mid outage."
+    },
+    {
+      "q": "Can the work be completed inside our planned outage window?",
+      "a": "That is decided at the survey stage, not on the day of mobilisation. We build the scope backwards from your window, identify the critical path and the hold points, and confirm whether the full work list fits or whether it should be split across two outages. Where the window is genuinely too short, we will say so in writing and propose the safe subset plus the items that can be deferred with a defined inspection interval."
+    },
+    {
+      "q": "Do you supply spares, or do we procure them ourselves?",
+      "a": "Either arrangement works and both are priced transparently. Where we supply, the proposal lists each item, its specification and its expected lead time, so you can see which parts decide the schedule. Where your procurement team prefers to buy directly, we issue the specifications and drawings needed to order correctly and review what arrives before it goes near the machine."
+    },
+    {
+      "q": "What documentation do we receive at the end of a job?",
+      "a": "A handover file containing as found and as left readings, vibration and alignment data, borescope observations where taken, clearance and torque records, the list of parts replaced and parts returned, and any deviations agreed during the work. It closes with recommended inspection intervals and a watch list of items to monitor before the next window. That file is written to support your maintenance plan, budget submissions and technical queries from insurers or lenders."
+    }
+  ]
+}
