@@ -2,8 +2,8 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "has": [{ "type": "host", "value": "www.axiompower.com.ng" }],
-      "destination": "https://axiompower.com.ng/$1",
+      "has": [{ "type": "host", "value": "www.axiompowerng.com" }],
+      "destination": "https://axiompowerng.com/$1",
       "statusCode": 308
     },
     { "source": "/sitemap.xml", "destination": "/sitemap-index.xml", "statusCode": 301 }

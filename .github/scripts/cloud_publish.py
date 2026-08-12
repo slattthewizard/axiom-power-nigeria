@@ -188,7 +188,7 @@ def convert_and_write(draft_path, output_path, publish_date, slug):
     subtitle = extract_subtitle(body)
     body = clean_body_links(body)
     faq = extract_faq(body)
-    canonical = f'https://axiompower.com.ng/blog/{slug}/'
+    canonical = f'https://axiompowerng.com/blog/{slug}/'
 
     lines = ['---']
     lines.append(f'title: {escape_yaml(title)}')

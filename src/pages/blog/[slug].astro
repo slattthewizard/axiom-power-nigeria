@@ -14,12 +14,12 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const { Content } = await post.render();
 
-const canonical = post.data.canonical ?? `https://axiompower.com.ng/blog/${post.slug}/`;
+const canonical = post.data.canonical ?? `https://axiompowerng.com/blog/${post.slug}/`;
 const heroImg = fs.existsSync(`public/images/blog/${post.slug}.webp`)
   ? `/images/blog/${post.slug}.webp`
   : null;
 const ogImage = post.data.ogImage
-  ?? (heroImg ? `https://axiompower.com.ng${heroImg}` : 'https://axiompower.com.ng/images/og-image.webp');
+  ?? (heroImg ? `https://axiompowerng.com${heroImg}` : 'https://axiompowerng.com/images/og-image.webp');
 const title = post.data.metaTitle ?? post.data.title;
 const navTitle = post.data.navTitle ?? post.data.title;
 const faq = post.data.faq ?? [];
@@ -28,8 +28,8 @@ const breadcrumbSchema = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://axiompower.com.ng/" },
-    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://axiompower.com.ng/blog/" },
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://axiompowerng.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Blog", "item": "https://axiompowerng.com/blog/" },
     { "@type": "ListItem", "position": 3, "name": post.data.title, "item": canonical }
   ]
 });
@@ -44,12 +44,12 @@ const articleSchema = JSON.stringify({
   "mainEntityOfPage": { "@type": "WebPage", "@id": canonical },
   "datePublished": post.data.publishedDate,
   "dateModified": post.data.updatedDate ?? post.data.publishedDate,
-  "author": { "@type": "Organization", "name": "Axiom Power Services", "url": "https://axiompower.com.ng/about/" },
+  "author": { "@type": "Organization", "name": "Axiom Power Services", "url": "https://axiompowerng.com/about/" },
   "publisher": {
     "@type": "Organization",
     "name": "Axiom Power Services",
-    "url": "https://axiompower.com.ng",
-    "logo": { "@type": "ImageObject", "url": "https://axiompower.com.ng/images/og-image.webp" }
+    "url": "https://axiompowerng.com",
+    "logo": { "@type": "ImageObject", "url": "https://axiompowerng.com/images/og-image.webp" }
   }
 });
 

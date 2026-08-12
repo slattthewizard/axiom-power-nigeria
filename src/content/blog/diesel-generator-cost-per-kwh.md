@@ -8,7 +8,7 @@ secondaryKeywords: "cost of running a diesel generator in nigeria, generator fue
 publishedDate: "2026-08-12"
 tag: "Generators"
 subtitle: "Two factories on the same industrial estate, both running 500 kVA sets, both buying diesel from the same haulier at the same price, can be paying N330 and N560 for an identical kilowatt hour."
-canonical: "https://axiompower.com.ng/blog/diesel-generator-cost-per-kwh/"
+canonical: "https://axiompowerng.com/blog/diesel-generator-cost-per-kwh/"
 faq:
   - question: "What is a realistic diesel generator running cost per kWh in Nigeria today?"
     answer: "For a well maintained set held at reasonable load, expect roughly N320 to N450 per kWh all in, or about $0.21 to $0.29 at N1,550 to the dollar. A lightly loaded or poorly maintained set will sit between N500 and N670. The figure is highly sensitive to your delivered diesel price and your average load factor, so rebuild it with your own numbers rather than adopting a published one."

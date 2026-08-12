@@ -8,7 +8,7 @@ secondaryKeywords: "turbine overhaul vs replacement, turbine replacement cost Ni
 publishedDate: "2026-08-12"
 tag: "Turbines"
 subtitle: "A 6 MW industrial gas turbine trips on high exhaust temperature spread at 2am. By the time the covers come off you are looking at a burnt through transition piece, first stage tip rub and a rotor..."
-canonical: "https://axiompower.com.ng/blog/turbine-overhaul-vs-replacement/"
+canonical: "https://axiompowerng.com/blog/turbine-overhaul-vs-replacement/"
 faq:
   - question: "How many hours before a turbine needs a major overhaul?"
     answer: "For industrial gas turbines the common interval is 24,000 to 32,000 equivalent operating hours between majors, with combustion inspections around 8,000 hours and hot gas path inspections near the midpoint. Equivalent hours matter more than clock hours, because every start and every trip adds a factored penalty. Steam turbines in clean service often run longer, but water chemistry history changes that significantly. Your OEM manual and your own trip log should set the interval, not a rule of thumb."

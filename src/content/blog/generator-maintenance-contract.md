@@ -8,7 +8,7 @@ secondaryKeywords: "generator O&M agreement Nigeria, diesel generator servicing 
 publishedDate: "2026-08-12"
 tag: "Generators"
 subtitle: "A 220-bed private hospital in Lagos lost its duty 500 kVA set on a Friday evening because a fuel filter had been left in service for 900 hours on a 500-hour interval."
-canonical: "https://axiompower.com.ng/blog/generator-maintenance-contract/"
+canonical: "https://axiompowerng.com/blog/generator-maintenance-contract/"
 faq:
   - question: "How much should a generator maintenance contract cost in Nigeria?"
     answer: "For a single 500 kVA prime-rated set at around 4,000 running hours a year, preventive maintenance typically falls between NGN 5.4m and 7.6m annually, while comprehensive O&M with a parts cap sits between NGN 11m and 16m. Fuel, major overhaul and rental cover are normally excluded. The figure moves with engine family, site access, running hours and the exchange rate, so any quote should be built from your asset schedule rather than a rate card."
