@@ -1,1 +1,1 @@
-Publish blog post: gas-turbine-vs-diesel-generator
+Publish blog post: generator-load-bank-testing
