@@ -81,7 +81,8 @@
   },
   {
     "draft": "drafts/harmattan-dust-turbine-derating-2026-08-11.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-25T15:43:44.692338Z"
   },
   {
     "draft": "drafts/plant-downtime-cost-per-hour-2026-08-12.md",
