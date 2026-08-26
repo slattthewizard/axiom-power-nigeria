@@ -86,7 +86,8 @@
   },
   {
     "draft": "drafts/plant-downtime-cost-per-hour-2026-08-12.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-26T16:18:52.578376Z"
   },
   {
     "draft": "drafts/simple-cycle-vs-combined-cycle-2026-08-12.md",
