@@ -91,7 +91,8 @@
   },
   {
     "draft": "drafts/simple-cycle-vs-combined-cycle-2026-08-12.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-28T00:16:58.914533Z"
   },
   {
     "draft": "drafts/steam-turbine-high-vibration-2026-08-12.md",
