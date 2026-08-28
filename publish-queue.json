@@ -96,7 +96,8 @@
   },
   {
     "draft": "drafts/steam-turbine-high-vibration-2026-08-12.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-08-28T23:53:24.354412Z"
   },
   {
     "draft": "drafts/turbine-bearing-babbitt-failure-2026-08-12.md",
