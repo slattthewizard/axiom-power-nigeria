@@ -7,7 +7,7 @@ primaryKeyword: "gas turbine vs diesel generator"
 secondaryKeywords: "diesel generator vs gas turbine, gas engine vs diesel generator, gas turbine part load efficiency, industrial generator selection Nigeria"
 publishedDate: "2026-08-19"
 tag: "Turbines"
-subtitle: "A 2.5 MW simple cycle gas turbine on a Lagos industrial estate ran at an average of 41 percent load for eleven months of the year, and the plant manager could not work out why his cost per unit was..."
+subtitle: "Suppose a 2.5 MW simple cycle gas turbine averages 41 percent load for most of the year, and the plant manager cannot work out why the cost per unit is nearly double what the feasibility study..."
 canonical: "https://axiompowerng.com/blog/gas-turbine-vs-diesel-generator/"
 faq:
   - question: "Is a gas turbine always more efficient than a diesel generator?"
@@ -19,7 +19,7 @@ faq:
   - question: "Can we convert an existing diesel generator to run on gas?"
     answer: "Dual fuel conversion is possible on some engine families, and it can displace a share of the diesel with gas while keeping compression ignition. Full conversion to a spark ignited gas engine is a different matter and is rarely economic on an existing diesel block. The decision depends on the engine make, its remaining life, gas composition and pressure at the site, so it needs an inspection and an engine specific assessment before any figure is quoted."
 ---
-A 2.5 MW simple cycle gas turbine on a Lagos industrial estate ran at an average of 41 percent load for eleven months of the year, and the plant manager could not work out why his cost per unit was nearly double what the feasibility study promised. Nothing was broken. The machine was simply being asked to do the one thing it does worst.
+Suppose a 2.5 MW simple cycle gas turbine averages 41 percent load for most of the year, and the plant manager cannot work out why the cost per unit is nearly double what the feasibility study promised. Nothing is broken. The machine is simply being asked to do the one thing it does worst.
 
 That is the argument buried inside every gas turbine vs diesel generator comparison. Nameplate efficiency is one point on a curve. What actually sets your cost per kWh over five years is how the machine behaves at the loads you really run, how it absorbs step changes, and how often it must come off line for inspection.
 
@@ -35,7 +35,7 @@ The third is start time and start cost. A diesel set carries load in seconds. A 
 
 The fourth is derating. Ambient temperature, altitude, humidity and inlet air quality all remove output, and they remove far more from a turbine than from a reciprocating engine. In Kaduna or Kano during harmattan, this is not a rounding error.
 
-If you are specifying plant now, get the load profile logged at one minute resolution for at least two normal production weeks before anyone quotes a machine. [Request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000) and we will scope the measurement first and the equipment second.
+If you are specifying plant now, get the load profile logged at one minute resolution for at least two normal production weeks before anyone quotes a machine. [Request a technical proposal](/#contact) and we will scope the measurement first and the equipment second.
 
 ## Gas turbine vs diesel generator: the part-load penalty decides most cases
 
@@ -61,7 +61,7 @@ Gas engines are also sensitive to gas quality. Methane number, wobbe index varia
 
 ## The comparison table: what each technology costs to run
 
-The figures below assume automotive gas oil at NGN 1,200 per litre (about USD 0.77) and pipeline gas at NGN 550 per standard cubic metre (about USD 0.35). Verify both against your own supply contract before you use these numbers in a business case, because fuel pricing moves faster than equipment selection cycles.
+The figures below assume automotive gas oil at NGN 1,200 per litre (about USD 0.77) and pipeline gas at NGN 550 per standard cubic metre (about USD 0.35). Treat both as placeholders to replace with your own delivered price before using this table in a business case, because fuel pricing moves faster than equipment selection cycles.
 
 | Characteristic | Diesel generator (0.5 to 2 MW) | Gas engine (0.5 to 4 MW) | Simple cycle gas turbine (1 to 10 MW) |
 | --- | --- | --- | --- |
@@ -81,19 +81,19 @@ Note the last row. A small gas turbine typically loses between 0.5 and 0.9 perce
 
 Equivalent operating hours matter too. Turbine inspection intervals are counted in equivalent hours, where each start can count as anything from 10 to 20 running hours depending on the frame and the start profile. A peaking duty turbine reaches its hot gas path inspection far sooner than its calendar hours suggest, which we explain in [turbine inspection intervals](/blog/turbine-inspection-intervals/).
 
-## Three site scenarios and what the numbers looked like
+## Three scenarios and what the numbers look like
 
-**A flour mill on the Lagos to Ibadan corridor.** Connected load 3.2 MW, measured average demand 1.9 MW across two shifts, roughly 6,000 running hours per year. The site had a 2.5 MW simple cycle turbine selected on peak demand rather than on the load duration curve.
+**Worked example (hypothetical): a mid-sized site on a two-shift pattern.** Connected load 3.2 MW, measured average demand 1.9 MW across two shifts, roughly 6,000 running hours per year. The site has a 2.5 MW simple cycle turbine selected on peak demand rather than on the load duration curve.
 
-Measured gas consumption came out at about 0.43 standard cubic metres per kWh, or NGN 237 per kWh (USD 0.15). Two 1.2 MW gas engines in lead and lag configuration would run near 0.25 SCM per kWh, or NGN 138 per kWh. Across 11.4 million kWh a year that is a fuel saving on the order of NGN 1.1 billion (about USD 710,000), against an installed capex in the region of NGN 1.6 billion to 2.2 billion for the engine plant. The turbine remains useful as standby and for the peak shift.
+Measured gas consumption comes out at about 0.43 standard cubic metres per kWh. Two 1.2 MW gas engines in lead and lag configuration would run near 0.25 SCM per kWh, roughly 40 percent less gas for the same output. Across 11.4 million kWh a year that gap is a substantial fuel saving, and it needs to be weighed against the capital cost of the engine plant using [our cost guide](/generator-turbine-maintenance-cost/) or a proposal scoped to the site. The turbine remains useful as standby and for the peak shift.
 
-**A cold store and packing operation in Port Harcourt.** Peak demand 850 kW, overnight refrigeration base load about 300 kW, served by two 1,000 kVA diesel sets. At night one set was carrying roughly 33 percent load for eight to ten hours.
+**Worked example (hypothetical): a site with a steady overnight base load.** Peak demand 850 kW, overnight base load about 300 kW, served by two 1,000 kVA diesel sets. At night one set carries roughly 33 percent load for eight to ten hours.
 
-Specific fuel consumption at that load measured near 0.34 litres per kWh against 0.27 at three quarter load. That difference costs about NGN 84 per kWh, or roughly NGN 92 million a year (about USD 59,000) on night running alone, before counting the injector fouling and early top end work the wet stacking was causing. A 350 kW night set at NGN 38 million to 55 million installed pays back inside a year and takes the large sets out of a duty they were never suited to. Sizing logic is set out in the [generator sizing guide](/blog/generator-sizing-guide/).
+Specific fuel consumption at that load measures near 0.34 litres per kWh against 0.27 at three quarter load, a real fuel penalty on night running alone, before counting the injector fouling and early top end work the wet stacking causes. A correctly sized smaller night set typically pays back within a year or two and takes the large sets out of a duty they were never suited to. Sizing logic is set out in the [generator sizing guide](/blog/generator-sizing-guide/).
 
-**A textile plant in Kaduna.** The site needs about 4 tonnes per hour of process steam as well as 2.2 MW of electrical load, continuously. Here the turbine wins, and it is not close.
+**Worked example (hypothetical): a site needing continuous process steam and power.** The site needs about 4 tonnes per hour of process steam as well as 2.2 MW of electrical load, continuously. Here the turbine wins, and it is not close.
 
-Turbine exhaust at roughly 510 °C into a heat recovery steam generator raises fuel utilisation from about 29 percent electrical only to 65 to 72 percent combined. The steam that would otherwise come from a separate gas fired boiler is now nearly free in fuel terms. The condition is that the electrical and steam demands must both be genuinely continuous, and the inlet filtration has to be specified for harmattan conditions, which is a real design item rather than a catalogue option. See [harmattan dust turbine derating](/blog/harmattan-dust-turbine-derating/) for what that season does to compressor fouling.
+Turbine exhaust at roughly 510°C into a heat recovery steam generator raises fuel utilisation from about 29 percent electrical only to 65 to 72 percent combined. The steam that would otherwise come from a separate gas fired boiler is now far cheaper in fuel terms. The condition is that the electrical and steam demands must both be genuinely continuous, and the inlet filtration has to be specified for harmattan conditions, which is a real design item rather than a catalogue option. See [harmattan dust turbine derating](/blog/harmattan-dust-turbine-derating/) for what that season does to compressor fouling.
 
 If your site profile looks like any of these three, [book a plant assessment](/#contact) and we will model the load duration curve against each option before recommending equipment.
 
@@ -113,7 +113,7 @@ Some of this work needs an engineer on site with instruments. Gas path analysis,
 
 For a comparison of running costs on the diesel side specifically, see [diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/).
 
-If you are at the stage of comparing written proposals, [request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000) and we will put the load data, the derating calculation and the maintenance schedule in one document you can hand to procurement.
+If you are at the stage of comparing written proposals, [request a technical proposal](/#contact) and we will put the load data, the derating calculation and the maintenance schedule in one document you can hand to procurement.
 
 ## Frequently Asked Questions
 

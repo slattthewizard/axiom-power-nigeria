@@ -7,7 +7,7 @@ primaryKeyword: "generator not producing rated power"
 secondaryKeywords: "generator low output causes, generator losing power under load, diesel generator derating, generator load bank test, generator kVA vs kW output"
 publishedDate: "2026-08-21"
 tag: "Generators"
-subtitle: "A 1,000 kVA prime set that trips its breaker at 640 kW is not a problem you can budget for next quarter. It is a production ceiling, and on a plant carrying ₦1."
+subtitle: "A 1,000 kVA prime set that trips its breaker at 640 kW is not a problem you can budget for next quarter."
 canonical: "https://axiompowerng.com/blog/generator-low-output-causes/"
 faq:
   - question: "How do I know if my generator is faulty or just correctly derated?"
@@ -19,7 +19,7 @@ faq:
   - question: "Will servicing the generator restore full rated output?"
     answer: "It depends on the cause. Fuel, air, cooling and control faults usually respond fully to corrective work and the set returns to rating. Mechanical wear such as lost compression, worn liners or a failed alternator winding will not be recovered by servicing and needs an overhaul with a planned outage window and a qualified engineer on site. The instrumented test tells you which category you are in before you commit budget."
 ---
-A 1,000 kVA prime set that trips its breaker at 640 kW is not a problem you can budget for next quarter. It is a production ceiling, and on a plant carrying ₦1.9 million of contribution per hour of kiln time it costs more in a fortnight than the repair costs outright. When a generator is not producing rated power, the cause is rarely mysterious. It is fuel, air, cooling, the control and excitation side, or a derate you were always entitled to expect, and those can be separated in one instrumented day on site.
+A 1,000 kVA prime set that trips its breaker at 640 kW is not a problem you can budget for next quarter. On a plant running continuous process load, a ceiling like that can cost several times the repair bill within a couple of weeks of lost throughput. When a generator is not producing rated power, the cause is rarely mysterious. It is fuel, air, cooling, the control and excitation side, or a derate you were always entitled to expect, and those can be separated in one instrumented day on site.
 
 The expensive mistake is skipping diagnosis and going straight to a quotation for a new set. Plants have replaced healthy engines because nobody put a manometer on the turbo inlet.
 
@@ -83,29 +83,29 @@ Record at every step: kW, kVA, power factor, phase voltages and currents, freque
 
 One honest limitation. A purely resistive load bank proves the engine and cooling system but not the alternator's reactive capability. Where plant load is motor heavy, specify a reactive or combined bank so the excitation system is tested at realistic power factor. This needs proper equipment, a competent test engineer on site and a planned outage window.
 
-A tile and sanitaryware plant in Ogun State ran a 1,000 kVA prime set that would not exceed roughly 640 kW against an 800 kW prime rating. Instrumented running found inlet restriction at 10.4 kPa against a 6.2 kPa limit, exhaust back pressure at 9.4 kPa and boost at 0.9 bar against 1.45 bar. The cause was a collapsed filter element plus a silencer heavily sooted from light loading. Filter housing repair, silencer replacement and a turbocharger exchange came to about ₦6.4 million (roughly $4,100), against lost contribution near ₦1.9 million per hour of kiln downtime.
+**Hypothetical example: 1,000 kVA prime set, 800 kW prime rating.** Suppose the machine will not exceed roughly 640 kW. Instrumented running finds inlet restriction at 10.4 kPa against a 6.2 kPa limit, exhaust back pressure at 9.4 kPa and boost at 0.9 bar against 1.45 bar. The cause is a collapsed filter element plus a silencer heavily sooted from light loading. Filter housing repair, silencer replacement and a turbocharger exchange are a small fraction of what the lost output would cost over the same period.
 
-A 60-bed private hospital in Port Harcourt ran two 250 kVA standby sets, one sagging to 47.6 Hz whenever the theatre chillers cut in. The engine was mechanically sound but had averaged 18 percent load for six years and was heavily wet stacked, with a fuel rack never reset after an earlier service. Staged load bank exercise, rack adjustment and injector refurbishment came to about ₦3.2 million (roughly $2,050). No new set was required.
+**Hypothetical example: two 250 kVA standby sets in parallel.** One set sags to 47.6 Hz whenever a large block load engages. The engine is mechanically sound but has averaged 18 percent load for six years and is heavily wet stacked, with a fuel rack never reset after an earlier service. Staged load bank exercise, rack adjustment and injector refurbishment bring it back without a new set being required.
 
-A rice mill in Kano reported a 15 percent shortfall on a 400 kVA set. At 475 metres and a shed temperature of 41 degrees, the derate curve accounted for around 11 percent of it legitimately. The remainder came from a slipping fan belt and a radiator core packed with husk dust, corrected for under ₦700,000 (roughly $450). The balance was a sizing decision, not a fault.
+**Hypothetical example: 400 kVA set, 15 percent shortfall.** At 475 metres and a shed temperature of 41 degrees, the derate curve accounts for around 11 percent of it legitimately. The remainder can trace to a slipping fan belt and a radiator core packed with dust, both straightforward to correct. The balance is a sizing decision, not a fault.
 
-To have your own deficit measured rather than estimated, [book a plant assessment](/#contact) or call [+234 803 000 0000](tel:+2348030000000).
+To have your own deficit measured rather than estimated, [book a plant assessment](/#contact).
 
 ## Repair cost, downtime and the overhaul versus replace decision
 
-Ranges below assume a 500 kVA class diesel set in Nigerian service, with USD converted at approximately ₦1,550 to the dollar. Actual figures depend on engine family, spares availability and lead time, and long lead imported components should be priced separately.
+Figures below assume a 500 kVA class diesel set in Nigerian service. Actual cost depends on engine family, whether parts are stocked locally or imported against lead time, condition found once the item is stripped, and site access. For a costed scope on your own set, see our [maintenance cost guide](/generator-turbine-maintenance-cost/) or [request a technical proposal](/#contact).
 
-| Intervention | Typical scope | Indicative cost (NGN) | USD equivalent | Outage window |
-|---|---|---|---|---|
-| Instrumented diagnostic visit | Full load readings across fuel, air, exhaust, thermal | ₦450,000 to ₦850,000 | $290 to $550 | 1 day |
-| Load bank test, stepped to 100% | 4 hours, resistive or combined | ₦900,000 to ₦1,600,000 | $580 to $1,030 | 1 day |
-| Fuel system service and tank polishing | Filters, separator, 5,000 L polish | ₦1,200,000 to ₦2,800,000 | $775 to $1,800 | 1 to 2 days |
-| Injector refurbishment or replacement | 6 cylinder set, bench tested | ₦2,500,000 to ₦6,500,000 | $1,600 to $4,200 | 2 to 3 days |
-| Turbocharger overhaul or exchange | Including boost pipe and charge air cooler check | ₦3,500,000 to ₦9,000,000 | $2,250 to $5,800 | 2 to 4 days |
-| Cooling system rebuild | Recore, thermostat, belts, ventilation correction | ₦2,000,000 to ₦5,500,000 | $1,300 to $3,550 | 2 to 4 days |
-| AVR and rotating rectifier replacement | With excitation testing | ₦850,000 to ₦2,400,000 | $550 to $1,550 | 1 day |
-| Top end engine overhaul | Heads, valves, injectors, timing | ₦12,000,000 to ₦28,000,000 | $7,700 to $18,000 | 7 to 14 days |
-| Full overhaul plus alternator rewind | Engine and alternator, workshop | ₦35,000,000 to ₦70,000,000 | $22,600 to $45,200 | 3 to 6 weeks |
+| Intervention | Typical scope | What drives the cost | Outage window |
+|---|---|---|---|
+| Instrumented diagnostic visit | Full load readings across fuel, air, exhaust, thermal | Instrumentation and engineer time on site | 1 day |
+| Load bank test, stepped to 100% | 4 hours, resistive or combined | Bank rental, reactive vs resistive capability needed | 1 day |
+| Fuel system service and tank polishing | Filters, separator, 5,000 L polish | Volume polished, contamination severity | 1 to 2 days |
+| Injector refurbishment or replacement | 6 cylinder set, bench tested | Whether injectors are stocked or made to order, engine make | 2 to 3 days |
+| Turbocharger overhaul or exchange | Including boost pipe and charge air cooler check | Exchange unit availability, import lead time | 2 to 4 days |
+| Cooling system rebuild | Recore, thermostat, belts, ventilation correction | Radiator core availability, extent of corrosion found | 2 to 4 days |
+| AVR and rotating rectifier replacement | With excitation testing | Part availability, whether the stator also needs work | 1 day |
+| Top end engine overhaul | Heads, valves, injectors, timing | Condition at strip, parts sourcing, engine family | 7 to 14 days |
+| Full overhaul plus alternator rewind | Engine and alternator, workshop | Scope found at strip, rewind materials, workshop lead time | 3 to 6 weeks |
 
 The decision rule is straightforward. Where the deficit traces to fuel, air, cooling or controls, repair is almost always correct and pays back within one or two months of avoided downtime. Where compression is lost across several cylinders, alternator insulation has failed, or spares are no longer supported in country, the arithmetic shifts toward replacement and lead time becomes the governing risk. The same framework applies to larger rotating plant, set out in [turbine overhaul versus replacement](/blog/turbine-overhaul-vs-replacement/).
 

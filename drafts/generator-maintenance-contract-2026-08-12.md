@@ -7,7 +7,7 @@ secondary_keywords: "generator O&M agreement Nigeria, diesel generator servicing
 
 # Generator Maintenance Contracts in Nigeria: What a Proper O&M Agreement Must Contain
 
-A 220-bed private hospital in Lagos lost its duty 500 kVA set on a Friday evening because a fuel filter had been left in service for 900 hours on a 500-hour interval. The standby set picked up the load, ran for eleven hours on a partially blocked strainer, and dropped out at 02:40. Theatre and cold-chain were on inverters that were never sized for that duration. The maintenance contract in the drawer said "quarterly servicing" and nothing else, so nobody was in breach.
+Picture a facility running critical 24-hour loads that loses its duty 500 kVA set on a Friday evening because a fuel filter has been left in service for 900 hours on a 500-hour interval. The standby set picks up the load, runs for eleven hours on a partially blocked strainer, and drops out at 02:40. Its most critical loads were on inverters that were never sized for that duration. The maintenance contract in the drawer said "quarterly servicing" and nothing else, so nobody was in breach.
 
 That is the real problem with most of what passes for a generator maintenance contract in Nigeria. The document is priced, signed and filed, but it does not define what work is done, at what interval, with what parts, within what response time, or what happens when the set is unavailable. This article sets out the clauses a technical buyer should insist on before signing, and what each tier realistically costs.
 
@@ -56,7 +56,7 @@ Penalties should be proportionate and enforceable. Service credits against the m
 
 This is where a generator O&M agreement is won or lost. Filters and lubricants are usually available in Lagos within days. Injectors, turbochargers, AVRs, ECUs and alternator windings for less common engine families are not.
 
-A 750 kVA prime-rated set at a rice mill in the North West lost output over three weeks and was eventually traced to four failed injectors. The injector set landed at roughly NGN 3.6m (about USD 2,400 at NGN 1,500 to the dollar, so verify the rate on the day), but the damage was the seven-week lead time. The mill hired a 500 kVA rental at NGN 2.1m per month plus fuel and ran at reduced throughput. A clause requiring the contractor to hold a critical spares list on site would have cost a fraction of that.
+Worked example (hypothetical): a 750 kVA prime-rated set loses output over three weeks and is eventually traced to four failed injectors. The injector set itself is a modest line item, but the damage is the seven-week lead time. The site hires a 500 kVA rental plus fuel and runs at reduced throughput for the duration. A clause requiring the contractor to hold a critical spares list on site would have cost a fraction of that.
 
 Build a critical spares schedule into the agreement and name who owns the stock. For most industrial diesel sets that list includes a full filter set, one AVR, one set of injectors, water pump, thermostat, belts, sensors, a starter motor or its brushes, and the batteries. Where a set is single and unbacked, the list should extend to a turbocharger cartridge.
 
@@ -68,22 +68,22 @@ Also settle the equivalents question. "OEM or approved equivalent" without a nam
 
 The table below gives indicative annual figures for a single 500 kVA prime-rated diesel set running roughly 4,000 hours a year at a site within the contractor's base state. Fuel, major overhaul, rental cover and travel outside the base state are excluded throughout.
 
-| Contract tier | What the contractor delivers | Who buys parts | Indicative annual cost | Risk you retain |
-|---|---|---|---|---|
-| Inspection and reporting | Scheduled inspections, oil sampling, written condition report, no corrective work | You | NGN 1.8m to 2.6m (USD 1,200 to 1,700) | All labour and all parts on failure |
-| Preventive maintenance | Hours-based servicing, labour and routine consumables, alarm and protection testing | You buy non-routine parts | NGN 5.4m to 7.6m (USD 3,600 to 5,100) | Corrective repairs, major components |
-| Comprehensive O&M | Preventive plus corrective labour and parts up to a stated cap, annual load bank test | Contractor to cap | NGN 11m to 16m (USD 7,300 to 10,700) | Above-cap components, overhaul, fuel system contamination |
-| Comprehensive with availability guarantee | All of the above plus on-site critical spares, defined availability target and service credits | Contractor | NGN 18m to 28m (USD 12,000 to 18,700) | Fuel supply, operator error, civil and installation defects |
+| Contract tier | What the contractor delivers | Who buys parts | Risk you retain |
+|---|---|---|---|
+| Inspection and reporting | Scheduled inspections, oil sampling, written condition report, no corrective work | You | All labour and all parts on failure |
+| Preventive maintenance | Hours-based servicing, labour and routine consumables, alarm and protection testing | You buy non-routine parts | Corrective repairs, major components |
+| Comprehensive O&M | Preventive plus corrective labour and parts up to a stated cap, annual load bank test | Contractor to cap | Above-cap components, overhaul, fuel system contamination |
+| Comprehensive with availability guarantee | All of the above plus on-site critical spares, defined availability target and service credits | Contractor | Fuel supply, operator error, civil and installation defects |
 
 Two observations from tendering exercises. The gap between tier two and tier three is usually smaller than buyers expect once a realistic parts budget is added to the cheaper option. And the top tier only makes commercial sense where an hour of downtime costs more than the annual premium difference, which is worth calculating rather than assuming. Our breakdown of [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) sets out a method for that.
 
 ## Pricing a Generator Servicing Contract Against Your Downtime Cost
 
-A cold store in Port Harcourt running a single 250 kVA set treated maintenance as an overhead to be minimised, at roughly NGN 3.1m a year. One extended outage during a grid failure, six hours in a chamber holding fish and poultry, wrote off about NGN 4.1m (USD 2,700) of product in a single afternoon, before the cost of the repair itself.
+Worked example (hypothetical): a site running a single 250 kVA set treats maintenance as an overhead to be minimised, at a low annual spend. One extended outage during a grid failure, six hours with no standby cover, writes off a large batch of perishable stock in a single afternoon, before the cost of the repair itself.
 
 The calculation is straightforward. Estimate your loss per hour of unplanned outage, including product, labour standing idle, contractual penalties and restart losses. Multiply by a realistic expected outage hours figure for your current arrangement. Compare against the premium for the next tier up. If the arithmetic is close, the deciding factor is usually how long a critical part takes to reach your site, not the service schedule.
 
-Load bank testing deserves its own line item. Standby sets that spend their lives at 20 to 30 percent load will glaze bores and wet stack, and the first time anyone discovers the set cannot hold full load is the day it has to. An annual four-hour test at stepped load on a 500 kVA set runs around NGN 1.1m to 1.4m including the bank and cabling, and it is the only honest proof of capacity. The detail is covered in our guide to [generator load bank testing](/blog/generator-load-bank-testing/).
+Load bank testing deserves its own line item. Standby sets that spend their lives at 20 to 30 percent load will glaze bores and wet stack, and the first time anyone discovers the set cannot hold full load is the day it has to. An annual four-hour test at stepped load on a 500 kVA set, including the bank and cabling, is the only honest proof of capacity. The detail is covered in our guide to [generator load bank testing](/blog/generator-load-bank-testing/).
 
 Watch for four red flags in a draft agreement. A fixed number of visits with no hours reference. Parts described as "as required" with no cap and no price list. No named response bases for your sites. And an availability guarantee with no definition of how availability is calculated.
 
@@ -97,13 +97,13 @@ Bring three things to the table before you invite bids: an accurate asset schedu
 
 Our engineers can review an existing agreement clause by clause against the schedule above, or scope a new one from a site visit. See [generator maintenance in Nigeria](/generator-maintenance-nigeria/) for the service scope, and [generator and turbine maintenance cost](/generator-turbine-maintenance-cost/) for how the numbers are built.
 
-To move forward, [book a plant assessment](/#contact) or call [+234 803 000 0000](tel:+2348030000000) to discuss coverage for your sites.
+To move forward, [book a plant assessment](/#contact) and an engineer will go through coverage for your sites before anything is quoted.
 
 ## Frequently Asked Questions
 
 ### How much should a generator maintenance contract cost in Nigeria?
 
-For a single 500 kVA prime-rated set at around 4,000 running hours a year, preventive maintenance typically falls between NGN 5.4m and 7.6m annually, while comprehensive O&M with a parts cap sits between NGN 11m and 16m. Fuel, major overhaul and rental cover are normally excluded. The figure moves with engine family, site access, running hours and the exchange rate, so any quote should be built from your asset schedule rather than a rate card.
+For a single 500 kVA prime-rated set at around 4,000 running hours a year, preventive maintenance sits well below comprehensive O&M with a parts cap, which in turn costs a fraction of a comprehensive tier with an availability guarantee. Fuel, major overhaul and rental cover are normally excluded from all of them. The figure moves with engine family, site access, running hours and the exchange rate, so any quote should be built from your asset schedule rather than a rate card; [our cost guide](/generator-turbine-maintenance-cost/) sets out what drives it.
 
 ### Should the contract be based on calendar visits or running hours?
 

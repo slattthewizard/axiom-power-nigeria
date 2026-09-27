@@ -1,13 +1,13 @@
 ---
 meta_title: "Generator Noise and Emission Limits Nigeria: NESREA Rules"
-meta_description: "What NESREA and state regulators expect from industrial generator sites in Nigeria: boundary noise limits, stack emissions, abatement options and NGN costs."
+meta_description: "What NESREA and state regulators expect from industrial generator sites in Nigeria: boundary noise limits, stack emissions, and the abatement options that work."
 primary_keyword: "generator noise and emission limits nigeria"
 secondary_keywords: "NESREA noise limits Nigeria, generator emission standards Nigeria, diesel generator noise control Nigeria, boundary noise level limits Nigeria, generator stack emissions testing"
 ---
 
 # Generator Noise and Emission Limits in Nigeria: What Regulators Expect From Industrial Sites
 
-An inspector arrives at 22:15 with a calibrated meter, stands at your perimeter wall, records 64 dB(A) against a night limit of 45, and issues an abatement notice with a compliance deadline. Nothing on the plant has failed. The sets are healthy, the load is stable, the fuel is clean. What has changed is that a residential development went up across the road two years ago, and the boundary that used to face bush now faces bedrooms. The remediation quote comes back at N38m (about USD 24,500) plus phased outages, and none of it was in the maintenance budget.
+An inspector arrives at 22:15 with a calibrated meter, stands at your perimeter wall, records 64 dB(A) against a night limit of 45, and issues an abatement notice with a compliance deadline. Nothing on the plant has failed. The sets are healthy, the load is stable, the fuel is clean. What has changed is that a residential development went up across the road two years ago, and the boundary that used to face bush now faces bedrooms. The remediation quote comes back well into eight figures, plus phased outages, and none of it was in the maintenance budget.
 
 That scenario is the practical shape of generator noise and emission limits in Nigeria. The rules are not new, but enforcement has tightened, encroachment has moved receptors closer to plants that were sited responsibly at the time, and the cost of getting it wrong now lands as a stop notice rather than a warning letter.
 
@@ -25,7 +25,7 @@ The third layer is the condition set attached to your own approvals. If your sit
 
 Occupational exposure inside the plant is a separate matter again, governed by factory and labour legislation rather than environmental law. The two get confused constantly. A plant room can be fully compliant at the boundary and still be an unacceptable hearing risk for the operator standing beside the set.
 
-If you do not know which of these three layers you are currently exposed on, that is the first thing worth measuring. [Request a technical proposal](/#contact) for a noise and emissions baseline, or call [+234 803 000 0000](tel:+2348030000000) to discuss scope.
+If you do not know which of these three layers you are currently exposed on, that is the first thing worth measuring. [Request a technical proposal](/#contact) for a noise and emissions baseline and we will discuss scope from there.
 
 ## Boundary noise limits and how they are actually measured
 
@@ -81,17 +81,17 @@ This is why acoustic retrofits should be designed by someone working from the ma
 
 ## What abatement costs on a Nigerian site
 
-The table below sets out the options commonly specified on industrial sites, with indicative installed costs for a single set in the 750 to 1250 kVA class. Actual pricing depends on site access, whether an outage window is available, and how much of the work can be prefabricated off site. USD equivalents are at N1,550 to the dollar.
+The table below sets out the options commonly specified on industrial sites for a single set in the 750 to 1250 kVA class. What each one costs to install depends on site access, whether an outage window is available, and how much of the work can be prefabricated off site; [request a technical proposal](/#contact) for a costed scope against your own set.
 
-| Measure | Typical benefit | Indicative installed cost (NGN) | Main technical risk |
-|---|---|---|---|
-| Class 1 baseline noise and emissions survey | Establishes your actual position and background level | N600,000 to N1.5m (USD 390 to 970) | None; do this first |
-| Accredited stack emissions test, one stack | Defensible compliance report | N1.2m to N2.5m (USD 775 to 1,600) | Port must be correctly located and sized |
-| Upgrade to residential grade exhaust silencer, lagged tailpipe | 30 to 40 dB insertion loss on the exhaust path | N2.5m to N5m (USD 1,600 to 3,200) | Back pressure must be recalculated |
-| Injector, turbo and air path overhaul to clear opacity | Restores combustion condition, cuts smoke and fuel burn | N3m to N8m (USD 1,900 to 5,200) | Needs an outage window |
-| Acoustic lining and splitter attenuators for an existing plant room | 15 to 25 dB at the boundary | N14m to N28m (USD 9,000 to 18,000) | Cooling airflow must be modelled, not assumed |
-| Replacement residential grade acoustic canopy | 20 to 30 dB over an open set | N18m to N35m (USD 11,600 to 22,600) | Set may need to be lifted and relocated |
-| Boundary barrier wall that breaks line of sight | 5 to 10 dB only | N4m to N12m (USD 2,600 to 7,700) | Diffraction limits the gain; rarely sufficient alone |
+| Measure | Typical benefit | Main technical risk |
+|---|---|---|
+| Class 1 baseline noise and emissions survey | Establishes your actual position and background level | None; do this first |
+| Accredited stack emissions test, one stack | Defensible compliance report | Port must be correctly located and sized |
+| Upgrade to residential grade exhaust silencer, lagged tailpipe | 30 to 40 dB insertion loss on the exhaust path | Back pressure must be recalculated |
+| Injector, turbo and air path overhaul to clear opacity | Restores combustion condition, cuts smoke and fuel burn | Needs an outage window |
+| Acoustic lining and splitter attenuators for an existing plant room | 15 to 25 dB at the boundary | Cooling airflow must be modelled, not assumed |
+| Replacement residential grade acoustic canopy | 20 to 30 dB over an open set | Set may need to be lifted and relocated |
+| Boundary barrier wall that breaks line of sight | 5 to 10 dB only | Diffraction limits the gain; rarely sufficient alone |
 
 Two things are worth reading off that table. The cheapest interventions are diagnostic and maintenance based, and they often deliver more than expected because a badly maintained set is both noisier and dirtier than a healthy one. And a boundary wall on its own almost never solves a night time residential case.
 
@@ -99,11 +99,11 @@ To scope which of these your site actually needs, [book a plant assessment](/#co
 
 ## Three site situations and what they cost
 
-A beverage bottling plant on a Lagos industrial estate ran two 1250 kVA sets in an open bay, sited responsibly when the neighbouring land was undeveloped. Housing was built to the fence line. Night measurements at the nearest facade returned 63 to 65 dB(A) against a 45 dB(A) expectation. The remedy was a full plant room enclosure with splitter attenuators on intake and discharge, residential grade silencers, and a rebuilt exhaust run to hold back pressure inside the engine limit. Installed cost was N38m (about USD 24,500), delivered across three weekend outages so production was not interrupted. Post works measurement returned 44 dB(A).
+**Hypothetical example: two 1250 kVA sets in an open bay**, sited responsibly when the neighbouring land was undeveloped. Suppose housing is later built to the fence line, and night measurements at the nearest facade return 63 to 65 dB(A) against a 45 dB(A) expectation. The remedy would be a full plant room enclosure with splitter attenuators on intake and discharge, residential grade silencers, and a rebuilt exhaust run to hold back pressure inside the engine limit, delivered across three weekend outages so production is not interrupted. Post works measurement can be expected to land close to the target, around 44 dB(A).
 
-A sesame and soya processing mill on the edge of a northern city ran a single 750 kVA set at an average of 22 percent load, with the original industrial silencer discharging horizontally over a boundary road. It drew complaints for both noise and visible smoke. The fix was not primarily acoustic. Injector replacement, air path cleaning and a vertical stack extension cost N4.2m, a residential silencer added N2.6m, and load was consolidated so the set ran above 55 percent. Fuel consumption fell by roughly 9 percent, worth about N1.4m a month at that site's duty, and opacity passed on retest.
+**Hypothetical example: a single 750 kVA set** running at an average of 22 percent load, with the original industrial silencer discharging horizontally over a boundary road, drawing complaints for both noise and visible smoke. The fix here would not be primarily acoustic. Injector replacement, air path cleaning and a vertical stack extension, plus a residential silencer, combined with consolidating load so the set runs above 55 percent, would be expected to cut fuel consumption by roughly 9 percent and clear opacity on retest.
 
-A 120 bed private hospital in a residential district had a 500 kVA standby set 11 m from the nearest ward window, in a district where the sensitive receptor expectation is closer to 35 dB(A) at night. The constraint was that the set could not be out of service for more than a shift. The solution was a critical grade silencer, an enclosure with attenuated ventilation, and anti vibration mounts with flexible connections on fuel, exhaust and coolant lines. Installed cost was N14m (about USD 9,000), plus a 400 kVA rental set at N2.1m per month for six weeks of cover.
+**Hypothetical example: a 500 kVA standby set 11 m from a sensitive receptor**, in a district where the expectation is closer to 35 dB(A) at night. The constraint is that the set cannot be out of service for more than a shift. The solution would be a critical grade silencer, an enclosure with attenuated ventilation, and anti vibration mounts with flexible connections on fuel, exhaust and coolant lines, plus a 400 kVA rental set for cover while the work is done.
 
 None of these three needed new generating plant. All three needed a proper measurement first.
 
@@ -121,7 +121,7 @@ Where the underlying problem is fuel, the economics may point elsewhere. Gas fir
 
 Finally, take the acoustic environment seriously for its own sake. The World Health Organization's [environmental noise guidelines](https://www.who.int/publications/i/item/9789289053563) set out the health basis for night time limits, which is why regulators treat night exceedances as more serious than day.
 
-If your site has received a notice, or you simply do not know where you stand at the fence, the useful first step is a measured baseline rather than a quotation for cladding. Our [power plant audit](/power-plant-audit-nigeria/) covers noise, emissions and load profile together. [Request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000).
+If your site has received a notice, or you simply do not know where you stand at the fence, the useful first step is a measured baseline rather than a quotation for cladding. Our [power plant audit](/power-plant-audit-nigeria/) covers noise, emissions and load profile together. [Request a technical proposal](/#contact) and we will start with a measured baseline.
 
 ## Frequently Asked Questions
 

@@ -2,7 +2,7 @@
 title: "Simple Cycle vs Combined Cycle Gas Turbine: Choosing the Right Configuration for an Industrial Plant"
 navTitle: "Simple Cycle vs Combined Cycle"
 metaTitle: "Simple Cycle vs Combined Cycle Gas Turbine: How to Choose"
-metaDescription: "Simple cycle vs combined cycle gas turbine for Nigerian plants: efficiency gains, NGN capex per kW, water and staffing costs, and the hours that justify it."
+metaDescription: "Simple cycle vs combined cycle gas turbine for Nigerian plants: efficiency gains, capital intensity, water and staffing demands, and the hours that justify it."
 primaryKeyword: "simple cycle vs combined cycle gas turbine"
 secondaryKeywords: "combined cycle gas turbine Nigeria, simple cycle gas turbine efficiency, combined cycle vs cogeneration, heat recovery steam generator retrofit, gas turbine plant configuration"
 publishedDate: "2026-08-28"
@@ -37,7 +37,7 @@ Nothing extra is burned. The bottoming cycle produces power from energy that was
 
 The catch is that a steam cycle is a plant in its own right, not a bolt-on. You are adding pressure parts with a statutory inspection regime, a condenser, a cooling system, feedwater treatment and demineralisation, a steam turbine with its own lube oil and control systems, and a second generator with its own protection scheme.
 
-If you are at the configuration stage now, the sequence matters. Get the load profile logged at one minute resolution for two normal production weeks, then price the options against that data. [Request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000) and we will scope the measurement before anyone specifies equipment.
+If you are at the configuration stage now, the sequence matters. Get the load profile logged at one minute resolution for two normal production weeks, then price the options against that data. [Request a technical proposal](/#contact) and we will scope the measurement before anyone specifies equipment.
 
 ## Simple cycle vs combined cycle gas turbine: the efficiency and capex numbers
 
@@ -47,7 +47,7 @@ At the industrial scale most Nigerian plants operate, which is broadly 3 MW to 5
 | --- | --- | --- | --- |
 | Electrical efficiency | 28 to 35% | 40 to 50% | 22 to 30% |
 | Total fuel utilisation | 28 to 35% | 40 to 50% | 65 to 80% |
-| Installed cost per kW | NGN 1.1m to 1.8m (USD 700 to 1,150) | NGN 1.9m to 3.1m (USD 1,200 to 2,000) | NGN 1.4m to 2.2m (USD 900 to 1,400) |
+| Installed cost per kW | Lowest of the three | Highest, roughly 60 to 90% above simple cycle | Between simple and combined cycle |
 | Cooling water makeup | Negligible | 1.5 to 2.5 m3 per MWh of steam turbine output | Low, steam returns as condensate |
 | Cold start to full output | 10 to 20 minutes | 2 to 4 hours for the full block | 1 to 2 hours |
 | Plot area, relative | 1.0 | 2.0 to 2.5 | 1.4 to 1.8 |
@@ -89,15 +89,15 @@ To model your own case properly, [book a plant assessment](/#contact) and we wil
 
 The following are anonymised and indicative. They show how the same question resolves three different ways.
 
-**A ceramics works in the South West, two 5.5 MW units, 6,900 hours a year at 85 percent average load.** A bottoming cycle across both exhausts would add about 3.6 MW. At gas landed around NGN 400 per standard cubic metre, roughly USD 0.26, the marginal fuel cost of simple cycle generation on that site is near NGN 133 per kWh. The extra 21,000 MWh a year is therefore worth about NGN 2.8 billion, or roughly USD 1.8 million, in avoided fuel.
+**Hypothetical example: two 5.5 MW units, 6,900 hours a year at 85 percent average load.** A bottoming cycle across both exhausts would add about 3.6 MW. At an assumed landed gas price (use your own delivered cost per standard cubic metre), the extra 21,000 MWh a year in avoided fuel is worth a large sum over the plant's life at typical Nigerian gas and fuel costs.
 
-Against that, the retrofit prices at about NGN 9.6 billion (USD 6.2 million) including cooling and water treatment, with roughly NGN 620 million a year in added operating cost. Simple payback lands a little under five years, longer once financing at Nigerian commercial rates is applied. The build runs about 14 months with a three week tie-in outage, so the [cost of that outage window](/blog/plant-downtime-cost-per-hour/) belongs in the business case, not in a footnote. This one is worth doing.
+Against that, the retrofit itself, including cooling and water treatment, carries a substantial capital cost plus its own added annual operating cost. At these hours the avoided fuel can repay that within the plant's life, and the payback you calculate from your own capital quote and gas price will lengthen once financing at Nigerian commercial rates is applied. The build runs about 14 months with a three week tie-in outage, so the [cost of that outage window](/blog/plant-downtime-cost-per-hour/) belongs in the business case, not in a footnote. This one is worth doing.
 
-**A beverage bottling plant needing 12 tonnes an hour of process steam at 9 bar.** Here a condensing combined cycle is the wrong answer, because it would throw away exactly the steam the plant is currently buying gas to raise in package boilers. A 4 MW gas turbine with an unfired HRSG raising around 11 tonnes an hour, with supplementary firing available to reach 15 tonnes an hour, lifts total fuel utilisation to roughly 70 to 76 percent against about 40 percent for separate power and boiler plant.
+**Hypothetical example: a plant needing 12 tonnes an hour of process steam at 9 bar.** Here a condensing combined cycle is the wrong answer, because it would throw away exactly the steam the plant is currently buying gas to raise in package boilers. A 4 MW gas turbine with an unfired HRSG raising around 11 tonnes an hour, with supplementary firing available to reach 15 tonnes an hour, lifts total fuel utilisation to roughly 70 to 76 percent against about 40 percent for separate power and boiler plant.
 
-Payback on that configuration is usually under three years because the steam has a direct, already funded fuel value. The choice between passing out steam and condensing the balance is a design decision covered in [back-pressure versus condensing turbines](/blog/back-pressure-vs-condensing-turbine/).
+Payback on that configuration is usually the quickest of the three because the steam has a direct, already funded fuel value. The choice between passing out steam and condensing the balance is a design decision covered in [back-pressure versus condensing turbines](/blog/back-pressure-vs-condensing-turbine/).
 
-**A packaging works running a single shift, 2,600 hours a year, on an 8 MW simple cycle unit.** A bottoming cycle would add about 2.9 MW, but at those hours the extra output is worth only around NGN 800 million a year, against roughly NGN 480 million of largely fixed added operating cost and NGN 7.8 billion of capital. Payback runs past 20 years. It is not a close call.
+**Hypothetical example: a single shift operation, 2,600 hours a year, on an 8 MW simple cycle unit.** A bottoming cycle would add about 2.9 MW, but at those hours the extra output is worth far less than the added operating cost, let alone the capital required. Payback does not arrive within any sensible planning horizon. It is not a close call.
 
 That plant should spend a fraction of the money on inlet air filtration, evaporative inlet cooling and control system tuning, which can recover 3 to 6 percent of output for a small share of the capital.
 

@@ -2,12 +2,12 @@
 title: "Wet Stacking in Diesel Generators: Why Lightly Loaded Sets Foul and How to Recover Them"
 navTitle: "Wet Stacking in Diesel"
 metaTitle: "Wet Stacking in Diesel Generators: Causes and Recovery"
-metaDescription: "Wet stacking in diesel generators comes from chronic light loading. Load thresholds, real symptoms, recovery steps, outage windows and indicative NGN costs."
+metaDescription: "Wet stacking in diesel generators comes from chronic light loading. Load thresholds, real symptoms, recovery steps, outage windows and prevention."
 primaryKeyword: "wet stacking in diesel generators"
 secondaryKeywords: "wet stacking symptoms, lightly loaded diesel generator, generator minimum load, diesel generator carbon fouling, generator load bank testing"
 publishedDate: "2026-08-15"
 tag: "Generators"
-subtitle: "A 500 kVA standby set at a Lagos office tower had black oily fluid weeping from three exhaust flange joints and a puddle under the silencer drain."
+subtitle: "Take a 500 kVA standby set that runs 2,900 hours over two years at an average load of 61 kW, about 15 percent of its rated output."
 canonical: "https://axiompowerng.com/blog/diesel-generator-wet-stacking/"
 faq:
   - question: "Can wet stacking damage a diesel generator permanently?"
@@ -19,7 +19,7 @@ faq:
   - question: "How long does a load bank burn-off take and will it fix the problem?"
     answer: "Plan a half day per set, including staged loading and a one to two hour hold at full rating. That clears light and moderate fouling in the gas path and exhaust. It will not fix coked injectors, a carboned turbocharger or a glazed bore, and it will not stop the fouling returning if the underlying load profile stays the same. Treat it as a diagnostic and a cleaning step, not a cure."
 ---
-A 500 kVA standby set at a Lagos office tower had black oily fluid weeping from three exhaust flange joints and a puddle under the silencer drain. It had run 2,900 hours in two years at an average load of 61 kW, about 15 percent of its rated output. When the building finally needed all of it during a long public supply outage, it smoked heavily, refused the last load step and had to be shed to two floors. The eventual top end repair came to NGN 11.4m (USD 7,350), and none of it was caused by hard work.
+Take a 500 kVA standby set that runs 2,900 hours over two years at an average load of 61 kW, about 15 percent of its rated output. When the load finally calls for all of it during a long outage, it smokes heavily, refuses the last load step, and part of the load has to be shed. The recovery that follows is a top end repair, priced on scope and parts condition rather than a fixed figure, and none of it was caused by hard work.
 
 That is wet stacking in diesel generators, and it is one of the few failure mechanisms in rotating plant caused entirely by underuse. The set was not abused. It was oversized at specification stage, then run for years at a load its combustion process could not sustain cleanly.
 
@@ -67,23 +67,23 @@ Separate this from the two conditions that mimic it. Contaminated or adulterated
 
 ## What chronic light loading actually costs
 
-A 60-room hotel on the mainland runs a 500 kVA prime set as its main supply, average draw 68 kW, with short peaks to 210 kW when kitchen and laundry overlap. That is 17 percent average load. Specific fuel consumption sat near 0.41 litres per kWh against roughly 0.27 at healthy loading, which on 5,800 running hours a year is about 91,000 litres of avoidable AGO, close to NGN 108m (USD 69,700). Injectors and the turbocharger also needed attention at 4,100 hours instead of the expected interval. Reconfiguring to a 200 kVA lead set with the 500 kVA held for peak and standby fixed both problems inside a year.
+Hypothetical example: a 500 kVA prime set as the main supply, average draw 68 kW, with short peaks to 210 kW when two loads overlap. That is 17 percent average load. Specific fuel consumption sat near 0.41 litres per kWh against roughly 0.27 at healthy loading, which on 5,800 running hours a year works out to about 91,000 litres of avoidable AGO. Injectors and the turbocharger also needed attention at 4,100 hours instead of the expected interval. Reconfiguring to a 200 kVA lead set with the 500 kVA held for peak and standby fixed both problems inside a year.
 
-A 40-bed clinic running two shifts had two 250 kVA sets on an alternating weekly changeover, and neither ever carried more than 44 kW. The monthly exercise consisted of 20 minutes off load, which added carbon rather than removing it. Both sets were wet stacked at the first annual inspection. Recovery was a burn-off on each machine plus injector service at NGN 6.9m (USD 4,450), and the fix that mattered was cheap: block one set out of service, run the other as lead at 35 percent, rotate quarterly.
+Hypothetical example: two 250 kVA sets on an alternating weekly changeover, neither ever carrying more than 44 kW. The monthly exercise consisted of 20 minutes off load, which added carbon rather than removing it. Both sets were wet stacked at the first annual inspection. Recovery was a burn-off on each machine plus injector service, and the fix that mattered was cheap: block one set out of service, run the other as lead at 35 percent, rotate quarterly.
 
-Indicative recovery costs for a 500 kVA class set follow. Figures move with engine family, spares lead time and FX exposure, so treat them as a planning range, not a quotation.
+Recovery interventions for a 500 kVA class set typically look like this. Cost is driven by engine family, spares lead time, condition at strip and FX exposure, so scope should be quoted against your set rather than a rate card.
 
-| Intervention | What it addresses | Indicative cost | Outage window |
-|---|---|---|---|
-| Resistive load bank burn-off, staged to 100 percent | Light fouling in manifold, turbine housing and stack | NGN 850,000 to 1.8m (USD 550 to 1,160) | Half a day |
-| Injector service or replacement set | Coked tips, poor spray pattern, cylinder imbalance | NGN 1.4m to 3.6m (USD 900 to 2,320) | 1 to 2 days |
-| Turbocharger overhaul or cartridge exchange | Carbon on nozzle ring, shaft seal oil migration | NGN 2.8m to 6.5m (USD 1,800 to 4,200) | 2 to 4 days plus parts lead time |
-| Manifold, silencer and stack decarbonising | Accumulated wet carbon and back pressure rise | NGN 600,000 to 1.5m (USD 390 to 970) | 1 to 2 days |
-| Top end overhaul, heads, valves, injectors, liner inspection | Valve seat carbon, compression loss, confirmed glazing | NGN 6.5m to 14m (USD 4,200 to 9,030) | 4 to 8 days |
-| Major overhaul with liner and ring replacement | Bore glazing, high oil consumption, low compression | NGN 18m to 35m (USD 11,600 to 22,580) | 2 to 4 weeks |
-| Automatic load bank, 200 kW, permanently installed | Standby sets that will never see real load | NGN 9m to 16m (USD 5,800 to 10,320) | Installation only |
+| Intervention | What it addresses | Outage window |
+|---|---|---|
+| Resistive load bank burn-off, staged to 100 percent | Light fouling in manifold, turbine housing and stack | Half a day |
+| Injector service or replacement set | Coked tips, poor spray pattern, cylinder imbalance | 1 to 2 days |
+| Turbocharger overhaul or cartridge exchange | Carbon on nozzle ring, shaft seal oil migration | 2 to 4 days plus parts lead time |
+| Manifold, silencer and stack decarbonising | Accumulated wet carbon and back pressure rise | 1 to 2 days |
+| Top end overhaul, heads, valves, injectors, liner inspection | Valve seat carbon, compression loss, confirmed glazing | 4 to 8 days |
+| Major overhaul with liner and ring replacement | Bore glazing, high oil consumption, low compression | 2 to 4 weeks |
+| Automatic load bank, 200 kW, permanently installed | Standby sets that will never see real load | Installation only |
 
-USD equivalents are at roughly NGN 1,550 to the dollar and should be re-checked on the day. To scope which of those lines your fleet actually needs, [request a technical proposal](/#contact) or call our engineers on [+234 803 000 0000](tel:+2348030000000).
+Cost moves with engine family, spares lead time and condition at strip, so treat the table as a scoping guide rather than a quotation. To scope which of those lines your fleet actually needs, [request a technical proposal](/#contact) and an engineer will review the load profile before anything is quoted.
 
 ## Recovering a wet stacked set, in the order the work should be done
 

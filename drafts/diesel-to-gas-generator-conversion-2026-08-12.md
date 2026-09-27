@@ -1,17 +1,17 @@
 ---
 meta_title: "Converting Diesel Generators to Gas in Nigeria: Payback"
-meta_description: "What it costs to convert a diesel generator to gas or dual fuel in Nigeria: capex in naira, fuel savings per kWh, honest payback figures and site conditions."
+meta_description: "What it takes to convert a diesel generator to gas or dual fuel in Nigeria: the three routes, fuel savings per kWh, where payback comes from and site conditions."
 primary_keyword: "converting diesel generator to gas nigeria"
 secondary_keywords: "diesel to gas generator conversion cost, dual fuel generator conversion nigeria, convert generator to natural gas nigeria, cng generator conversion nigeria, gas conversion payback nigeria"
 ---
 
 # Converting Diesel Generators to Gas or Dual Fuel in Nigeria: Cost, Payback and Conditions
 
-A 900 kVA set on an Ogun industrial estate burns about N66m of diesel a month at today's prices. The same engine carrying the same load on pipeline gas would burn roughly N27m of fuel. That gap of nearly N40m a month is why almost every plant manager in Lagos, Port Harcourt and Abuja has been handed a conversion quotation in the last two years.
+A 900 kVA set carrying a steady industrial load spends several times as much each month on diesel as the same output would cost on pipeline gas at typical delivered prices (check your own numbers, since fuel pricing moves fast). That gap is why so many plant managers have been handed a conversion quotation.
 
 Converting a diesel generator to gas in Nigeria is a strong decision on the right site and an expensive one on the wrong site. The fuel arithmetic is not what separates the two. What separates them is load factor, distance to a gas main, the mechanical condition of the engine and whether the gas supply is firm enough to build a production plan on.
 
-This article sets out the three routes available, what each costs in naira, where the payback actually comes from and the conditions that decide whether you should proceed at all.
+This article sets out the three routes available, what drives the cost of each, where the payback actually comes from and the conditions that decide whether you should proceed at all.
 
 ## Three Routes, Not One
 
@@ -29,34 +29,36 @@ If you want the three costed against your measured load profile rather than agai
 
 The table below assumes diesel at N1,200 per litre delivered, pipeline gas landed at $8.50 to $10.50 per MMBtu, CNG on a virtual pipeline at $13 to $16 per MMBtu, and an exchange rate near N1,550 to the dollar. Every one of those moves, so treat the table as a structure for your own arithmetic rather than a quotation.
 
-| Route | Fuel cost, NGN per kWh | Indicative capex, 500 kVA to 1 MW class | Power after change | Where it fits |
-|---|---|---|---|---|
-| Diesel, unchanged | 320 to 400 | nil | 100% of rating | Baseline, and standby duty |
-| Dual fuel retrofit on pipeline gas | 205 to 265 | N45m to N120m | 95 to 100% | High load factor, gas main within reach |
-| Full spark ignition conversion | 130 to 170 | N90m to N220m | 70 to 85% | Sound engines above 750 kVA on firm gas |
-| New dedicated gas genset | 125 to 165 | N450m to N800m per MW installed | Rated | Diesel set near end of life |
-| Either route on CNG | 195 to 275 | Add N90m to N260m for decompression, storage and civils | As above | No pipeline within reach, heavy consumption |
-| LPG conversion | 285 to 360 | N60m to N150m | 75 to 88% | Rarely justified on fuel cost alone |
+| Route | Fuel cost, NGN per kWh | Power after change | Where it fits |
+|---|---|---|---|
+| Diesel, unchanged | 320 to 400 | 100% of rating | Baseline, and standby duty |
+| Dual fuel retrofit on pipeline gas | 205 to 265 | 95 to 100% | High load factor, gas main within reach |
+| Full spark ignition conversion | 130 to 170 | 70 to 85% | Sound engines above 750 kVA on firm gas |
+| New dedicated gas genset | 125 to 165 | Rated | Diesel set near end of life |
+| Either route on CNG | 195 to 275 | As above | No pipeline within reach, heavy consumption |
+| LPG conversion | 285 to 360 | 75 to 88% | Rarely justified on fuel cost alone |
+
+Capex is left off this table on purpose: it moves with engine class, distance to the gas main and whether CNG civils are needed, far more than it moves with the route itself. See [our cost guide](/generator-turbine-maintenance-cost/) for the drivers, or request a proposal scoped to your engine and site.
 
 In dollar terms that is roughly $0.21 to $0.26 per kWh on diesel against $0.08 to $0.11 on pipeline gas. The LPG row is worth pausing on. At bulk prices of N1,250 to N1,550 per kilogramme and about 0.23 kg per kWh, LPG lands within 15 percent of diesel. LPG conversions can make sense for supply security or where an installation already exists, but the fuel saving alone will not carry the capital cost.
 
-Note what is missing from the capex column. The kit is often the smallest line. The gas train, metering and pressure reduction skid, the buried spur to the distributor's main, road crossings, gas detection, enclosure ventilation and the emergency shutdown system together usually exceed the price of the conversion hardware. Spur pipeline in a developed industrial area typically runs N70m to N110m per kilometre, so distance to the main is often the single figure that decides the project.
+The kit itself is often the smallest line in a conversion budget. The gas train, metering and pressure reduction skid, the buried spur to the distributor's main, road crossings, gas detection, enclosure ventilation and the emergency shutdown system together usually exceed the price of the conversion hardware. Spur pipeline cost in a developed industrial area scales directly with distance, road crossings and ground conditions, so distance to the main is often the single factor that decides the project. [Request a technical proposal](/#contact) for a figure against your own route.
 
 ## Where the Payback Really Comes From
 
 Payback is fuel saving per kWh multiplied by annual kilowatt hours, less capital and outage cost. The second term is where most projects live or die, and it follows load factor, not engine size.
 
-Consider a feed mill on an Ogun industrial estate with a 900 kVA prime set, measured average load 460 kW and 416 running hours a month. On diesel at 0.29 litres per kWh and N1,200 per litre, fuel costs N348 per kWh, or N66.6m a month against 191,360 kWh.
+Worked example (hypothetical): a plant runs a 900 kVA prime set with a measured average load of 460 kW over 416 running hours a month, on diesel at 0.29 litres per kWh, against about 191,360 kWh a month.
 
-The mill fitted a dual fuel retrofit. The vendor's proposal assumed 65 percent gas substitution. Over a measured 90 day period the achieved monthly average was 46 percent, because the plant ran two lightly loaded night shifts and lost gas pressure twice. Blended fuel cost settled at N247 per kWh, a saving of about N19.3m a month, roughly $12,450.
+The plant fits a dual fuel retrofit. The vendor's proposal assumes 65 percent gas substitution. Over a measured 90 day period the achieved monthly average is 46 percent, because the plant runs two lightly loaded night shifts and loses gas pressure twice. The blended fuel saving is still substantial, but well short of what was quoted.
 
-Capital came to N117m: N38m for the kit and installation, N29m for the gas train and metering skid, N41m for a 420 metre spur with a road crossing, and N9m for gas detection, ventilation and shutdown work. Add nine days of rental hire during commissioning at N2.1m. Simple payback was just under seven months, and the mill still had a diesel fallback on every hour the gas was not there.
+Capital covers the kit and installation, the gas train and metering skid, a spur with a road crossing, and gas detection, ventilation and shutdown work, plus a period of rental hire during commissioning. Weighed against the achieved, not the promised, fuel saving, the retrofit still pays for itself well inside a year, and the plant keeps a diesel fallback on every hour the gas is not there.
 
-Two things that model must include and usually does not. The gas contract carried a minimum daily quantity, so during a two week planned shutdown the mill paid for gas it never took. And the achieved substitution rate, not the promised one, is what pays for the project. Ask for a performance guarantee expressed as measured substitution at your load profile, with a retest clause.
+Two things that model must include and usually does not. The gas contract carries a minimum daily quantity, so during a planned shutdown the plant pays for gas it never takes. And the achieved substitution rate, not the promised one, is what pays for the project. Ask for a performance guarantee expressed as measured substitution at your load profile, with a retest clause.
 
-Now the opposite case. A private hospital in Lagos runs a 500 kVA standby set behind a reasonably stable feeder, about 900 hours a year at an average of 175 kW, so 157,500 kWh annually. At that load factor substitution rarely exceeds 35 percent, giving a saving near N95 per kWh, or N15m a year. Against N88m of capital including a 240 metre spur, payback is close to six years on an engine with perhaps six years of life left, and the gas train needs certification whether the set runs or not.
+Now the opposite case. Worked example (hypothetical): a standby set runs behind a reasonably stable feeder for about 900 hours a year at an average of 175 kW, around 157,500 kWh annually. At that load factor substitution rarely exceeds 35 percent, and the resulting fuel saving is small against the capital needed for a spur, gas train and certification. Payback stretches to several years on an engine that may only have a few years of life left, and the gas train needs certification whether the set runs or not.
 
-That hospital should not convert. The same money spent on [generator maintenance](/generator-maintenance-nigeria/), fuel polishing, load bank testing and a properly sized changeover returns more and carries less risk. Below roughly 2,000 running hours a year, conversion economics generally do not close.
+A site like that should not convert. The same money spent on [generator maintenance](/generator-maintenance-nigeria/), fuel polishing, load bank testing and a properly sized changeover returns more and carries less risk. Below roughly 2,000 running hours a year, conversion economics generally do not close.
 
 ## Gas Conversion for Nigerian Diesel Generators: The Conditions That Decide It
 
@@ -72,15 +74,15 @@ That hospital should not convert. The same money spent on [generator maintenance
 
 **The maintenance regime changes.** Spark plugs need attention every 1,000 to 2,000 running hours, coils and leads become consumables, valve lash checks tighten, and the oil moves to a low ash gas engine grade with its own drain interval. Cylinder exhaust temperature deviation becomes your early warning of a misfire, and a converted engine kept on the old diesel schedule will not hold its efficiency. Conversion also generally voids any remaining OEM warranty and must be declared to your insurer, so get both positions in writing before the kit lands.
 
-To have these conditions checked against your actual site before you commit capital, [book a plant assessment](/#contact) or call our engineering desk on [+234 803 000 0000](tel:+2348030000000).
+To have these conditions checked against your actual site before you commit capital, [book a plant assessment](/#contact).
 
 ## A Third Scenario: When the Numbers Are Unusually Good
 
-A processing plant in Rivers State runs a genuinely continuous load of about 690 kW for roughly 7,200 hours a year, close to 5 GWh, with two 1,250 kVA sets and firm gas available at the fence. On diesel that is around N1.73bn of fuel a year, roughly $1.1m.
+Worked example (hypothetical): a plant runs a genuinely continuous load of about 690 kW for roughly 7,200 hours a year, close to 5 GWh, with two 1,250 kVA sets and firm gas available at the fence.
 
-The plant converted the younger of the two engines to full spark ignition for N165m, accepting a derate from 1,000 kW to about 800 kW, and kept the older set on diesel as backup. Fuel cost fell from N348 to about N148 per kWh. Adding a five week outage window covered by rental at N4.8m a week, the programme paid for itself inside a single quarter.
+The plant converts the younger of the two engines to full spark ignition, accepting a derate from 1,000 kW to about 800 kW, and keeps the older set on diesel as backup. The fuel saving at that load factor is large, and even with a five week outage window covered by rental cover, the programme pays for itself very quickly.
 
-That result is real, and it is also rare. It required a continuous load, a sound engine, a spur that was already there and a plant able to release one set for five weeks. During commissioning the plant found estate pressure dipping below the mixer's minimum on weekday afternoons, so it retained diesel changeover capability rather than assume gas would always be there.
+That result is real, and it is also rare. It requires a continuous load, a sound engine, a spur that is already there and a plant able to release one set for five weeks. During commissioning the plant finds estate pressure dipping below the mixer's minimum on weekday afternoons, so it retains diesel changeover capability rather than assume gas will always be there.
 
 For a wider comparison of prime movers at this scale, see our piece on [gas turbines against diesel generators](/blog/gas-turbine-vs-diesel-generator/), and for the baseline you are trying to beat, our breakdown of [diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/).
 
@@ -100,7 +102,7 @@ No. Full spark ignition conversion requires lower compression pistons, heads tha
 
 ### How much does it cost to convert a diesel generator to gas in Nigeria?
 
-For a 500 kVA to 1 MW set, budget N45m to N120m for a dual fuel retrofit and N90m to N220m for a full spark ignition conversion, both including the gas train, metering and safety systems. Distance to the gas main is often the largest single variable, with spur pipeline running N70m to N110m per kilometre in developed industrial areas. CNG supply adds N90m to N260m for decompression, storage and civils. Firm figures require a site survey, a gas analysis and a distributor connection quotation.
+Cost depends heavily on scope. A dual fuel retrofit needs the gas train, metering and safety systems; a full spark ignition conversion adds pistons, ignition hardware and controls on top. Distance to the gas main is often the largest single variable, since spur pipeline cost scales with kilometres, road crossings and ground conditions. CNG supply adds decompression, storage and civils on top of either route. Firm figures require a site survey, a gas analysis and a distributor connection quotation, which is what a [technical proposal](/#contact) is built from.
 
 ### Will the generator lose power after conversion?
 

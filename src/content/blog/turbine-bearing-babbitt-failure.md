@@ -2,7 +2,7 @@
 title: "Turbine Bearing Babbitt Failure: Warning Signs, Root Causes and Repair Options"
 navTitle: "Turbine Bearing Babbitt"
 metaTitle: "Turbine Bearing Babbitt Failure: Warning Signs and Repair"
-metaDescription: "How to catch turbine bearing babbitt failure before the wipe, the root causes behind it, and what rebabbitting, journal repair or replacement costs in Nigeria."
+metaDescription: "How to catch turbine bearing babbitt failure before the wipe, the root causes behind it, and how rebabbitting, journal repair and replacement compare in Nigeria."
 primaryKeyword: "turbine bearing babbitt failure"
 secondaryKeywords: "babbitt bearing wipe, wiped turbine journal bearing, turbine bearing metal temperature, rebabbitting turbine bearings, turbine thrust bearing failure"
 publishedDate: "2026-08-29"
@@ -21,7 +21,7 @@ faq:
 ---
 A 6 MW turbine that trips on high bearing metal temperature at two in the morning has usually been telling you something for three weeks, and nobody was reading the trend. Turbine bearing babbitt failure rarely arrives without warning. It arrives after a slow drift that sits comfortably inside the alarm band, and the plant only reacts once the white metal has already smeared.
 
-By that point you are no longer replacing a bearing shell for NGN 9 million. You are lifting a casing, sending a journal out for repair, and paying for weeks of bridging diesel. The gap between those two outcomes is a temperature trend somebody looked at on time.
+By that point you are no longer looking at a straightforward bearing shell replacement. You are lifting a casing, sending a journal out for repair, and paying for weeks of bridging diesel, at several times the cost. The gap between those two outcomes is a temperature trend somebody looked at on time.
 
 ## What happens in a turbine bearing babbitt failure, and why the margin is so thin
 
@@ -47,9 +47,9 @@ The fourth is vibration behaviour rather than vibration level. Watch for a chang
 
 The fifth is the oil. Rising tin, antimony, copper or lead on spectrographic analysis, a climbing particle count, or metallic debris on the magnetic plug and in the filter all point at bearing surface loss. Sampling frequency matters more than test sophistication, and [turbine lube oil analysis](/blog/turbine-lube-oil-analysis/) covers what to test and how often.
 
-Consider a palm oil mill running a 1.6 MW back pressure steam turbine through the crushing season. Gland steam leakage into the front bearing pedestal pushed water content in the oil to around 1,800 ppm over several months, and nobody sampled because the machine ran and the temperature stayed inside alarm.
+Worked example (hypothetical): a 1.6 MW back pressure steam turbine running continuous shift work. Gland steam leakage into the front bearing pedestal pushes water content in the oil to around 1,800 ppm over several months, and nobody samples because the machine keeps running and the temperature stays inside alarm.
 
-Water plus heat on tin babbitt produces tin oxide corrosion, a hard black scab that destroys the running surface and then acts as an abrasive. The front journal bearing wiped fourteen months after commissioning. Rebabbitting both shells came to roughly NGN 16 million, the oil system drain and flush added about NGN 9 million, and the mill lost nine days mid season.
+Water plus heat on tin babbitt produces tin oxide corrosion, a hard black scab that destroys the running surface and then acts as an abrasive. In that case the front journal bearing wipes around fourteen months after commissioning. Rebabbitting both shells, plus an oil system drain and flush, runs to several times the cost of the oil sample that would have caught the water ingress months earlier, and the outage costs several days of lost production.
 
 ## Root causes of babbitt bearing wipe on steam and gas turbines
 
@@ -67,9 +67,9 @@ Thrust bearings fail for their own reasons. On steam turbines, deposits on the b
 
 A previous repair can also be the root cause. Babbitt bonded poorly to the shell, a bond line never checked by ultrasonic testing, or a layer cast thicker than design will fatigue and lift out under load however good the oil is.
 
-A flour mill running a 6 MW gas turbine generator shut down normally for inspection. Lift oil supply was lost during a pump changeover and the fault was not clearly annunciated, so the turning gear kept rolling the rotor for around 40 minutes with no hydrostatic lift. Both journal bearings wiped and one journal was scored to about 0.15 mm depth.
+Worked example (hypothetical): a 6 MW gas turbine generator shuts down normally for inspection. Lift oil supply is lost during a pump changeover and the fault is not clearly annunciated, so the turning gear keeps rolling the rotor for around 40 minutes with no hydrostatic lift. Both journal bearings wipe and one journal scores to about 0.15 mm depth.
 
-The rotor had to come out. Journal repair by thermal spray and regrinding, new bearings, alignment and recommissioning came to roughly NGN 190 million, and the unit was off line for 33 days. Bridging on diesel at an average 2.2 MW added about NGN 400 million (roughly USD 258,000) in fuel differential alone against the gas it displaced. A tested DC backup lift oil pump costs under NGN 5 million a year to maintain. If your lift oil and emergency pump changeovers have never been proved under load, [book a plant assessment](/#contact) and have it witnessed properly.
+In that case the rotor has to come out. Journal repair by thermal spray and regrinding, new bearings, alignment and recommissioning is a major project, and the unit is off line for weeks. Bridging on diesel while the gas turbine is down adds a large fuel differential against the gas it would otherwise burn, easily several times the annual cost of maintaining a tested DC backup lift oil pump that would have prevented the trip. If your lift oil and emergency pump changeovers have never been proved under load, [book a plant assessment](/#contact) and have it witnessed properly.
 
 ## Repair options after a wiped turbine bearing, and what each one costs
 
@@ -77,20 +77,20 @@ The first decision is not which repair, it is whether the journal is damaged. A 
 
 The table below is indicative for a 5 MW to 15 MW class steam or gas turbine with journal diameters roughly 200 mm to 350 mm, at a Nigerian site with reasonable access. Figures move with journal size, parts scope, exchange rate and whether work is done locally or abroad. Treat it as a planning envelope, not a quotation.
 
-| Repair option | When it applies | Outage window | Indicative cost | Main risk |
-|---|---|---|---|---|
-| In situ inspection, hand scrape and blue | Very light wipe, geometry intact, journal clean | 2 to 4 days | NGN 4m to 11m (USD 2,600 to 7,100) | Treating a symptom while the root cause remains |
-| Rebabbitt existing shell | Babbitt lost, shell and journal serviceable | 10 to 20 working days per shell | NGN 7m to 18m (USD 4,500 to 11,600) | Poor bond line if not ultrasonically tested |
-| Rotable spare shell exchange | Spare already held and certified | 3 to 5 days | NGN 22m to 55m per shell held (USD 14,200 to 35,500) | Capital tied up in stock |
-| New OEM journal bearing | Shell damaged, or design change required | 12 to 30 weeks lead time | NGN 28m to 70m (USD 18,000 to 45,000) | Lead time dominates the schedule |
-| Journal repair, thermal spray and regrind | Journal scored beyond polishing limits | 4 to 8 weeks, rotor out | NGN 60m to 160m (USD 38,700 to 103,000) | Requires rotor removal and a machine shop |
-| Tilting pad conversion with rotordynamic study | Repeat instability or chronic oil whirl | 6 to 12 months engineering plus parts | NGN 90m to 260m (USD 58,000 to 168,000) | Only justified if instability is proven |
+| Repair option | When it applies | Outage window | Main risk |
+|---|---|---|---|
+| In situ inspection, hand scrape and blue | Very light wipe, geometry intact, journal clean | 2 to 4 days | Treating a symptom while the root cause remains |
+| Rebabbitt existing shell | Babbitt lost, shell and journal serviceable | 10 to 20 working days per shell | Poor bond line if not ultrasonically tested |
+| Rotable spare shell exchange | Spare already held and certified | 3 to 5 days | Capital tied up in stock |
+| New OEM journal bearing | Shell damaged, or design change required | 12 to 30 weeks lead time | Lead time dominates the schedule |
+| Journal repair, thermal spray and regrind | Journal scored beyond polishing limits | 4 to 8 weeks, rotor out | Requires rotor removal and a machine shop |
+| Tilting pad conversion with rotordynamic study | Repeat instability or chronic oil whirl | 6 to 12 months engineering plus parts | Only justified if instability is proven |
 
-USD equivalents are converted at an indicative rate and will move with the naira.
+Cost moves with journal size, parts scope and whether work is done locally or abroad, so treat the table as a scoping guide rather than a quotation.
 
 Rebabbitting is not a general workshop job. The old metal is stripped, the shell is cleaned and tinned to create the bond layer, the babbitt is cast, and the bore is machined and scraped to the specified clearance and contact pattern. The bond line then needs ultrasonic testing and the surface needs dye penetrant inspection. Skip those checks and you have bought a bearing that will fatigue out under load.
 
-A cement plant learned that on a 12 MW condensing turbine. A wiped shell was rebabbitted by a general engineering workshop for NGN 5.5 million with no bond line testing and no check on journal surface finish. It wiped again five months later, and the second event cost about NGN 74 million including a fresh outage and journal repair.
+Worked example (hypothetical): a 12 MW condensing turbine. A wiped shell is rebabbitted by a general engineering workshop with no bond line testing and no check on journal surface finish. It wipes again five months later, and the second event costs an order of magnitude more, including a fresh outage and journal repair.
 
 Lead time is the other planning trap. OEM bearings and thrust assemblies routinely take three to seven months door to door once shipping and clearance are counted, as set out in [turbine spare parts lead time](/blog/turbine-spare-parts-lead-time/). Where a day of lost production is expensive, holding a certified rotable shell is usually the better trade, and [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) shows how to work that number for your own plant.
 
@@ -106,7 +106,7 @@ Alignment discipline matters as much as lubrication. Hot alignment checks, pipe 
 
 [ISO 7902-3](https://www.iso.org/standard/77158.html) sets out permissible operational parameters for hydrodynamic plain journal bearings and gives you a defensible basis for acceptance criteria in a tender or repair specification. On steam machines this work is normally folded into the broader [steam turbine overhaul](/steam-turbine-overhaul-nigeria/) scope, where clearances, alignment and oil system condition are addressed together.
 
-Say plainly what needs specialists. Casing lifts, rotor removal, journal machining, clearance setting and rotordynamic assessment require calibrated tooling, correct rigging and a qualified turbine engineer on site. If your unit is showing a drifting bearing temperature or an unexplained shaft position change, call [+234 803 000 0000](tel:+2348030000000) or request a technical proposal before the trend closes the decision for you.
+Say plainly what needs specialists. Casing lifts, rotor removal, journal machining, clearance setting and rotordynamic assessment require calibrated tooling, correct rigging and a qualified turbine engineer on site. If your unit is showing a drifting bearing temperature or an unexplained shaft position change, [request a technical proposal](/#contact) before the trend closes the decision for you.
 
 ## Frequently Asked Questions
 

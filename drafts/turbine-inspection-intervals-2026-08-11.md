@@ -1,13 +1,13 @@
 ---
 meta_title: "Gas Turbine Inspection Intervals by Operating Hours"
-meta_description: "How combustion, hot gas path and major overhaul intervals are set for gas turbines in Nigeria, with factored hours, outage windows and indicative Naira costs."
+meta_description: "How combustion, hot gas path and major overhaul intervals are set for gas turbines in Nigeria, with factored hours, start limits and outage windows."
 primary_keyword: "gas turbine inspection intervals"
 secondary_keywords: "gas turbine maintenance intervals, hot gas path inspection interval, combustion inspection hours, gas turbine major overhaul interval, turbine equivalent operating hours"
 ---
 
 # Gas Turbine Inspection Intervals: Combustion, Hot Gas Path and Major Overhaul by Operating Hours
 
-A 5.5 MW gas turbine pushed to 9,600 fired hours without a combustion inspection does not fail politely. The liner cracks, the transition piece distorts, and hard debris goes straight into the first stage nozzle. A planned six day outage becomes a nineteen day forced one, and the bridging diesel bill alone runs past NGN 300 million. Gas turbine inspection intervals exist to stop that arithmetic, and the numbers behind them are not arbitrary.
+A 5.5 MW gas turbine pushed to 9,600 fired hours without a combustion inspection does not fail politely. The liner cracks, the transition piece distorts, and hard debris goes straight into the first stage nozzle. A planned six day outage becomes a nineteen day forced one, and the bridging diesel bill alone runs into a large multiple of what the deferred inspection would have cost. Gas turbine inspection intervals exist to stop that arithmetic, and the numbers behind them are not arbitrary.
 
 Most maintenance managers already know the headline figures: combustion inspection near 8,000 hours, hot gas path near 24,000, major overhaul near 48,000. What gets applied less carefully is that these are factored hours, not hours on the running meter. The factors are where Nigerian plants quietly lose their margin.
 
@@ -21,7 +21,7 @@ Starts are factored the same way. A normal start followed by a controlled shutdo
 
 This is why two identical machines with the same hour meter reading can sit at completely different points on the maintenance ladder. If your factoring assumptions have never been checked against the actual operating log, a [power plant audit](/power-plant-audit-nigeria/) is the cheapest way to find out where you really stand. [Request a technical proposal](/#contact) and we will scope the data review before anything is opened.
 
-The effect is not theoretical. Consider a starch processing plant running a 15 MW dual fuel unit. Gas supply was interrupted for five months, so the machine ran roughly 3,500 hours on distillate. At a severity factor of 1.5, those hours counted as 5,250 factored hours against the hot gas path limit. The inspection the budget had placed in the following financial year arrived nearly eight months early, and the long lead parts had not been ordered.
+The effect is not theoretical. Worked example (hypothetical): a 15 MW dual fuel unit loses gas supply for five months, so the machine runs roughly 3,500 hours on distillate. At a severity factor of 1.5, those hours count as 5,250 factored hours against the hot gas path limit. The inspection the budget had placed in the following financial year arrives nearly eight months early, and the long lead parts have not been ordered.
 
 ## The three inspection levels: combustion, hot gas path and major overhaul
 
@@ -41,26 +41,26 @@ Filtration class matters more than most sites budget for. Moving from a coarse p
 
 Fuel quality is the second factor. Associated gas with liquid carryover, variable heating value or high sulphur content will shorten hot section life whatever the hour meter says. Gas conditioning at the skid, knockout drums, coalescing filtration and superheat control are not optional on a machine you intend to run to a published interval.
 
-Grid and process instability is the third. Frequency excursions and load rejections produce trips, and trips are counted at 8 equivalent starts or worse. Consider an oilfield flow station running twin aeroderivative units. Twelve emergency trips over one year, mostly from downstream process upsets, contributed roughly 96 equivalent starts. That consumed close to a quarter of the annual start based allowance without adding a single running hour. Most of those trips traced back to instrumentation and fuel system faults rather than the turbine itself, which is the usual finding. Our breakdown of [gas turbine trip causes](/blog/gas-turbine-trip-causes/) works through the common ones.
+Grid and process instability is the third. Frequency excursions and load rejections produce trips, and trips are counted at 8 equivalent starts or worse. Worked example (hypothetical): an installation running twin aeroderivative units sees twelve emergency trips over one year, mostly from downstream process upsets, contributing roughly 96 equivalent starts. That consumes close to a quarter of the annual start based allowance without adding a single running hour. Most of those trips trace back to instrumentation and fuel system faults rather than the turbine itself, which is the usual finding. Our breakdown of [gas turbine trip causes](/blog/gas-turbine-trip-causes/) works through the common ones.
 
 Ambient temperature affects output rather than interval directly. The operational response to it, firing harder to recover lost megawatts, is what moves the interval.
 
-## What each inspection level costs and what it buys you
+## What each inspection level involves and what it buys you
 
 The table below is indicative for a 5 MW to 6 MW class industrial gas turbine on natural gas at a Nigerian site with reasonable access. Figures move with parts scope, exchange rate, whether hot parts are repaired or replaced, and whether refurbishment is done locally or overseas. Treat it as a planning envelope, not a quotation.
 
-| Inspection level | Typical interval | Start based limit | Outage window | Main scope | Indicative cost, 5-6 MW class |
-|---|---|---|---|---|---|
-| Borescope | 4,000 factored hours or annual | not applicable | 1 to 2 days | Visual internal check, no casing lift | NGN 6m to 14m (USD 4,000 to 9,000) |
-| Combustion inspection | 8,000 factored hours | about 400 factored starts | 5 to 8 days | Liners, transition pieces, fuel nozzles, crossfire tubes, igniters | NGN 55m to 110m (USD 35,000 to 71,000) |
-| Hot gas path inspection | 24,000 factored hours | about 1,200 factored starts | 14 to 21 days | The above plus stage 1 and 2 nozzles, buckets and shrouds, casing lift | NGN 420m to 900m (USD 271,000 to 581,000) |
-| Major overhaul | 48,000 factored hours | about 2,400 factored starts | 28 to 42 days | Full strip, rotor removal, NDT, bearings, compressor blading, clearances | NGN 1.2bn to 2.6bn (USD 774,000 to 1.68m) |
+| Inspection level | Typical interval | Start based limit | Outage window | Main scope |
+|---|---|---|---|---|
+| Borescope | 4,000 factored hours or annual | not applicable | 1 to 2 days | Visual internal check, no casing lift |
+| Combustion inspection | 8,000 factored hours | about 400 factored starts | 5 to 8 days | Liners, transition pieces, fuel nozzles, crossfire tubes, igniters |
+| Hot gas path inspection | 24,000 factored hours | about 1,200 factored starts | 14 to 21 days | The above plus stage 1 and 2 nozzles, buckets and shrouds, casing lift |
+| Major overhaul | 48,000 factored hours | about 2,400 factored starts | 28 to 42 days | Full strip, rotor removal, NDT, bearings, compressor blading, clearances |
 
-USD equivalents are converted at an indicative rate and will move with the naira.
+Cost rises steeply between levels, and parts scope, whether hot parts are repaired or replaced, and whether refurbishment is done locally or overseas move the number far more than the interval itself does. See [our cost guide](/generator-turbine-maintenance-cost/) for the drivers behind each level.
 
-The number that belongs beside this table is the cost of not doing the work. A beverage bottling plant running a single 5.5 MW unit at roughly 7,800 hours a year deferred its combustion inspection to 9,600 fired hours to protect a peak production quarter. The liner failed. Downstream nozzle damage pulled the job up to hot gas path level at about NGN 510 million, and the machine was off line for nineteen days.
+The number that belongs beside this table is the cost of not doing the work. Worked example (hypothetical): a single 5.5 MW unit running roughly 7,800 hours a year defers its combustion inspection to 9,600 fired hours to protect a peak production quarter. The liner fails. Downstream nozzle damage pulls the job up to hot gas path level, and the machine is off line for nineteen days.
 
-Bridging on diesel at around NGN 340 per kWh against gas at around NGN 110 per kWh, at an average 3.2 MW load, added roughly NGN 335 million (about USD 216,000) in fuel differential alone. That excludes the production losses. The deferred inspection would have cost under NGN 80 million.
+Bridging on diesel against gas, at an average 3.2 MW load for nineteen days, adds a large fuel differential on its own, before counting production losses. The deferred combustion inspection would have cost a small fraction of the hot gas path repair it triggered.
 
 If your unit is approaching a level change and the parts lead time is not yet fixed, [book a plant assessment](/#contact) before the window closes. Long lead hot section components routinely run four to eight months door to door.
 
@@ -78,7 +78,7 @@ The same discipline applies across the rest of the train, which is why we handle
 
 For the formal framework, ISO 3977-9 sets out how reliability, availability and maintainability data and overhaul criteria should be exchanged between manufacturer and operator ([ISO 3977-9:2024](https://www.iso.org/standard/82198.html)), and ISO 21789 covers the safety requirements governing how the work is carried out ([ISO 21789:2022](https://www.iso.org/standard/74201.html)). Both are worth citing in a tender document because they give you a defensible basis for scope.
 
-To put your unit's actual factored hours against a costed outage plan, call [+234 803 000 0000](tel:+2348030000000) or request a technical proposal.
+To put your unit's actual factored hours against a costed outage plan, [request a technical proposal](/#contact).
 
 ## Frequently Asked Questions
 

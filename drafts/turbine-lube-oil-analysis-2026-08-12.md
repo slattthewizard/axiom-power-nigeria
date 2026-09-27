@@ -1,15 +1,15 @@
 ---
 meta_title: "Turbine Lube Oil Analysis: Tests That Predict Failures"
-meta_description: "Which turbine lube oil analysis tests catch bearing wear and governor valve sticking early, how often to sample, and what a programme costs in Nigeria."
+meta_description: "Which turbine lube oil analysis tests catch bearing wear and governor valve sticking early, how often to sample, and how to act on results in Nigeria."
 primary_keyword: "turbine lube oil analysis"
 secondary_keywords: "turbine oil condition monitoring, lube oil sampling turbine, turbine oil varnish MPC test, oil analysis for gas turbines, turbine oil particle count"
 ---
 
 # Turbine Lube Oil Analysis: The Tests That Predict Bearing and Governor Failures
 
-A 5.5 MW gas turbine generator wiped a journal bearing in June, and the laboratory report that would have prevented it was sitting unread in a maintenance inbox from March. Tin had moved from 2 ppm to 11 ppm across two samples and the particle count had drifted from 16/14/11 to 20/18/14. Nobody opened the file, because the machine was still running and still making load.
+Take a 5.5 MW gas turbine generator where tin in the lube oil moves from 2 ppm to 11 ppm across two samples and the particle count drifts from 16/14/11 to 20/18/14, while the laboratory report sits unread because the machine is still running and still making load. That drift is enough warning to prevent a wiped journal bearing, if someone acts on it.
 
-That is the whole argument for turbine lube oil analysis in one sentence. The oil carries the evidence of what is happening inside bearings, gears, seals and control valves weeks before vibration, temperature or a trip annunciator says anything. The cost of reading that evidence is a few hundred thousand naira a year. The cost of not reading it, on that particular machine, was NGN 140 million (roughly USD 90,000) and 24 days off line.
+That is the whole argument for turbine lube oil analysis in one sentence. The oil carries the evidence of what is happening inside bearings, gears, seals and control valves weeks before vibration, temperature or a trip annunciator says anything. The cost of reading that evidence is a small, predictable annual sum. The cost of not reading it, on a machine of that size, is an order of magnitude larger once you count the repair and the weeks off line.
 
 ## What turbine lube oil analysis actually measures, and what it cannot
 
@@ -39,7 +39,7 @@ There is a trap here that costs plants real money. ICP spectroscopy only reliabl
 
 **Analytical ferrography** is the follow up test, not the routine one. It puts the wear particles under a microscope and separates rubbing wear from cutting wear, fatigue spalling and severe sliding. When your trend has gone wrong and you need to know whether to plan an outage, this is the test that answers the question.
 
-A beverage plant on the Lagos mainland ran the case in the opening paragraph. The gas turbine generator had quarterly sampling in place and the samples were being taken correctly. What was missing was an owner for the report and a written action limit. Catching that tin trend at the second sample would have meant a rotable shell exchange inside a four day window at about NGN 12 million (roughly USD 7,700). Missing it meant a rotor lift, journal repair and bridging diesel. The signals of an incipient wipe are covered in more detail in [turbine bearing babbitt failure](/blog/turbine-bearing-babbitt-failure/).
+Worked example (hypothetical, continued): suppose the machine above had quarterly sampling in place and the samples were being taken correctly. What was missing was an owner for the report and a written action limit. Catching that tin trend at the second sample would mean a rotable shell exchange inside a short planned window. Missing it means a rotor lift, journal repair and bridging diesel, which costs several times more and takes far longer. The signals of an incipient wipe are covered in more detail in [turbine bearing babbitt failure](/blog/turbine-bearing-babbitt-failure/).
 
 ## The tests that predict governor and control valve failure
 
@@ -55,27 +55,27 @@ Governor servo valves, trip blocks and control valve actuators work with clearan
 
 **Air release** to ASTM D3427 and **foaming** to ASTM D892 deserve more attention than they get. Entrained air compresses under load, which makes a governor sluggish and unpredictable, and it also drives micro dieseling, where bubbles collapse adiabatically and locally cook the oil into varnish precursors. A rising air release time is an early warning on both counts.
 
-A cement plant with a 12 MW condensing steam turbine found this the hard way. The unit began tripping on control valve response during load changes, three times across six weeks. Oil analysis returned an MPC value of 42 and RPVOT at 22 percent of the new oil figure. The oil had not been tested for either parameter since commissioning.
+Worked example (hypothetical): a 12 MW condensing steam turbine begins tripping on control valve response during load changes, several times over a few weeks. Oil analysis returns an MPC value of 42 and RPVOT at 22 percent of the new oil figure, and the oil has not been tested for either parameter since commissioning.
 
-An ion exchange and fine filtration campaign with an antioxidant reformulation came to about NGN 19 million (roughly USD 12,300) against roughly NGN 62 million for a full 12,000 litre charge replacement. The three trips had already cost more than both options combined. Work out your own figure using the method in [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) before you decide what a test package is worth.
+In that case, an ion exchange and fine filtration campaign with an antioxidant reformulation costs a fraction of a full charge replacement, and both routes together typically cost less than the trips have already cost in lost production. Work out your own figure using the method in [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) before you decide what a test package is worth.
 
-## Test schedule, limits and indicative costs
+## Test schedule and limits
 
 The table below is a planning envelope for a mid sized industrial steam or gas turbine at a Nigerian site. Limits must be confirmed against your OEM manual and your new oil baseline, because a limit without a baseline is a guess. Costs move with laboratory, sample volume, turnaround time and the exchange rate.
 
-| Test | What it catches | Guide caution / action point | Frequency | Indicative cost per sample |
-|---|---|---|---|---|
-| Viscosity at 40°C (D445) | Wrong grade, dilution, oxidation thickening | 5% / 10% change from new | Quarterly | NGN 25k to 45k (USD 16 to 29) |
-| Water by Karl Fischer (D6304) | Gland leaks, cooler leaks, humid ingress | 150 ppm / 300 ppm | Quarterly | NGN 35k to 70k (USD 23 to 45) |
-| Acid number (D664) | Oxidation, additive depletion | +0.1 / +0.3 mg KOH/g over new | Quarterly | NGN 30k to 60k (USD 19 to 39) |
-| Particle count (ISO 4406) | Debris generation, filter bypass | 17/15/12 / 19/17/14 | Quarterly | NGN 40k to 90k (USD 26 to 58) |
-| Elemental spectroscopy (D5185) | Bearing and gear wear, dust, coolant | Trend based, no fixed limit | Quarterly | NGN 55k to 110k (USD 35 to 71) |
-| RULER antioxidant (D6971) | Time left before varnish starts | 50% / 25% of new | Half yearly | NGN 90k to 180k (USD 58 to 116) |
-| MPC varnish potential (D7843) | Governor and servo valve sticking | delta E 30 / 40 | Half yearly | NGN 110k to 220k (USD 71 to 142) |
-| Air release and foam (D3427, D892) | Sluggish governor, micro dieseling | 10 min / 15 min air release | Annually | NGN 120k to 250k (USD 77 to 161) |
-| Analytical ferrography | Wear mode when a trend goes bad | Diagnostic, by exception | On trigger | NGN 180k to 400k (USD 116 to 258) |
+| Test | What it catches | Guide caution / action point | Frequency |
+|---|---|---|---|
+| Viscosity at 40°C (D445) | Wrong grade, dilution, oxidation thickening | 5% / 10% change from new | Quarterly |
+| Water by Karl Fischer (D6304) | Gland leaks, cooler leaks, humid ingress | 150 ppm / 300 ppm | Quarterly |
+| Acid number (D664) | Oxidation, additive depletion | +0.1 / +0.3 mg KOH/g over new | Quarterly |
+| Particle count (ISO 4406) | Debris generation, filter bypass | 17/15/12 / 19/17/14 | Quarterly |
+| Elemental spectroscopy (D5185) | Bearing and gear wear, dust, coolant | Trend based, no fixed limit | Quarterly |
+| RULER antioxidant (D6971) | Time left before varnish starts | 50% / 25% of new | Half yearly |
+| MPC varnish potential (D7843) | Governor and servo valve sticking | delta E 30 / 40 | Half yearly |
+| Air release and foam (D3427, D892) | Sluggish governor, micro dieseling | 10 min / 15 min air release | Annually |
+| Analytical ferrography | Wear mode when a trend goes bad | Diagnostic, by exception | On trigger |
 
-A full quarterly routine package plus the half yearly extended tests lands most single machine plants between NGN 700,000 and NGN 1.6 million a year. Online moisture and particle sensors on the main reservoir add roughly NGN 3.5 million to NGN 9 million per unit installed, and they supplement laboratory work rather than replacing it.
+Cost per sample moves with laboratory, turnaround time and the exchange rate; what stays constant is the frequency needed to catch a trend before it becomes a failure. A full quarterly routine package plus the half yearly extended tests is a modest, predictable annual line for most single machine plants. Online moisture and particle sensors on the main reservoir cost more to install but supplement laboratory work rather than replacing it. See [our cost guide](/generator-turbine-maintenance-cost/) for how programme scope drives the total.
 
 ## Lube oil sampling: where, how often, and why the method decides the result
 
@@ -91,7 +91,7 @@ On frequency, [ASTM D4378](https://store.astm.org/d4378-22.html) sets out the ac
 
 Nigerian sites have two local factors worth planning around. Harmattan season pushes silica into any reservoir with a tired or missing desiccant breather, which is part of the wider picture in [harmattan dust turbine derating](/blog/harmattan-dust-turbine-derating/). And oil bought outside a controlled supply chain is not always the grade on the drum, so a baseline test on new oil before it goes into the machine is money well spent.
 
-A textile mill in Kano proved the cheap end of this. A January sample showed silicon rising from 3 ppm to 28 ppm with a particle count at 21/19/16 and filter differential pressure climbing. The cause was a reservoir breather that had been running without desiccant for two seasons. A new breather assembly and a kidney loop filtration pass came to about NGN 1.8 million (roughly USD 1,160) and returned the system to 16/14/11 inside a week. Left alone, that silica would have gone through the bearings and the servo valves.
+Worked example (hypothetical): a sample shows silicon rising from 3 ppm to 28 ppm with a particle count at 21/19/16 and filter differential pressure climbing. The cause is a reservoir breather that has been running without desiccant for a couple of seasons. A new breather assembly and a kidney loop filtration pass is a modest job that returns the system to 16/14/11 inside a week. Left alone, that silica would go through the bearings and the servo valves.
 
 ## Turning turbine oil analysis results into a maintenance decision
 
@@ -103,7 +103,7 @@ Read the oil alongside the machine. Rising tin plus a bearing metal temperature 
 
 Some responses are site work and some are not. A breather change, a filter change, a resample or a kidney loop pass is routine maintenance. Bearing inspection, oil flushing to a measured cleanliness target, servo valve overhaul and rotor work need an outage window, calibrated tooling and a qualified turbine engineer on site. Oil results tell you which of those you are facing, and they usually tell you early enough to plan it rather than react to it.
 
-Oil condition sits inside the same scope as clearances, alignment and inspection intervals in a [steam turbine overhaul](/steam-turbine-overhaul-nigeria/), and the same discipline applies across pumps, compressors and gearboxes under [rotating equipment services](/rotating-equipment-services-nigeria/). If you want a sampling plan, action limits and a laboratory scope written against your specific machines, call [+234 803 000 0000](tel:+2348030000000) or book a plant assessment.
+Oil condition sits inside the same scope as clearances, alignment and inspection intervals in a [steam turbine overhaul](/steam-turbine-overhaul-nigeria/), and the same discipline applies across pumps, compressors and gearboxes under [rotating equipment services](/rotating-equipment-services-nigeria/). If you want a sampling plan, action limits and a laboratory scope written against your specific machines, [book a plant assessment](/#contact).
 
 ## Frequently Asked Questions
 

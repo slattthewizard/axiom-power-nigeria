@@ -7,13 +7,11 @@ secondary_keywords: "gas turbine tripping under load, exhaust temperature spread
 
 # Gas Turbine Trip Causes: Reading Exhaust Spread, Vibration and Flame-Out Signatures
 
-A 5.5 MW gas turbine trips at 14:20 on a Tuesday, the plant swings onto diesel, and before the week is out the fuel bill for that single event has passed NGN 50 million (about USD 32,000) without anyone opening a casing. That is the real arithmetic behind gas turbine trip causes. The machine is rarely the expensive part of the problem. The guessing is.
+Take a 5.5 MW gas turbine that trips under load. The plant swings onto diesel, and within days the fuel bill for that single event can run past what any proper diagnosis would have cost, without anyone opening a casing. That is the real arithmetic behind gas turbine trip causes. The machine is rarely the expensive part of the problem. The guessing is.
 
 Most units we are asked to look at have already had two or three components changed on suspicion, and they are still tripping. Thermocouple sets get replaced because the spread alarm mentioned temperature. Rotors get quoted for balancing because the vibration number was high. Neither decision was wrong on its face, but neither was supported by the data the machine handed over in the sixty seconds before it came off load.
 
 A trip is not a failure. It is a protection function doing what it was set to do, and it leaves a signature behind. Read the signature properly and you usually know the fault class before the borescope goes in.
-
-USD equivalents below are shown at roughly NGN 1,550 to the dollar. Check the rate on the day you build your budget, and treat every cost band as indicative until a survey has been done on your machine.
 
 ## The First Hour After a Trip Decides What You Can Learn
 
@@ -23,7 +21,7 @@ Four things need pulling before the restart. The first-out annunciation, which t
 
 Here is the practical trap. Many turbine control systems on Nigerian sites historise at one minute averages, sometimes with deadband compression on top. A spread event that opened over ninety seconds shows up as a single flat sample. You cannot diagnose what the historian never recorded, so the first corrective action on some sites is a historian configuration change, not a mechanical one.
 
-If your unit has tripped more than twice this quarter and nobody has pulled the second by second record, that is where the work starts. [Request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000) and an engineer will go through the trip log and the control configuration with you before anything is quoted.
+If your unit has tripped more than twice this quarter and nobody has pulled the second by second record, that is where the work starts. [Request a technical proposal](/#contact) and an engineer will go through the trip log and the control configuration with you before anything is quoted.
 
 ## Exhaust Temperature Spread: The Most Readable of All Gas Turbine Trip Causes
 
@@ -35,11 +33,11 @@ Timing matters as much as pattern. Spread that is acceptable at idle and opens a
 
 Be honest about the limits. Mapping a thermocouple back to a specific can needs the swirl chart for your exact machine and exhaust arrangement. Without it the pattern still separates instrument from combustion, but not which can, and you are into a full borescope rather than a targeted one.
 
-**A flour mill west of Lagos.** A wheat mill on an industrial estate outside Lagos ran a 5.5 MW can-annular unit on a captive scheme. It tripped on high exhaust spread four times in three weeks, always between 40 and 70 percent load during the afternoon ramp. The site had already replaced the complete thermocouple set at NGN 3,200,000 (about USD 2,065) and the trips continued.
+**Hypothetical example: 5.5 MW can-annular unit, captive scheme.** Suppose a unit like this trips on high exhaust spread four times in three weeks, always between 40 and 70 percent load during the afternoon ramp. The site had already replaced the complete thermocouple set, and the trips continued.
 
-The one second data told a different story. Spread opened from 22 K to 61 K over roughly ninety seconds each time, which is a ramp, not the step an instrument failure produces, and two low channels sat at a consistent offset. Borescope inspection found heavy coking on one fuel nozzle and a failed transition piece seal on the adjacent can.
+The one second data would tell a different story. Spread opens from 22 K to 61 K over roughly ninety seconds each time, which is a ramp, not the step an instrument failure produces, and two low channels sit at a consistent offset. Borescope inspection finds heavy coking on one fuel nozzle and a failed transition piece seal on the adjacent can.
 
-Combustion inspection with nozzle refurbishment and seal replacement came to NGN 26,400,000 (about USD 17,000) over a six day outage. The four unplanned trips had already burned roughly NGN 54,000,000 (about USD 34,800) in AGO covering a 3.2 MW load on standby diesel. The repair cost less than the trips that preceded it, and the mill scheduled the outage into an existing gap in wheat deliveries to hold the diesel exposure down.
+A combustion inspection with nozzle refurbishment and seal replacement, done over a six day outage, would cost a fraction of the diesel already burned covering that load on standby power through four unplanned trips. Scheduling the outage into an existing gap in production would hold the diesel exposure down.
 
 ## Vibration Trips: Amplitude Alone Tells You Almost Nothing
 
@@ -51,11 +49,11 @@ Whether the trip happens on run-up through a critical speed or at steady load na
 
 Evaluation criteria for machine vibration are set out in [ISO 20816-1](https://www.iso.org/standard/63180.html), which covers measurement position, magnitude zones and, importantly, evaluation of change rather than absolute level. The zone boundaries are general guidance. Your machine's own alarm and trip settings, fixed by the OEM against that rotor and bearing design, are what govern.
 
-**A processing plant in Rivers State.** An 11 MW unit tripped on high vibration at 11.2 mm/s during run-up after a routine shutdown, three attempts running. The obvious reading was rotor unbalance, and a rotor removal and balance scope had been quoted at NGN 96,000,000 (about USD 62,000) with a long lead time on the balancing slot.
+**Hypothetical example: 11 MW unit, vibration trip on run-up.** Suppose the unit trips on high vibration at 11.2 mm/s during run-up after a routine shutdown, three attempts running. The obvious reading is rotor unbalance, and a rotor removal and balance scope looks like the answer, with a long lead time on the balancing slot.
 
-Phase referenced data said otherwise. The dominant component was at twice running speed with roughly 180 degrees of phase difference across the coupling and a clear axial component, which is a misalignment signature. Cold alignment checked within tolerance. Hot alignment did not, because two soleplate shims had gone missing during an earlier bearing job and the grout under one pedestal had softened.
+Phase referenced data can say otherwise. If the dominant component sits at twice running speed with roughly 180 degrees of phase difference across the coupling and a clear axial component, that is a misalignment signature, not unbalance. Cold alignment can check within tolerance while hot alignment does not, because soleplate shims went missing during an earlier bearing job and the grout under one pedestal has softened.
 
-Grout repair, re-shimming and hot alignment correction came to NGN 8,900,000 (about USD 5,700) over four days. Work of this kind sits under our [rotating equipment services](/rotating-equipment-services-nigeria/) scope and needs proper instrumentation and a qualified engineer on site. It is not a job for a straight edge and feeler gauges on a machine of this size.
+Grout repair, re-shimming and hot alignment correction, done over about four days, is a fraction of what a rotor removal and balance would have cost, with none of the lead time. Work of this kind sits under our [rotating equipment services](/rotating-equipment-services-nigeria/) scope and needs proper instrumentation and a qualified engineer on site. It is not a job for a straight edge and feeler gauges on a machine of this size.
 
 ## Flame-Out: Separating a Real Loss of Flame From a Detection Fault
 
@@ -81,31 +79,31 @@ Then there is the grid. Plants running in parallel with the network see undervol
 
 Ambient conditions matter more than most operators allow for. A gas turbine loses output roughly 0.5 to 0.9 percent for each degree C of inlet air temperature above ISO conditions, depending on the machine, and compressor fouling stacks on top of that.
 
-**A bottling plant in Kano.** A beverage plant found its unit tripping on high exhaust temperature between December and February at loads it had carried comfortably in September. Filter differential pressure had climbed from 0.6 kPa to 1.9 kPa, and while on-line washes were being done, the off-line crank wash had been skipped for fourteen months.
+**Hypothetical example: seasonal high exhaust temperature trip.** Suppose a unit trips on high exhaust temperature during the harmattan months, at loads it carried comfortably a few months earlier. Filter differential pressure has climbed steadily from 0.6 kPa to 1.9 kPa, and while on-line washes were being done, the off-line crank wash had been skipped for over a year.
 
-An off-line wash over a ten hour window plus a filter element change came to NGN 4,300,000 (about USD 2,770) and recovered most of the lost output. Not all of it. Some fouling is not water soluble and only comes off at a compressor inspection, and no amount of washing removes the ambient derate. The seasonal pattern is covered in our note on [harmattan dust and turbine derating](/blog/harmattan-dust-turbine-derating/).
+An off-line wash over a ten hour window, plus a filter element change, recovers most of the lost output. Not all of it. Some fouling is not water soluble and only comes off at a compressor inspection, and no amount of washing removes the ambient derate. The seasonal pattern is covered in our note on [harmattan dust and turbine derating](/blog/harmattan-dust-turbine-derating/).
 
 ## What Gas Turbine Trips Cost to Diagnose and Correct
 
-The table groups the signatures above against likely cause class, first diagnostic step and an indicative cost band. Treat the bands as planning figures for a proposal conversation, not as a quotation.
+The table groups the signatures above against likely cause class and first diagnostic step, to help narrow the fault before you commit to a borescope or a repair.
 
-| Trip signature | Likely cause class | First diagnostic step | Cost band (NGN) | USD equivalent |
-| --- | --- | --- | --- | --- |
-| Spread ramps with load, two low channels at fixed offset | Fuel nozzle fouling or transition piece damage on one can | Targeted borescope, nozzle flow check | 4,500,000 to 38,000,000 | 2,900 to 24,500 |
-| Spread steps on one channel only | Thermocouple, extension wire or cold junction fault | Loop resistance and cold junction verification | 900,000 to 4,500,000 | 580 to 2,900 |
-| Running speed vibration rise with phase shift | Deposit unbalance, blade damage or developing rub | Phase referenced survey, off-line wash trial | 2,500,000 to 45,000,000 | 1,600 to 29,000 |
-| Twice running speed with axial component | Misalignment, soft foot, foundation or grout failure | Cold and hot laser alignment, foundation check | 3,500,000 to 12,000,000 | 2,250 to 7,700 |
-| Flame loss with exhaust temperature collapse | Fuel pressure dip, liquid carryover, composition drift | One second fuel pressure trend, gas analysis and dew point | 6,000,000 to 55,000,000 | 3,900 to 35,500 |
-| Flame loss with exhaust temperature holding | Flame scanner fouling, purge blockage or sighting | Scanner clean, sight tube purge verification | 700,000 to 3,000,000 | 450 to 1,950 |
-| Trip coincident with a network event | Protection setting or genuine grid disturbance | Relay event record and disturbance recorder review | 1,200,000 to 8,000,000 | 780 to 5,200 |
+| Trip signature | Likely cause class | First diagnostic step |
+| --- | --- | --- |
+| Spread ramps with load, two low channels at fixed offset | Fuel nozzle fouling or transition piece damage on one can | Targeted borescope, nozzle flow check |
+| Spread steps on one channel only | Thermocouple, extension wire or cold junction fault | Loop resistance and cold junction verification |
+| Running speed vibration rise with phase shift | Deposit unbalance, blade damage or developing rub | Phase referenced survey, off-line wash trial |
+| Twice running speed with axial component | Misalignment, soft foot, foundation or grout failure | Cold and hot laser alignment, foundation check |
+| Flame loss with exhaust temperature collapse | Fuel pressure dip, liquid carryover, composition drift | One second fuel pressure trend, gas analysis and dew point |
+| Flame loss with exhaust temperature holding | Flame scanner fouling, purge blockage or sighting | Scanner clean, sight tube purge verification |
+| Trip coincident with a network event | Protection setting or genuine grid disturbance | Relay event record and disturbance recorder review |
 
-Two things stand out. The cheapest rows are the instrument and protection ones, and those are exactly the faults most often misdiagnosed as hot section damage. The expensive rows are expensive mainly because of the outage window they need, not the parts.
+Two things stand out. The instrument and protection faults are usually the cheapest to diagnose and fix, and those are exactly the faults most often misdiagnosed as hot section damage. The expensive faults are expensive mainly because of the outage window they need, not the parts.
 
 That is the calculation to put in front of your management. A combustion inspection you schedule is a cost you control. The same work forced on you by a fifth trip costs the same plus whatever your diesel cover burns, and the standby fleet ages faster while it carries the load. Where the money goes across turbine and generator work is set out under [turbine and generator maintenance cost](/generator-turbine-maintenance-cost/), and the point at which a machine has passed economic repair is covered in [overhaul versus replacement](/blog/turbine-overhaul-vs-replacement/).
 
 The last piece is a trip register. One row per event with date, load, ambient, first-out annunciation, spread at trip, vibration at trip and what was done. After six entries the pattern is usually visible without any extra instrumentation, and it is the most useful document you can hand an engineer at the start of a survey. Inspection frequency should also be reviewed against [turbine inspection intervals](/blog/turbine-inspection-intervals/) once a unit starts cycling on trips, because run hours alone stop being a fair measure.
 
-If you want the trip history read properly before the next outage is planned, [request a technical proposal](/#contact) or speak to an engineer on [+234 803 000 0000](tel:+2348030000000). We scope the diagnosis first and quote the correction afterwards, in writing, against what the data shows. Where the work touches the steam side of a combined arrangement, it sits under [steam and gas turbine overhaul](/steam-turbine-overhaul-nigeria/).
+If you want the trip history read properly before the next outage is planned, [request a technical proposal](/#contact). We scope the diagnosis first and quote the correction afterwards, in writing, against what the data shows. Where the work touches the steam side of a combined arrangement, it sits under [steam and gas turbine overhaul](/steam-turbine-overhaul-nigeria/).
 
 ## Frequently Asked Questions
 

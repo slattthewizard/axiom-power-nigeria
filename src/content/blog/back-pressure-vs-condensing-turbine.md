@@ -2,12 +2,12 @@
 title: "Back Pressure vs Condensing Steam Turbine: Which Suits Your Process Plant"
 navTitle: "Back Pressure vs Condensing"
 metaTitle: "Back Pressure vs Condensing Steam Turbine: How to Choose"
-metaDescription: "How back pressure and condensing steam turbines differ on power per tonne of steam, cooling water and capex, with indicative Naira costs for Nigerian plants."
+metaDescription: "How back pressure and condensing steam turbines differ on power per tonne of steam, cooling water and capex, and what decides it in Nigerian plants."
 primaryKeyword: "back pressure vs condensing steam turbine"
 secondaryKeywords: "back pressure steam turbine, condensing steam turbine, extraction condensing turbine, cogeneration steam turbine Nigeria, steam turbine selection"
 publishedDate: "2026-08-12"
 tag: "Turbines"
-subtitle: "Two proposals land on your desk for the same 2 MW steam turbine project, priced within NGN 250 million of each other. The condensing machine makes its full output no matter what the process does."
+subtitle: "Two proposals land on your desk for the same 2 MW steam turbine project, priced close enough to each other that capex alone will not decide it."
 canonical: "https://axiompower.com.ng/blog/back-pressure-vs-condensing-turbine/"
 faq:
   - question: "Can a back pressure turbine be converted to condensing later?"
@@ -19,7 +19,7 @@ faq:
   - question: "What happens to a back pressure turbine when the plant shuts down for maintenance?"
     answer: "It stops, and your site loses that generation for the duration. This is why the parallel pressure reducing station and an alternative supply, whether grid, an existing generator or a rented set, need to be planned as part of the scheme rather than treated as a contingency. Schedule the turbine's own inspection work inside the process shutdown so the two outages overlap instead of adding up."
 ---
-Two proposals land on your desk for the same 2 MW steam turbine project, priced within NGN 250 million of each other. The condensing machine makes its full output no matter what the process does. The back pressure machine makes power only when your plant is drawing steam. Most procurement committees pick the first one, and on a plant with a firm process steam demand that is usually the more expensive mistake.
+Two proposals land on your desk for the same 2 MW steam turbine project, priced close enough to each other that capex alone will not decide it. The condensing machine makes its full output no matter what the process does. The back pressure machine makes power only when your plant is drawing steam. Most procurement committees pick the first one, and on a plant with a firm process steam demand that is usually the more expensive mistake.
 
 The back pressure vs condensing steam turbine decision is not really a decision about turbines. It is a decision about where the heat in your steam ends up. One machine passes that heat on to your process. The other throws roughly two thirds of it into the air over a cooling tower. Everything else, capex, water consumption, staffing and operating flexibility, follows from that single difference.
 
@@ -48,19 +48,15 @@ The table below is indicative for industrial machines in the 1 MW to 10 MW class
 | Total fuel utilisation | 72 to 82% | 45 to 70% | 25 to 30% |
 | Cooling water makeup | None | 1.5 to 2.5 m3 per MWh condensed | 1.5 to 2.5 m3 per MWh |
 | Auxiliary load | 1 to 2% of output | 5 to 9% | 6 to 10% |
-| Installed cost per kW | NGN 550k to 900k (USD 355 to 580) | NGN 1.1m to 1.8m (USD 710 to 1,160) | NGN 1.3m to 2.1m (USD 840 to 1,355) |
+| Relative installed cost per kW | Lowest | Higher | Highest |
 | Output follows | Process steam demand | Electrical demand, within extraction limits | Electrical demand |
 | Plot area, relative | 1.0 | 1.9 to 2.4 | 1.8 to 2.3 |
 | Operating attention | Lowest | Highest | High |
 | Best fit | Firm year-round process steam | Swinging steam demand, flat power demand | No process steam demand |
 
-USD equivalents are converted at an indicative rate near NGN 1,550 to the dollar and will move.
+Read the relative cost line together with the output line. A back pressure set costs less per kilowatt installed because most of the plant a condensing machine needs simply is not there. No condenser, no cooling tower, no circulating water pumps, no vacuum system, no condensate polishing. That is fewer things to buy and fewer things to fail at 2am.
 
-Read the cost per kW line together with the output line. A back pressure set is cheap per kilowatt because most of the plant a condensing machine needs simply is not there. No condenser, no cooling tower, no circulating water pumps, no vacuum system, no condensate polishing. That is fewer things to buy and fewer things to fail at 2am.
-
-Consider a palm oil mill in the South South running fibre and shell in a 21 bar boiler. Steam demand for sterilisation and the oil room sits near 20 tonnes per hour during the season, and the mill previously carried a 1.1 MW electrical load on diesel. A back pressure set exhausting at 3 bar delivered about 1.35 MW gross across roughly 4,000 operating hours a year.
-
-At a delivered diesel price near NGN 1,150 per litre and a specific consumption of 0.28 litres per kWh, that displaced load was costing about NGN 322 per kWh, or close to NGN 1.4 billion a year. The turbine island came in at roughly NGN 950 million. The exhaust steam still did the sterilisation. That is the back pressure case in one paragraph, and it only works because the steam demand was already there and already firm.
+**Hypothetical example: back pressure set against an existing diesel load.** Take a plant with a firm steam demand for process duty near 20 tonnes per hour during the season, previously carrying part of its electrical load on diesel. A back pressure set exhausting at 3 bar can deliver a substantial share of that load across a few thousand operating hours a year, at a fuel cost per kWh well below diesel and with the turbine island cost recovered from the avoided diesel spend inside a few years. See [diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/) for the method of comparing the two on your own fuel price. The exhaust steam still does the process duty afterwards. That is the back pressure case in outline, and it only works because the steam demand is already there and already firm.
 
 ## The condenser is the part that costs you
 
@@ -86,7 +82,7 @@ You also need a full capacity pressure reducing and desuperheating station in pa
 
 Exhaust steam quality is a further detail worth checking at design stage. Back pressure exhaust is often still superheated, and process equipment sized for saturated steam will not transfer heat as expected. Desuperheating with treated condensate is the normal fix, and it belongs in the heat balance from the start.
 
-Costing this properly means knowing what a lost hour is actually worth to you. If that number has never been calculated for your site, our breakdown of [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) sets out the method. To have your steam balance, load profile and outage exposure reviewed together, [book a plant assessment](/#contact) or call [+234 803 000 0000](tel:+2348030000000).
+Costing this properly means knowing what a lost hour is actually worth to you. If that number has never been calculated for your site, our breakdown of [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) sets out the method. To have your steam balance, load profile and outage exposure reviewed together, [book a plant assessment](/#contact).
 
 ## Extraction-condensing when back pressure and condensing steam turbines both half-fit
 
@@ -94,11 +90,11 @@ Most real plants do not sit cleanly at either end. Steam demand swings, electric
 
 An extraction-condensing turbine takes controlled extraction at process pressure from an intermediate stage and passes the balance through to a condensing exhaust. Extraction control valves hold header pressure while the condensing tail absorbs whatever the process is not taking. Power output becomes largely independent of steam demand, within the extraction and minimum flow limits set by the machine design.
 
-Consider a food processing plant in the North with a flat 2.5 MW electrical load. Steam demand ran near 12 tonnes per hour on day shift and dropped to about 3 tonnes per hour overnight. A back pressure set sized for the day load would have collapsed to under a third of its output at night, leaving the plant back on diesel for the very hours it was trying to eliminate.
+**Hypothetical example: flat 2.5 MW electrical load, swinging steam demand.** Suppose steam demand runs near 12 tonnes per hour on day shift and drops to about 3 tonnes per hour overnight. A back pressure set sized for the day load would collapse to under a third of its output at night, leaving the plant back on diesel for the very hours it was trying to eliminate.
 
-A 3.5 MW extraction-condensing unit with controlled extraction at 6 bar held the electrical output steady across both conditions. The turbine island cost roughly NGN 4.6 billion against about NGN 2.8 billion for the back pressure option plus its bridging generation. The deciding figure was not capex, it was the 8,000 hours a year of stable self-generation that the back pressure arrangement could not deliver.
+A 3.5 MW extraction-condensing unit with controlled extraction at 6 bar can hold the electrical output steady across both conditions instead. It costs more to install than a back pressure set plus bridging generation would, but the deciding figure is not capex, it is the several thousand hours a year of stable self-generation that the back pressure arrangement cannot deliver.
 
-The counter-example is worth stating too. A starch plant inland specified a straight condensing set on the strength of its electrical output figure, then found borehole yield insufficient for the cooling tower duty. The retrofitted air-cooled condenser added roughly NGN 420 million and about 11 weeks to the programme, and the machine still gives up several percent of output on hot afternoons. The water study should have come before the turbine selection.
+The counter-example is worth stating too. **Hypothetical example: a condensing set specified on electrical output alone.** Suppose borehole yield turns out insufficient for the cooling tower duty once the machine is selected. Retrofitting an air-cooled condenser adds significant cost and weeks to the programme, and the machine still gives up several percent of output on hot afternoons. The water study should have come before the turbine selection.
 
 Where the plant already has a gas turbine and the question is whether to add a steam bottoming cycle at all, the same logic applies one level up and is worked through in [simple cycle vs combined cycle](/blog/simple-cycle-vs-combined-cycle/).
 

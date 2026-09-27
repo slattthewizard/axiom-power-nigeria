@@ -7,7 +7,7 @@ secondary_keywords: "critical spares holding, generator spare parts import niger
 
 # Turbine Spare Parts Lead Time in Nigeria: Planning Around the Number Nobody Quotes
 
-A food processing plant in Agbara stripped a 6 MW steam turbine on schedule. The inspection found two diaphragms beyond repair. The OEM quoted 34 weeks for replacements. The outage had been planned for six weeks. The machine sat open for eight months while the plant ran on rented gensets at a burn rate that exceeded the cost of the parts several times over.
+Suppose a 6 MW steam turbine is stripped for a planned six-week outage. The inspection finds two diaphragms beyond repair, and the OEM quotes 34 weeks for replacements. The machine then sits open for months while the plant runs on rented gensets at a burn rate that exceeds the cost of the parts several times over.
 
 Nothing in that sequence was a technical failure. The overhaul was correct, the inspection was correct, the diagnosis was correct. What was missing was that turbine spare parts lead time in Nigeria had never been treated as a design input to the outage plan. It was discovered after the casing was open, which is the one moment when it cannot be managed.
 
@@ -21,7 +21,7 @@ Then comes freight. Sea freight to Lagos or Onne runs 5 to 9 weeks door to port 
 
 Finally there is foreign exchange. Securing and settling FX for a large parts order is a real scheduling item, not an administrative footnote, and a delay here stops the order before manufacturing even begins.
 
-If you want a spares position assessed against your actual machine population rather than a generic list, [request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000).
+If you want a spares position assessed against your actual machine population rather than a generic list, [request a technical proposal](/#contact).
 
 ## The four stages, with realistic ranges
 
@@ -39,7 +39,7 @@ The practical consequence is that a part discovered as needed on the day the cas
 
 ## Classifying criticality: which parts you hold and which you order
 
-Holding every spare is capital sitting on a shelf. Holding none is the Agbara scenario. The resolution is classification, and it turns on two questions per part: what does its absence cost per day, and how long does it take to obtain.
+Holding every spare is capital sitting on a shelf. Holding none is the scenario at the top of this article, a machine open and waiting on parts for months. The resolution is classification, and it turns on two questions per part: what does its absence cost per day, and how long does it take to obtain.
 
 **Class A, hold on site.** Long lead time and high consequence. Journal and thrust bearing shells, governor and control valve components, main lube oil pump internals, critical instrumentation. These are the parts that turn a two-day repair into a two-quarter outage.
 

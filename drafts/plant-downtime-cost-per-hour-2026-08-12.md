@@ -7,7 +7,7 @@ secondary_keywords: "unplanned downtime cost calculation, plant downtime cost pe
 
 # The Cost of Unplanned Downtime per Hour: What One Stopped Hour Actually Takes Off Your Plant
 
-A 2.5 MW gas turbine tripped at a Lagos industrial estate at 09:14 on a Tuesday and was back on load at 11:40. The maintenance log recorded two and a half hours lost. Finance reconciled the same event at N4.1m, about $2,650, and most of that money had nothing to do with the turbine.
+Take a 2.5 MW gas turbine that trips and is back on load two and a half hours later. The maintenance log records two and a half hours lost. Finance can reconcile the same event at several times that simple figure once every affected line is added up, and most of the added cost has nothing to do with the turbine itself.
 
 The cost of unplanned downtime per hour is the most useful single number a plant can hold, and it is the number most plants cannot produce when asked for it. Without it, every maintenance decision becomes an argument about a spend figure with nothing on the other side of the scale. With it, a spares holding decision or a redundancy proposal takes about ten minutes to settle.
 
@@ -47,13 +47,13 @@ Add them and you have a cost per event and a cost per additional hour, which is 
 
 ## Three Plants, Three Very Different Downtime Costs per Hour
 
-The figures below are anonymised, rounded, and priced at roughly N1,550 to the dollar. Your own numbers will differ. The point of showing three is that the spread between sites is far wider than most managers expect.
+The figures below are hypothetical worked examples, rounded, using illustrative naira inputs. Your own numbers will differ; use your own margin, labour rate and material cost throughout. The point of showing three is that the spread between plants is far wider than most managers expect.
 
-**A sesame crushing mill in the north**, 45 tonnes of seed a day across two 11 hour shifts, contribution margin of N38,000 per tonne. Throughput is about 2.05 tonnes per hour, so the lost margin is N77,900 an hour. Thirty four people at a fully loaded N1,100 an hour adds N37,400. The expeller cages have to be brought back to temperature and the first 25 minutes of output is recycled, which costs about N46,000 in reprocessing and energy on the first hour only.
+**Hypothetical example: an oilseed crushing operation**, processing 45 tonnes of seed a day across two 11 hour shifts, at an assumed contribution margin of N38,000 per tonne (use your own margin). Throughput works out to about 2.05 tonnes per hour, so the illustrative lost margin is N77,900 an hour on that assumption. Thirty four people at a fully loaded N1,100 an hour (use your own loaded labour rate) adds N37,400. The expeller cages have to be brought back to temperature and the first 25 minutes of output is recycled, adding a reprocessing and energy cost on the first hour only.
 
-**An injection moulding plant on a Lagos industrial estate**, eight machines, 320 kW connected load, running a customer schedule. When supply drops without a controlled shutdown, polymer freezes in the barrels and hot runners. Purging and requalification takes 90 to 150 minutes and scraps 40 to 70 kg of resin per machine, at around N2,150 per kg. That is a fixed penalty near N946,000 whether the outage lasted 20 minutes or four hours.
+**Hypothetical example: a plastics injection moulding operation**, eight machines, 320 kW connected load, running a customer schedule. When supply drops without a controlled shutdown, polymer freezes in the barrels and hot runners. Purging and requalification takes 90 to 150 minutes and scraps 40 to 70 kg of resin per machine, at an assumed resin cost of N2,150 per kg (use your own delivered price). That works out to a fixed penalty near N946,000, whether the outage lasted 20 minutes or four hours.
 
-**A frozen store in Rivers State**, 900 pallet positions, roughly N783m of stock, holding minus 18 degrees C against a 32 degree ambient. With doors sealed and no heat load added, the room warms slowly. Product stays within specification for several hours, then the cost arrives all at once.
+**Hypothetical example: a frozen storage facility**, 900 pallet positions, holding minus 18 degrees C against a 32 degree ambient, at an assumed stock value of N783m (use your own inventory value). With doors sealed and no heat load added, the room warms slowly. Product stays within specification for several hours, then the exposure arrives all at once.
 
 | Cost line, NGN per hour | Oilseed mill | Moulding plant | Frozen store |
 | --- | --- | --- | --- |
@@ -65,8 +65,7 @@ The figures below are anonymised, rounded, and priced at roughly N1,550 to the d
 | Expedite, hire and contract exposure | 0 | 60,000 | 0 |
 | **First hour total** | **173,300** | **1,563,600** | **165,000** |
 | **Each further hour** | **115,300** | **498,600** | **117,000** |
-| First hour in USD | 112 | 1,009 | 106 |
-| Product at risk beyond ride-through | None | None | 45m to 78m as a step |
+| Product at risk beyond ride-through | None | None | 45m to 78m as a step, on the assumed stock value above |
 
 Three observations follow from that table.
 
@@ -74,7 +73,7 @@ The moulding plant's cost is dominated by a fixed restart penalty, not by elapse
 
 The oilseed mill's cost is close to linear, so its case is about mean time to repair. Spares on the shelf and a defined contractual response time move the number directly.
 
-The frozen store looks cheap for six hours, then becomes the most expensive site of the three by two orders of magnitude. An hourly average for that plant would justify nothing and protect nothing.
+The frozen store example looks cheap for six hours, then becomes the most expensive of the three by two orders of magnitude. An hourly average for that plant would justify nothing and protect nothing.
 
 ## Why the Fifth Hour Rarely Costs What the First Hour Cost
 
@@ -86,7 +85,7 @@ There is a second curve running in the opposite direction. Beyond about four hou
 
 This is also where technology claims need care. Solar photovoltaic on its own does not provide ride-through, because output collapses with irradiance and it cannot hold a process through a cloud passage, let alone a night outage. Battery storage does provide ride-through, but only for the load and duration it was sized for, and sizing for a 320 kW moulding hall for two hours is a very different capital number from sizing for a 15 kW control room. A UPS on controls and a diesel set on the process is often the cheaper and more honest answer. Any of these decisions needs a measured load profile first, which is what [load bank testing](/blog/generator-load-bank-testing/) and a demand survey are for.
 
-To have the ride-through and restart requirement sized against your actual process curve, [book a plant assessment](/#contact) or speak to an engineer on [+234 803 000 0000](tel:+2348030000000).
+To have the ride-through and restart requirement sized against your actual process curve, [book a plant assessment](/#contact).
 
 ## Where the Hours Actually Come From
 
@@ -104,7 +103,7 @@ Diagnosis of a repeat failure needs an engineer on site with instrumentation, no
 
 The cost per hour is not a reporting metric. It is a decision tool, and it settles four arguments that otherwise run indefinitely.
 
-**Maintenance spend.** A N14m annual [generator maintenance](/generator-maintenance-nigeria/) programme at the moulding plant pays for itself if it prevents nine unplanned stops a year. At the oilseed mill the same programme needs to prevent about 40. Same proposal, completely different verdicts, and both are correct.
+**Maintenance spend.** A [generator maintenance](/generator-maintenance-nigeria/) programme priced against your own downtime cost pays for itself if it prevents only a handful of unplanned stops a year at the moulding plant example above. At the oilseed mill example, with a much lower cost per hour, the same programme needs to prevent many more stops to clear the same bar. Same proposal, completely different verdicts depending on which plant is asking, and both are correct.
 
 **Redundancy.** Sizing N plus 1 capacity is a capital decision that is trivial to justify at N1.5m an hour and hard to justify at N165,000 an hour with a six hour ride-through.
 
@@ -128,7 +127,7 @@ Contribution margin, which is revenue less the variable costs you avoid while st
 
 ### What is a typical downtime cost per hour for a Nigerian factory?
 
-There is no useful typical figure, and any consultant quoting one without seeing your process should be treated with caution. Across the sites in this article the first hour ranged from about N165,000 to over N1.5m, and the frozen store's exposure beyond its ride-through window was in the tens of millions. Process type, thermal inertia, batch structure and buffer stock matter far more than plant size or installed kW.
+There is no useful typical figure, and any consultant quoting one without seeing your process should be treated with caution. Across the hypothetical examples in this article the first hour ranged from about N165,000 to over N1.5m on the assumptions used, and the cold storage example's exposure beyond its ride-through window was in the tens of millions. Process type, thermal inertia, batch structure and buffer stock matter far more than plant size or installed kW.
 
 ### Does a standby generator remove the downtime cost entirely?
 

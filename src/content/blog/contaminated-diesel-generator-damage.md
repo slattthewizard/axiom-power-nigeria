@@ -2,12 +2,12 @@
 title: "Contaminated Diesel and Generator Damage: The Fuel Quality Checks Every Plant Should Run"
 navTitle: "Contaminated Diesel and"
 metaTitle: "Contaminated Diesel and Generator Damage in Nigeria"
-metaDescription: "Water, microbes and particulate in your fuel wreck injectors and pumps. The fuel quality checks, tank routines and naira costs every Nigerian plant should know."
+metaDescription: "Water, microbes and particulate in your fuel wreck injectors and pumps. The fuel quality checks, tank routines and damage patterns every Nigerian plant should know."
 primaryKeyword: "contaminated diesel generator damage"
 secondaryKeywords: "diesel fuel contamination generator, water in diesel fuel tank, diesel bug in generator fuel, fuel quality test for generators, injector damage from contaminated diesel"
 publishedDate: "2026-08-14"
 tag: "Generators"
-subtitle: "A 200 kVA standby set at a private hospital on the Lagos mainland ran eleven months without a single fault code, then lost three injectors and a high pressure fuel pump inside the same fortnight."
+subtitle: "A 200 kVA standby set can run eleven months without a single fault code, then lose three injectors and a high pressure fuel pump inside the same fortnight."
 canonical: "https://axiompowerng.com/blog/contaminated-diesel-generator-damage/"
 faq:
   - question: "How do I know if contaminated diesel is damaging my generator?"
@@ -15,15 +15,15 @@ faq:
   - question: "Can water in a diesel tank be removed without draining the whole tank?"
     answer: "Often yes, if it is still free water at the low point and the tank has a sump and drain valve. Weekly draining plus a coalescing filtration or polishing loop will manage it. Once there is a sludge layer, microbial growth or corrosion of the floor, a full drain, mechanical clean and internal inspection is the only honest answer, and that needs confined space procedures and a qualified crew."
   - question: "What does injector and fuel pump damage from bad diesel cost in Nigeria?"
-    answer: "For a set in the 100 to 350 kVA range, expect roughly N1.5m to N5.5m for a full set of injectors and N3.5m to N11m for a high pressure pump, depending on engine make and whether the part is stocked locally. Lead times on non-stocked injection components commonly run six to twelve weeks, and hired standby plus lost production over that period usually exceeds the parts bill. Prevention typically costs N1m to N4m as a one off."
+    answer: "It depends heavily on engine make and whether the part is stocked locally or has to be imported. A full set of injectors and a high pressure pump are both significant line items, and lead times on non-stocked injection components commonly run six to twelve weeks, during which hired standby plus lost production usually exceeds the parts bill itself. Prevention, by contrast, is a modest one-off spend against that exposure. Request a technical proposal for figures against your own engine make and set size."
   - question: "How often should a Nigerian plant test its diesel fuel?"
     answer: "Dip and drain weekly, log filter differential pressure and element life at every service, draw a clear jar sample monthly and run a microbial dip slide quarterly. Send a sample for full laboratory analysis annually, or immediately if you are in dispute with a supplier or have had an unexplained injection failure. Sites with high humidity, low fuel turnover or drum based transfer should tighten those intervals, because the exposure is site specific."
 ---
-A 200 kVA standby set at a private hospital on the Lagos mainland ran eleven months without a single fault code, then lost three injectors and a high pressure fuel pump inside the same fortnight. The repair came to N6.4m, about $4,100, plus four days on hired plant. The tanker that caused it had made its last delivery nine weeks earlier.
+A 200 kVA standby set can run eleven months without a single fault code, then lose three injectors and a high pressure fuel pump inside the same fortnight. The repair for that kind of failure runs into several times the cost of the prevention that would have stopped it, plus days lost to hired plant while the set is down. The contaminated delivery that caused it can sit in the tank for weeks or months before the damage shows.
 
 Contaminated diesel generator damage almost never announces itself on the day the bad fuel arrives. It accumulates in the bottom of a tank, migrates through a filter that nobody is monitoring, and presents months later as an expensive mechanical failure that gets written up as bad luck or a bad batch of parts. By then the evidence has been burnt.
 
-This article sets out where the contamination comes from, what it does inside the injection system, the checks you can run without a laboratory, and what the failures cost in naira.
+This article sets out where the contamination comes from, what it does inside the injection system, the checks you can run without a laboratory, and what the failures typically cost against the price of prevention.
 
 ## How Diesel Gets Contaminated Between the Depot and Your Day Tank
 
@@ -59,34 +59,34 @@ Most of what matters can be established on site by a competent technician with s
 
 The single most useful indicator costs nothing. Track filter life in running hours and write it down. A primary filter that used to last 500 hours and now lasts 120 is telling you the tank is dirty, and it is telling you long before the engine does.
 
-| Check | What it detects | Frequency | Indicative cost (NGN) | Act when |
-|---|---|---|---|---|
-| Tank dip with water finding paste, then drain the sump | Free water and settled sludge | Weekly | 15,000 per tube | Any colour change, or cloudy dark drawings |
-| Filter differential pressure and element life log | Particulate and biomass loading | Every service | 30,000 for a gauge kit | Element life falls by a third or more |
-| Clear jar sample from tank bottom and day tank | Water haze, sediment, dark slime | Monthly | Labour only | Sample is not bright and clear |
-| Microbial dip slide or ATP test | Bacteria and fungi at the water interface | Quarterly | 25,000 to 60,000 per test | Any moderate or heavy growth reading |
-| Sealed sample retained from each tanker | Supplier accountability, adulteration | Every delivery | Cost of a sample bottle | Density, colour or smell varies from the norm |
-| Full laboratory fuel analysis | Water and sediment, density, flash point, cleanliness code | Annually, or in dispute | 120,000 to 280,000 | Any result outside the fuel specification |
+| Check | What it detects | Frequency | Act when |
+|---|---|---|---|
+| Tank dip with water finding paste, then drain the sump | Free water and settled sludge | Weekly | Any colour change, or cloudy dark drawings |
+| Filter differential pressure and element life log | Particulate and biomass loading | Every service | Element life falls by a third or more |
+| Clear jar sample from tank bottom and day tank | Water haze, sediment, dark slime | Monthly | Sample is not bright and clear |
+| Microbial dip slide or ATP test | Bacteria and fungi at the water interface | Quarterly | Any moderate or heavy growth reading |
+| Sealed sample retained from each tanker | Supplier accountability, adulteration | Every delivery | Density, colour or smell varies from the norm |
+| Full laboratory fuel analysis | Water and sediment, density, flash point, cleanliness code | Annually, or in dispute | Any result outside the fuel specification |
 
 The clear jar test is the most underrated tool on a Nigerian plant. Draw a sample from the lowest point of the tank into a clean glass jar, stand it for fifteen minutes and hold it against a white background. Clean diesel is bright and clear. Haze means suspended water, a layer at the bottom means free water, and dark stringy material at the interface means a biological problem rather than a housekeeping one.
 
 The retained delivery sample changes commercial behaviour. When a haulier knows a sealed and labelled sample is taken from every load and kept for ninety days, the quality of what arrives improves. Downstream petroleum product supply is regulated by the Nigerian Midstream and Downstream Petroleum Regulatory Authority at [nmdpra.gov.ng](https://www.nmdpra.gov.ng/). Cleanliness is expressed under the ISO 4406 coding system, published by [iso.org](https://www.iso.org/), and many common rail engine makers specify a code in the region of 18/16/13 or cleaner at the injector. Bulk fuel reaching a typical Nigerian industrial tank is routinely several codes dirtier, which is why filtration matters more here than the engine manual assumes.
 
-To have a sampling and testing regime written for your site and your set, [request a technical proposal](/#contact) or call the engineering desk on [+234 803 000 0000](tel:+2348030000000).
+To have a sampling and testing regime written for your site and your set, [request a technical proposal](/#contact).
 
-## What Diesel Contamination Damage Costs: Two Field Cases
+## What Diesel Contamination Damage Costs: Two Worked Examples
 
-Numbers argue better than principles in a budget meeting, so here are two, both anonymised.
+The pattern is easier to see worked through than described in the abstract, so here are two.
 
-A cassava processing plant in Delta State ran two 350 kVA sets from a 20,000 litre bunded steel tank installed without a sump or a drain valve. Water bottoms had accumulated for four years with no way to remove them. Nobody noticed until primary filter life fell from roughly 400 hours to 90 hours over one rainy season, and the response was to buy more filters.
+**Hypothetical example: two 350 kVA sets on a 20,000 litre bunded steel tank with no sump or drain valve.** Water bottoms accumulate for years with no way to remove them. Nobody notices until primary filter life falls from roughly 400 hours to 90 hours over one rainy season, and the response is to buy more filters.
 
-The failure arrived in the dry season. One set lost its high pressure pump and a full set of six injectors, and the strip found pitted plunger surfaces consistent with water and abrasive wear rather than age. Parts and labour came to N9.7m, about $6,300, with an eight week lead time on the pump because it was not a stocked item. The plant hired 400 kVA of standby at N2.1m a month for two months and lost eleven production shifts it valued at N14.3m, taking total exposure to roughly N28m, close to $18,000.
+The failure arrives in the dry season. One set loses its high pressure pump and a full set of six injectors, and the strip finds pitted plunger surfaces consistent with water and abrasive wear rather than age. The pump is not a stocked item, so replacement carries an import lead time on top of the parts and labour. Hired standby for the outage period, plus the lost production shifts, can add up to several times the repair bill itself.
 
-Prevention would have cost a fraction of that. A sump and drain valve retrofit at N850k, a two stage coalescing filtration and polishing loop at N2.9m, and a weekly dip and drain routine that takes one technician ten minutes. Our note on [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) sets out how to put a defensible naira figure on the shift you lose.
+Prevention would have cost a fraction of that: a sump and drain valve retrofit, a two stage coalescing filtration and polishing loop, and a weekly dip and drain routine that takes one technician ten minutes. Our note on [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/) sets out how to put a defensible figure on the shift you lose.
 
-The second case is smaller and more typical. A 60-bed clinic in Kaduna ran a 100 kVA set on a 5,000 litre tank topped up in 800 litre drums rather than by tanker. Drum transfer with a hand pump and an open funnel is an efficient way to introduce dust and water, and the tank was never more than a third full, so it breathed heavily every night.
+The second case is smaller and more typical. **Hypothetical example: a 100 kVA set on a 5,000 litre tank topped up in drums rather than by tanker.** Drum transfer with a hand pump and an open funnel is an efficient way to introduce dust and water, and if the tank is never more than a third full it breathes heavily every night.
 
-The set began shutting down on low fuel pressure during theatre hours. The clinic changed filters four times in six weeks, replaced the lift pump, then called for help. A dip slide returned heavy fungal growth and the jar sample showed 40 mm of water with a black interface layer. Corrective work was a full drain and mechanical clean at N620k, shock and maintenance biocide dosing at N310k, a filtration upgrade at N1.4m and two damaged injectors at N1.9m, totalling N4.23m or about $2,700. The N780k already spent on repeat filters and a pump had achieved nothing, because nobody had tested the fuel.
+The set begins shutting down on low fuel pressure at the worst possible moment. Filters get changed four times in six weeks, the lift pump gets replaced, then someone finally calls for help. A dip slide returns heavy fungal growth and the jar sample shows 40 mm of water with a black interface layer. Corrective work is a full drain and mechanical clean, shock and maintenance biocide dosing, a filtration upgrade and two damaged injectors, and the money already spent on repeat filters and a pump achieved nothing, because nobody had tested the fuel.
 
 Both sites made the same mistake. They treated a fuel problem as a parts problem.
 
@@ -120,7 +120,7 @@ Often yes, if it is still free water at the low point and the tank has a sump an
 
 ### What does injector and fuel pump damage from bad diesel cost in Nigeria?
 
-For a set in the 100 to 350 kVA range, expect roughly N1.5m to N5.5m for a full set of injectors and N3.5m to N11m for a high pressure pump, depending on engine make and whether the part is stocked locally. Lead times on non-stocked injection components commonly run six to twelve weeks, and hired standby plus lost production over that period usually exceeds the parts bill. Prevention typically costs N1m to N4m as a one off.
+It depends heavily on engine make and whether the part is stocked locally or has to be imported. A full set of injectors and a high pressure pump are both significant line items, and lead times on non-stocked injection components commonly run six to twelve weeks, during which hired standby plus lost production usually exceeds the parts bill itself. Prevention, by contrast, is a modest one-off spend against that exposure. [Request a technical proposal](/#contact) for figures against your own engine make and set size.
 
 ### How often should a Nigerian plant test its diesel fuel?
 

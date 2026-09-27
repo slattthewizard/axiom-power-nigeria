@@ -1,6 +1,6 @@
 ---
 meta_title: "Harmattan Dust Effect on Turbines and Generators | Nigeria"
-meta_description: "Harmattan dust, ambient heat and humidity quietly derate turbines and generators across Nigeria. Derating figures, filtration options and NGN cost data inside."
+meta_description: "Harmattan dust, ambient heat and humidity quietly derate turbines and generators across Nigeria. Derating figures and filtration options inside."
 primary_keyword: "harmattan dust effect on turbines and generators"
 secondary_keywords: "generator derating in Nigeria, gas turbine inlet air filtration, ambient temperature derating diesel generator, harmattan season generator maintenance, compressor fouling gas turbine"
 ---
@@ -51,27 +51,27 @@ IEEE 43 sets out the recommended practice here. For random-wound stator windings
 
 Anti-condensation heaters exist for exactly this reason and are frequently found switched off or failed. Checking them is a ten minute job in November that prevents a rewind in April.
 
-## Three field scenarios and what the derating actually cost
+## Three hypothetical scenarios and what the derating costs
 
-The figures below are illustrative and anonymised. They use diesel at 1,150 naira per litre and an exchange rate of 1,550 naira to the US dollar. Your own numbers will differ with site conditions, load factor and fuel contract.
+The figures below are illustrative and hypothetical. Your own numbers will differ with site conditions, load factor and fuel contract.
 
-**A flour mill in the north-west, one 1,250 kVA prime set, two shifts.** Average load 600 kW, 16 hours a day, 26 days a month, so about 249,600 kWh a month. Specific fuel consumption drifted from 0.28 to 0.31 litres per kWh across December and January as air filter restriction climbed and a dust blanket on the radiator core cut heat rejection, forcing the controller to derate. The extra 0.03 litres per kWh is 7,488 litres a month, about 8.6 million naira (roughly 5,550 US dollars) a month in fuel alone, before the two load-shed events per shift that cost milling throughput. A two-stage pre-cleaner, a halved filter interval for December to February and weekly radiator blowdown removed most of it.
+**Hypothetical example: a 1,250 kVA prime set running two shifts.** Average load 600 kW, 16 hours a day, 26 days a month, so about 249,600 kWh a month. Specific fuel consumption drifts from 0.28 to 0.31 litres per kWh across December and January as air filter restriction climbs and a dust blanket on the radiator core cuts heat rejection, forcing the controller to derate. The extra 0.03 litres per kWh is 7,488 litres a month, which you can price at your own delivered diesel rate, before the two load-shed events per shift that cost production throughput. A two-stage pre-cleaner, a halved filter interval for December to February and weekly radiator blowdown removes most of it.
 
-**A beverage plant in the south-west, 5 MW class gas turbine in cogeneration.** At a 33 degree C inlet, the machine was already down to about 4.37 MW on ambient alone. Loaded filters added roughly 40 mm water gauge of inlet pressure drop above clean condition, costing a further 0.5 percent or so, and compressor fouling took another 3 percent. Available output sat near 4.2 MW against a 5 MW ISO rating. An offline crank wash in a 10 hour window recovered close to 2.6 percent. Across 3,000 hours of dry season running, that recovered energy displaced diesel generation worth well over 100 million naira. The arithmetic on a wash is rarely close.
+**Hypothetical example: a 5 MW class gas turbine in cogeneration service.** At a 33 degree C inlet, the machine is already down to about 4.37 MW on ambient alone. Loaded filters add roughly 40 mm water gauge of inlet pressure drop above clean condition, costing a further 0.5 percent or so, and compressor fouling takes another 3 percent. Available output sits near 4.2 MW against a 5 MW ISO rating. An offline crank wash in a 10 hour window recovers close to 2.6 percent. Across 3,000 hours of dry season running, that recovered energy displaces a substantial value of diesel generation that would otherwise have covered the shortfall. The arithmetic on a wash is rarely close.
 
-**A fabrication works in the FCT, two 500 kVA standby sets.** Both sets sat idle through harmattan with the anti-condensation heaters unpowered. On the first wet-season call, one set failed to hold load and tripped on earth fault. Insulation resistance measured 2 megohms. Cleaning, drying and retesting came to around 1.4 million naira. Had the winding flashed over, a rewind would have been in the region of 14 million naira with an eight to ten week lead time on the core.
+**Hypothetical example: two 500 kVA standby sets.** Both sit idle through harmattan with the anti-condensation heaters unpowered. On the first wet-season call, one set fails to hold load and trips on earth fault. Insulation resistance measures 2 megohms. Cleaning, drying and retesting comes to a modest sum and a short turnaround. Had the winding flashed over, a full rewind would have cost several times more, with an eight to ten week lead time on the core.
 
-| Measure | Typical scope | Indicative cost (NGN) | What it addresses | Caveat |
-|---|---|---|---|---|
-| Genset inlet upgrade | Cyclonic pre-cleaner plus panel filter, per set | 850,000 to 2,400,000 | Erosion, filter restriction | Needs airflow re-check; do not restrict the engine |
-| Radiator clean and fin comb | Pressure wash, comb, per set | 180,000 to 450,000 | Heat rejection, thermal derate | Monthly during harmattan, not annually |
-| Alternator clean, dry, IR and PI test | Per machine, offline | 600,000 to 1,600,000 | Tracking, earth faults | Requires the machine out of service |
-| Anti-condensation heater retrofit | Per machine | 250,000 to 700,000 | Winding moisture | Must stay energised when the set is off |
-| GT offline crank wash | 5 MW class, 8 to 12 hour outage | 3,500,000 to 6,000,000 | Compressor fouling | Outage window and qualified crew required |
-| Self-cleaning pulse filter house | GT inlet retrofit | 45,000,000 to 120,000,000 | Fouling and erosion | Design must suit site dust loading |
-| Borescope inspection | Hot section and compressor | 1,800,000 to 4,500,000 | Erosion, coating loss | Findings may open unplanned scope |
+| Measure | Typical scope | What it addresses | Caveat |
+|---|---|---|---|
+| Genset inlet upgrade | Cyclonic pre-cleaner plus panel filter, per set | Erosion, filter restriction | Needs airflow re-check; do not restrict the engine |
+| Radiator clean and fin comb | Pressure wash, comb, per set | Heat rejection, thermal derate | Monthly during harmattan, not annually |
+| Alternator clean, dry, IR and PI test | Per machine, offline | Tracking, earth faults | Requires the machine out of service |
+| Anti-condensation heater retrofit | Per machine | Winding moisture | Must stay energised when the set is off |
+| GT offline crank wash | 5 MW class, 8 to 12 hour outage | Compressor fouling | Outage window and qualified crew required |
+| Self-cleaning pulse filter house | GT inlet retrofit | Fouling and erosion | Design must suit site dust loading |
+| Borescope inspection | Hot section and compressor | Erosion, coating loss | Findings may open unplanned scope |
 
-All ranges are indicative and subject to a site survey. Filter house design in particular depends on measured dust loading, and specifying it from a catalogue is how plants end up with the wrong pressure drop.
+These measures need a site survey to scope and cost properly. Filter house design in particular depends on measured dust loading, and specifying it from a catalogue is how plants end up with the wrong pressure drop.
 
 ## Controlling harmattan dust on turbines and generators: filtration, washing and intervals
 
@@ -85,7 +85,7 @@ Three decisions carry most of the benefit.
 
 One caution on inlet cooling. Evaporative cooling and fogging can recover a useful share of ambient losses, but only where there is wet bulb depression to work with. In Lagos or Port Harcourt at 85 percent relative humidity, the achievable gain is small and the added moisture carries its own risk. During harmattan in the north, when relative humidity can fall below 25 percent, the potential is much larger, but that is also when the air is dirtiest and water treatment becomes critical. Mechanical chilling holds a set inlet temperature in any weather and carries a parasitic load. There is no free option here, and anyone quoting one has not done the psychrometrics for your site.
 
-To size any of this properly, [book a plant assessment](/#contact) or call our engineering desk on [+234 803 000 0000](tel:+2348030000000). A measured dust loading and a performance baseline are what separate a specification from a guess.
+To size any of this properly, [book a plant assessment](/#contact). A measured dust loading and a performance baseline are what separate a specification from a guess.
 
 ## Planning the outage window and the budget
 

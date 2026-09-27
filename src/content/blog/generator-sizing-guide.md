@@ -2,12 +2,12 @@
 title: "How to Size a Generator for a Factory: kVA, Step Loads and Harmonic Loads"
 navTitle: "How to Size a Generator for a"
 metaTitle: "How to Size a Generator for a Factory: kVA, Step Loads"
-metaDescription: "How to size a generator for a factory in Nigeria: measured load profiles, kVA maths, motor step loads, harmonic derating and realistic NGN cost figures."
+metaDescription: "How to size a generator for a factory in Nigeria: measured load profiles, kVA maths, motor step loads, harmonic derating and sizing mistakes to avoid."
 primaryKeyword: "how to size a generator for a factory"
 secondaryKeywords: "generator sizing for a factory, standby generator kVA calculation, factory generator size Nigeria, motor step load generator sizing, harmonic derating generator"
 publishedDate: "2026-08-24"
 tag: "Generators"
-subtitle: "A plastics plant in a Lagos industrial estate commissioned a 500 kVA standby set, ran it for eleven months, and then lost a full production shift when the alternator regulator failed under harmonic..."
+subtitle: "Picture a factory that commissions a 500 kVA standby set, runs it for eleven months, and then loses a full production shift when the alternator regulator fails under harmonic stress."
 canonical: "https://axiompowerng.com/blog/generator-sizing-guide/"
 faq:
   - question: "How much bigger than my measured load should the generator be?"
@@ -19,7 +19,7 @@ faq:
   - question: "How long does a proper load study take and what does it involve?"
     answer: "Plan for a site visit to install loggers at the main incomer and relevant sub-boards, fourteen days of logging to capture the weekly rhythm, then analysis and a written sizing report. Installation needs either an isolation or a live-working procedure depending on the switchboard, so a qualified engineer must attend and production must agree a short access window. Where there is no safe clamping point, an outage window is required and we will say so before quoting."
 ---
-A plastics plant in a Lagos industrial estate commissioned a 500 kVA standby set, ran it for eleven months, and then lost a full production shift when the alternator regulator failed under harmonic stress. The set was never undersized on running load. It was sized on the sum of motor nameplates and nothing else, which is how most factories in Nigeria end up with a machine that is simultaneously too big for its fuel bill and too weak for its worst moment. Learning how to size a generator for a factory properly means separating three different questions: what the plant draws continuously, what it demands in the half second a large motor starts, and what shape the current waveform is in when it gets there.
+Picture a factory that commissions a 500 kVA standby set, runs it for eleven months, and then loses a full production shift when the alternator regulator fails under harmonic stress. The set was never undersized on running load. It was sized on the sum of motor nameplates and nothing else, which is how many factories end up with a machine that is simultaneously too big for its fuel bill and too weak for its worst moment. Learning how to size a generator for a factory properly means separating three different questions: what the plant draws continuously, what it demands in the half second a large motor starts, and what shape the current waveform is in when it gets there.
 
 Getting this wrong is expensive in both directions. Undersize and you buy voltage dips, nuisance trips and early alternator failure. Oversize and you pay for capex you never use, then run at a load factor low enough to cause wet stacking.
 
@@ -29,9 +29,9 @@ The default method on most Nigerian sites is to walk the plant, add up every mot
 
 The reason is diversity. No industrial plant runs every load at full rating at the same instant. Conveyors idle, compressors unload, extruders sit at soak drawing a fraction of heater nameplate, and standby pumps do what their name says.
 
-Consider a feed and flour mill on a northern industrial estate. Connected nameplate across hammer mills, the pellet press, roller stands, conveyors and dust extraction came to 1,180 kW. Two weeks of logging at the main incomer showed maximum demand of 512 kW and an average of 361 kW. The nameplate method pointed at a 1,500 kVA set at roughly NGN 186 million (about USD 120,000 at prevailing rates). The measured method, with proper step load headroom added, landed on 800 kVA at roughly NGN 108 million (about USD 70,000).
+Worked example (hypothetical): connected nameplate across a plant's motor loads and conveyors comes to 1,180 kW. Two weeks of logging at the main incomer shows maximum demand of 512 kW and an average of 361 kW. The nameplate method points at a 1,500 kVA set. The measured method, with proper step load headroom added, lands on 800 kVA, close to half the capex of the nameplate figure.
 
-That is NGN 78 million of avoided capex, before counting the fuel penalty of running a 1,500 kVA machine at a 24 per cent load factor for its whole life. If you are at the specification stage and working from nameplate totals, [request a technical proposal](/#contact) before the purchase order goes out. A load study costs a fraction of the sizing error it prevents.
+That gap in avoided capex comes before counting the fuel penalty of running an oversized machine at a 24 per cent load factor for its whole life. If you are at the specification stage and working from nameplate totals, [request a technical proposal](/#contact) before the purchase order goes out. A load study costs a fraction of the sizing error it prevents.
 
 ## How to Size a Generator for a Factory: Start With a Measured Load Profile
 
@@ -67,9 +67,9 @@ The single largest motor started direct-on-line will draw six to eight times ful
 
 Transient voltage dip is governed largely by the alternator subtransient reactance, X"d. A standard machine sits around 14 to 18 per cent. A machine specified at 10 to 12 per cent will hold voltage far better on the same kVA, and specifying reactance is usually cheaper than specifying a bigger set.
 
-A cold store and fish processing facility in Rivers State ran into this on commissioning. A 160 kW screw compressor started direct-on-line, inrush measured at 6.5 times full load current, and the 500 kVA set dipped 24 per cent at the busbar. The PLC dropped out at its 18 per cent undervoltage threshold, taking the whole refrigeration pack down with it.
+Worked example (hypothetical): a 160 kW screw compressor starts direct-on-line, inrush measured at 6.5 times full load current, and the 500 kVA set dips 24 per cent at the busbar. The PLC drops out at its 18 per cent undervoltage threshold, taking the whole downstream load with it.
 
-Two options were costed. Upsizing to an 800 kVA set added roughly NGN 46 million. Fitting a soft starter on the compressor and re-verifying the dip cost NGN 4.2 million (about USD 2,700) and brought the dip to 11 per cent. The soft starter won on every measure.
+Two options were compared. Upsizing to an 800 kVA set fixed it, at a significant capex step. Fitting a soft starter on the compressor and re-verifying the dip cost a fraction of that and brought the dip to 11 per cent. The soft starter won on every measure.
 
 Decide your starting method before you order the set. Star-delta roughly halves inrush but produces an open transition spike unless it is a closed transition unit. Soft starters give a controlled ramp and pass harmonics while ramping. Drives remove the transient altogether and add a permanent harmonic load instead. Sequencing large motors so they never start together costs nothing and is routinely overlooked, so [book a plant assessment](/#contact) and get the sequence written into the control philosophy rather than discovered at commissioning.
 
@@ -85,7 +85,7 @@ The practical rules that hold on most Nigerian industrial sites:
 - Between 20 and 40 per cent, uprate the alternator one frame size while keeping the engine, and specify a permanent magnet or auxiliary winding excitation system so the AVR does not lose reference on a distorted waveform
 - Above 40 per cent, a harmonic study is needed and passive or active filtering should be costed alongside the set
 
-The Lagos plastics plant mentioned at the top is the case in point. Twenty-two injection moulding machines, fourteen on six-pulse drives, measured THD(i) of 28 per cent at the main incomer with the plant on generator. The corrective specification was a 500 kVA engine with an uprated alternator at 625 kVA frame, 2/3 pitch winding, PMG excitation and a digital AVR with harmonic-tolerant sensing. The delta over a standard 500 kVA set was about NGN 14 million (roughly USD 9,000), against a lost shift that the plant costed at NGN 9.6 million.
+The hypothetical example from the introduction is the case in point. Twenty-two machines, fourteen on six-pulse drives, measured THD(i) of 28 per cent at the main incomer with the plant on generator. The corrective specification was a 500 kVA engine with an uprated alternator at 625 kVA frame, 2/3 pitch winding, PMG excitation and a digital AVR with harmonic-tolerant sensing. The delta over a standard 500 kVA set was a modest premium set against a lost shift that cost far more.
 
 Distortion limits and measurement methodology are covered in [IEEE 519](https://standards.ieee.org/ieee/519/10677/). If your plant already sees flicker, overheating neutrals or transformer noise, harmonic content is the first thing worth measuring, and it overlaps with the symptoms in [generator low output causes](/blog/generator-low-output-causes/).
 
@@ -99,18 +99,18 @@ Harmattan dust is a real derating factor in the north. Restricted air filters ra
 
 Oversizing carries its own bill. A diesel set run below about 30 per cent load for extended periods does not reach cylinder temperatures high enough for complete combustion. The result is wet stacking: unburnt fuel and carbon in the exhaust, glazed bores, fouled turbochargers and injectors, and a set that needs unscheduled overhaul years early.
 
-| Sizing basis | Set specified for the 512 kW mill | Indicative capex | Consequence |
-|---|---|---|---|
-| Sum of nameplate ratings, no diversity | 1,500 kVA | NGN 186m (USD 120,000) | 24% load factor, wet stacking, NGN 78m wasted capex |
-| Utility maximum demand from bills | 630 kVA | NGN 78m (USD 50,000) | Adequate running load, fails on 132 kW motor start |
-| Vendor rule of thumb, kW / 0.8 plus 25% | 1,180 kVA | NGN 158m (USD 102,000) | Same wet stacking exposure, no harmonic provision |
-| 14-day logged profile plus step load study | 800 kVA | NGN 108m (USD 70,000) | 64% load factor, dip held under 12%, correct alternator spec |
+| Sizing basis | Set specified for a 512 kW measured demand | Consequence |
+|---|---|---|
+| Sum of nameplate ratings, no diversity | 1,500 kVA | 24% load factor, wet stacking, capex wasted on unused rating |
+| Utility maximum demand from bills | 630 kVA | Adequate running load, fails on 132 kW motor start |
+| Vendor rule of thumb, kW / 0.8 plus 25% | 1,180 kVA | Same wet stacking exposure, no harmonic provision |
+| 14-day logged profile plus step load study | 800 kVA | 64% load factor, dip held under 12%, correct alternator spec |
 
-Figures are indicative for August 2026 and vary with brand, canopy, controller, switchgear scope and exchange rate. Fuel is the larger number over a ten year life in any case, and we break that down in [diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/).
+The specified kVA and its consequences vary with brand, canopy, controller and switchgear scope. Fuel is the larger cost over a ten year life in any case, and we break that down in [diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/).
 
 One honest note on hybrids. Solar PV with battery storage genuinely reduces diesel hours and fuel spend on daytime base load, and on a single-shift factory it can be a strong investment. It does not change the kVA you need. PV inverters are current-limited devices and cannot deliver the six-times inrush a direct-on-line motor demands, so the generator still has to be sized for the worst step load even if it runs far fewer hours. Anyone telling you solar lets you buy a smaller set is describing a plant with no large motors.
 
-The load profile keeps moving as production changes, so re-log every two or three years and fold the result into the [generator maintenance](/generator-maintenance-nigeria/) schedule. For plants with multiple sets, synchronising panels or a mix of generation and utility supply, a full [power plant audit](/power-plant-audit-nigeria/) is the better starting point. To scope either, [request a technical proposal](/#contact) or call +234 803 000 0000.
+The load profile keeps moving as production changes, so re-log every two or three years and fold the result into the [generator maintenance](/generator-maintenance-nigeria/) schedule. For plants with multiple sets, synchronising panels or a mix of generation and utility supply, a full [power plant audit](/power-plant-audit-nigeria/) is the better starting point. To scope either, [request a technical proposal](/#contact) and an engineer will go through the load profile with you before anything is quoted.
 
 ## Frequently Asked Questions
 

@@ -7,7 +7,7 @@ primaryKeyword: "generator rental vs purchase nigeria"
 secondaryKeywords: "generator hire nigeria, diesel generator rental cost nigeria, buy or rent generator lagos, generator leasing nigeria, standby generator procurement nigeria"
 publishedDate: "2026-08-23"
 tag: "Generators"
-subtitle: "A processing plant in Ogun State ran twenty two consecutive months of generator hire at N7.8m a month, N171."
+subtitle: "Picture a plant that runs generator hire for twenty two consecutive months, spending far more in cumulative hire charges than it would have spent on the installed cost of buying the same capacity,..."
 canonical: "https://axiompowerng.com/blog/generator-rental-vs-purchase/"
 faq:
   - question: "At what point does buying a generator become cheaper than hiring in Nigeria?"
@@ -19,17 +19,17 @@ faq:
   - question: "Can we hire first and buy later without wasting money?"
     answer: "Yes, and for an unproven load it is the disciplined approach. Hire for six to nine months, meter kWh and running hours throughout, then size the purchase from measured demand rather than connected load. Set a review date in the contract from day one so the hire does not roll on unexamined, which is exactly how plants drift past breakeven without a decision ever being taken."
 ---
-A processing plant in Ogun State ran twenty two consecutive months of generator hire at N7.8m a month, N171.6m in total, before anyone compared the cumulative spend against the installed cost of buying the same capacity. Nobody made a single bad decision. A run of small monthly approvals never got escalated into a capital decision, and that is the most common way the generator rental vs purchase question in Nigeria gets answered badly.
+Picture a plant that runs generator hire for twenty two consecutive months, spending far more in cumulative hire charges than it would have spent on the installed cost of buying the same capacity, before anyone makes that comparison. Nobody makes a single bad decision. A run of small monthly approvals never gets escalated into a capital decision, and that is the most common way the generator rental vs purchase question in Nigeria gets answered badly.
 
 The comparison itself is not difficult. It needs measured running hours, a delivered fuel price you can defend, an honest view of how long the load will exist, and a line for the risks that sit outside the hire rate. Most procurement files we review contain the monthly hire rate and the supplier's purchase quotation and almost nothing else.
 
-Diesel dominates the arithmetic in Nigeria. At a delivered price near N1,150 per litre and specific consumption around 0.27 litres per kWh at 75 percent load, fuel alone is roughly N310 per kWh, about $0.20 at N1,550 to the dollar. Renting or buying changes the non-fuel portion of that number, not the fuel. Get the loading wrong and the ownership question becomes academic, which is why our [breakdown of diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/) is the better starting point if you have never metered your output.
+Diesel dominates the arithmetic in Nigeria. At a specific consumption around 0.27 litres per kWh at 75 percent load, fuel per kWh is 0.27 times your delivered diesel price, and that one line outweighs everything else in the comparison. Renting or buying changes the non-fuel portion of that number, not the fuel. Get the loading wrong and the ownership question becomes academic, which is why our [breakdown of diesel generator cost per kWh](/blog/diesel-generator-cost-per-kwh/) is the better starting point if you have never metered your output.
 
 ## What Actually Drives the Generator Rental vs Purchase Decision
 
 Four variables settle it. Expected duration of the need, expected annual running hours, access to capital, and your ability to maintain the asset to a schedule once no hire company is responsible for it.
 
-Duration is the crude first filter. Divide the fully installed purchase cost by the monthly dry hire rate and you get a breakeven in months. For a 500 kVA set at about N123m installed against a hire rate of N4.5m a month, that is roughly 27 months, before maintenance obligations and residual value are considered.
+Duration is the crude first filter. Divide the fully installed purchase cost by the monthly dry hire rate and you get a breakeven in months, before maintenance obligations and residual value are considered. Run that division on your own quotes, because the result depends entirely on the rates you have been offered.
 
 Running hours decide whether ownership is worth the management burden at all. A set covering 250 to 400 hours a year of genuine emergency standby rarely justifies a maintenance contract and an overhaul reserve. A set running 3,000 hours a year is a production asset and has to be resourced as one, with a spares holding, an oil analysis programme and a scheduled outage window.
 
@@ -61,33 +61,21 @@ Ownership carries obligations that must be funded from day one. A maintenance sc
 
 ## Rental vs Purchase: Five Year Cost Comparison for a 500 kVA Set
 
-The table below assumes a 500 kVA set at 400 kW prime rating, held at 75 percent load, running 3,000 hours a year for five years. That is 4.5 million kWh delivered. Fuel is at N1,150 per litre and 0.27 litres per kWh, and the dollar conversion is at N1,550.
+The comparison below assumes a 500 kVA set at 400 kW prime rating, held at 75 percent load, running 3,000 hours a year for five years, 4.5 million kWh delivered. It uses 0.27 litres per kWh; price the fuel at your own delivered rate.
 
-| Cost line, 500 kVA over 5 years | Rent | Buy |
-|---|---|---|
-| Mobilisation and demobilisation | N2,400,000 | Not applicable |
-| Hire charge at N4.5m per month | N270,000,000 | Not applicable |
-| Set, canopy, ATS and base tank | Not applicable | N105,000,000 |
-| Civils, exhaust, acoustic work, cabling | Not applicable | N18,000,000 |
-| Scheduled maintenance and consumables | Included in hire | N32,500,000 |
-| Top end overhaul at 12,000 hours | Included in hire | N22,000,000 |
-| Residual value at year five | Nil | (N25,000,000) |
-| **Non fuel subtotal** | **N272,400,000 ($176,000)** | **N152,500,000 ($98,000)** |
-| Diesel, 1,215,000 litres | N1,397,250,000 | N1,397,250,000 |
-| **Total** | **N1,669,650,000 ($1.08m)** | **N1,549,750,000 ($1.00m)** |
-| **Delivered cost per kWh** | **N371 ($0.24)** | **N344 ($0.22)** |
+Two sets of costs make up each side of that comparison. Under rent: mobilisation and demobilisation, and a recurring hire charge that covers scheduled maintenance and consumables. Under buy: the set, canopy, ATS and base tank; the civils, exhaust and acoustic work to install it; scheduled maintenance and consumables that are now yours to fund; a top end overhaul reserve around the engine's mid-life interval; and a residual value credit at the end of the period that offsets the total. Fuel is identical under either model since it depends on litres burned, not on who owns the machine.
 
-Two readings come out of that. Ownership saves about N120m across five years at this duty, roughly $77,000, which is real money but only seven percent of the total. Fuel is 84 percent of the spend under either model, so a plant chasing the ownership saving while ignoring a 40 percent load factor is optimising the wrong line by a wide margin.
+Two readings come out of running that arithmetic with real numbers. At this duty ownership usually comes out ahead across five years, but the saving is a small share of the total, because fuel makes up the large majority of the spend under either model. A plant chasing the ownership saving while ignoring a 40 percent load factor is optimising the wrong line by a wide margin.
 
-The residual value row is the one most often argued about. A well maintained set with a documented service history and a load bank record sells; one with a blank logbook does not. If you buy, treat the maintenance file as part of the asset. To have the ownership case modelled against your own hours and fuel logs, [book a plant assessment](/#contact) or call [+234 803 000 0000](tel:+2348030000000).
+The residual value row is the one most often argued about. A well maintained set with a documented service history and a load bank record sells; one with a blank logbook does not. If you buy, treat the maintenance file as part of the asset. To have the ownership case modelled against your own hours and fuel logs, [book a plant assessment](/#contact).
 
-## Three Field Scenarios from Nigerian Plants
+## Three Hypothetical Scenarios
 
-A fabrication yard in Rivers State faced an eight week transformer replacement with a measured peak of 560 kW. Hiring a 750 kVA set at N6.2m a month came to N12.4m, plus N1.8m mobilisation and demobilisation, so N14.2m in total, about $9,200. An equivalent installed purchase would have been near N180m for capacity the yard would not need again. Rental was not the cheap option per month, it was the only sensible one.
+**Hypothetical example: an eight week transformer replacement with a measured peak of 560 kW.** Hiring a 750 kVA set for the window costs a modest total against a purchase that would run to a large multiple of that for capacity the site would not need again. Rental is not the cheap option per month here, it is the only sensible one.
 
-The Ogun processing plant from the opening had a different profile. Two hired 350 kVA sets covered a 16 hour production day, six days a week, around 5,000 running hours a year, at a combined N7.8m a month. Against an installed cost near N150m for a single 630 kVA set with a synchronising panel, the breakeven was month nineteen. By the time the file reached the board at month twenty two, N171.6m had gone out, and the hired sets were running at a combined 46 percent load, which added roughly N45 per kWh in fuel penalty on top.
+**The plant from the opening example has a different profile.** Two hired 350 kVA sets cover a 16 hour production day, six days a week, around 5,000 running hours a year. At that duty, cumulative hire charges pass the installed cost of a single larger set with a synchronising panel well before the second year is out. By month twenty two, when the file finally reaches the board, the hired sets are running at a combined 46 percent load, adding a real fuel penalty on top of a hire spend that has already run well past the breakeven point.
 
-A cold store in Kano runs a hybrid. A 250 kVA owned set carries the year round base load, and a 200 kVA hire set covers an eleven week seasonal peak at N2.1m a month plus N900,000 mobilisation, about N6.4m a season or $4,100. Buying that second set at roughly N52m installed would take eight seasons to break even while sitting idle for nine months a year and requiring exercise runs anyway. Hybrid is frequently the right answer and is almost never the answer procurement starts with.
+**Hypothetical example: a hybrid arrangement**, where an owned 250 kVA set carries the year round base load and a hired 200 kVA set covers an eleven week seasonal peak. Buying that second set outright would take many seasons to break even while it sits idle for nine months of the year and still needs exercise runs. Hybrid is frequently the right answer and is almost never the answer procurement starts with.
 
 ## The Risks Procurement Usually Leaves Out of the Comparison
 

@@ -1,17 +1,17 @@
 ---
 meta_title: "Turbine Overhaul or Replace: A Ten Year Naira Costing"
-meta_description: "Turbine overhaul or replace? Compare capex, outage days, fuel burn and spares over a ten year horizon in NGN, with figures Nigerian plant managers can test."
+meta_description: "Turbine overhaul or replace? Compare capex, outage days, fuel burn and spares over a ten year horizon, with a method to run on your own numbers."
 primary_keyword: "turbine overhaul or replace"
 secondary_keywords: "turbine overhaul vs replacement, turbine replacement cost Nigeria, gas turbine overhaul cost, when to replace a turbine, turbine life extension"
 ---
 
 # Turbine Overhaul or Replace: Costing the Decision in Naira Over a Ten Year Horizon
 
-A 6 MW industrial gas turbine trips on high exhaust temperature spread at 2am. By the time the covers come off you are looking at a burnt through transition piece, first stage tip rub and a rotor that needs to leave site. The repair quote lands at ₦2.4bn (about USD 1.55m), and the same week a vendor offers a new package at ₦12.6bn (about USD 8.1m) that burns roughly 14 per cent less gas.
+A 6 MW industrial gas turbine trips on high exhaust temperature spread at 2am. By the time the covers come off you are looking at a burnt through transition piece, first stage tip rub and a rotor that needs to leave site. The repair quote lands at a fraction of what a comparable new package would cost, and the same week a vendor offers that new package on the promise of roughly 14 per cent less gas burn.
 
 That is the moment turbine overhaul or replace stops being an engineering argument and becomes a cash flow question. The machine will still make power after either decision. What separates the two options is where the money sits on the calendar, how many days the plant is down, and what you pay for fuel every hour for the next decade.
 
-All figures below use a working rate of ₦1,550 to the dollar. Substitute your own rate and your own gas or diesel contract price, because those two inputs move the answer more than anything an engineer will tell you about blade condition.
+Build the comparison against your own gas or diesel contract price and your own commercial borrowing rate, because those two inputs move the answer more than anything an engineer will tell you about blade condition.
 
 ## The Real Question Behind Turbine Overhaul or Replace
 
@@ -27,11 +27,11 @@ If you are at this decision point now, [request a technical proposal](/#contact)
 
 Six cost lines carry almost all the weight. Get these right and the decision usually makes itself.
 
-**Capital outlay and its timing.** An overhaul is spent once, now, while a replacement is spent once at four to six times the size and often needs a facility or lease structure carrying its own interest cost. Include that interest. On ₦12.6bn at a Nigerian commercial rate, financing alone can add ₦4bn to ₦6bn across the term.
+**Capital outlay and its timing.** An overhaul is spent once, now, while a replacement is spent once at four to six times the size and often needs a facility or lease structure carrying its own interest cost. Include that interest: financed at a Nigerian commercial rate, it can add a substantial fraction of the capital sum across the term, so price it explicitly rather than leaving it off the comparison.
 
 **Fuel or heat rate.** Convert heat rate into naira per year at your contract price, and do not accept an OEM figure at face value. Datasheet heat rates are quoted at ISO conditions of 15°C, sea level and clean inlet air, so at 33°C ambient in Lagos or Kano you will lose output and give back part of the efficiency gain. Dust loading during harmattan compounds this, which is covered in our note on [harmattan dust and turbine derating](/blog/harmattan-dust-turbine-derating/).
 
-**Planned outage days.** Price a day of downtime properly. For most industrial sites the number is not lost production, it is the cost of running the diesel standby fleet instead of the turbine, and that delta is often ₦15m to ₦25m per day for a mid sized plant.
+**Planned outage days.** Price a day of downtime properly. For most industrial sites the number is not lost production, it is the cost of running the diesel standby fleet instead of the turbine, and that delta can run to a significant daily figure for a mid sized plant. Build it from your own standby fuel burn and diesel price rather than a rule of thumb.
 
 **Unplanned outage exposure.** An older machine trips more. Assign a realistic annual figure based on your own trip log, not on optimism.
 
@@ -41,36 +41,25 @@ Six cost lines carry almost all the weight. Get these right and the decision usu
 
 ## Overhaul or Replacement: A Worked Ten Year Comparison
 
-The table below models a 6 MW industrial gas turbine in cogeneration service, 7,200 running hours a year at an average 4.8 MW load, on a pipeline gas contract at USD 8.00 per MMBtu. Figures are rounded and shown in naira.
+Worked example (hypothetical): the comparison below models a 6 MW industrial gas turbine in cogeneration service, 7,200 running hours a year at an average 4.8 MW load, at an assumed gas price of USD 8.00 per MMBtu (use your own contract price). Figures are illustrative and the pattern matters more than any single total.
 
-| Cost line over 10 years | Overhaul and life extension | Like for like replacement |
-| --- | --- | --- |
-| Major event, year 1 | ₦2.4bn major overhaul | ₦12.6bn installed package |
-| Second major event | ₦2.9bn major, year 7 | ₦2.2bn hot gas path, year 8 |
-| Assumed average heat rate | 13.9 MJ/kWh | 11.9 MJ/kWh |
-| Fuel cost, 10 years | ₦56.5bn | ₦48.3bn |
-| Routine maintenance and spares | ₦4.6bn | ₦3.4bn |
-| Planned outage days | 96 days | 62 days |
-| Unplanned outage and standby fuel | ₦2.9bn | ₦1.1bn |
-| **Ten year total** | **₦69.3bn (USD 44.7m)** | **₦67.6bn (USD 43.6m)** |
+Six lines carry the comparison. Under overhaul, the major event lands in year one with a second major around year seven; under replacement, the installed package lands in year one with a hot gas path inspection around year eight. The assumed average heat rate is 13.9 MJ/kWh under overhaul against 11.9 MJ/kWh under replacement, which is the single biggest driver of the ten year fuel bill. Routine maintenance and spares run somewhat higher under overhaul because the older machine needs more attention. Planned outage days come to about 96 under overhaul against 62 under replacement, priced at your own standby fuel cost per day. Unplanned outage and standby fuel exposure is higher on the overhauled machine because it trips more as it ages.
 
-The gap is ₦1.7bn, about 2.5 per cent. On a spreadsheet that is a tie, and a 2.5 per cent difference is well inside the error bars of any ten year model.
+Put your own capital cost, financing cost, fuel price and standby cost against each line and the ten year totals can land surprisingly close together. On a spreadsheet that closeness is not a tie-breaker, it is the point: with the two totals this close, the decision is not settled by the headline capital figures at all, but by three inputs: gas price, running hours and the heat rate you actually achieve. Every one of those is site specific.
 
-What that tells you is important. The decision is not settled by the headline capital figures at all, but by three inputs: gas price, running hours and the heat rate you actually achieve. Every one of those is site specific.
+Move gas price up and replacement wins by a clear margin. Drop running hours and overhaul wins outright, because the fuel saving no longer has enough hours to repay the extra capital.
 
-Move gas to USD 11.00 per MMBtu and replacement wins by a clear margin. Drop running hours to 3,000 a year and overhaul wins outright, because the fuel saving no longer has enough hours to repay ₦10bn of extra capital.
+## Hypothetical Scenarios: Same Question, Different Answers
 
-## Field Scenarios: Two Plants, Two Different Answers
+**Hypothetical example: 6 MW gas turbine in cogeneration service, 7,200 hours a year.** Take a machine matching the exhaust spread trip described at the top of this article. The overhaul quote comes with a 32 day outage if the rotor is sent away and reworked off site. Running the diesel fleet through that window at a realistic standby fuel delta means the outage alone can carry a cost close to the size of the repair quote itself, a cost that never appears on the repair quote.
 
-**A flour mill on the Lagos mainland, 6 MW gas turbine in cogeneration, 7,200 hours a year.** The exhaust spread trip described at the top of this article happened at this class of plant. The overhaul quote was ₦2.4bn with a 32 day outage. Running the diesel fleet through that window cost ₦22m a day in fuel delta, so the outage carried ₦704m of cost that did not appear on the repair quote at all.
+Suppose the plant chooses overhaul but changes the scope: rather than sending the rotor away and waiting, it takes a rotor exchange, cutting the outage from 32 days to 13 days. The exchange rotor adds to the invoice, but the standby diesel saved over those extra 19 days is typically larger. That is a straightforward win that only becomes visible once downtime is priced properly.
 
-The plant chose overhaul, but changed the scope. Rather than send the rotor away and wait, they took a rotor exchange, which cut the outage from 32 days to 13 days. The exchange rotor added ₦310m to the invoice and saved ₦418m in standby diesel. That is a straightforward win that only becomes visible once downtime is priced properly.
+**Hypothetical example: 2.5 MW back pressure steam turbine on a biomass fired boiler, 8,000 hours a year, no gas connection so diesel standby only.** At 61,000 running hours, suppose a borescope finds root cracking across four blade rows. Reblading and a full overhaul, with the rotor sent out for reblading and high speed balancing and no spare rotor on site, means a 46 day outage.
 
-**A rubber processing plant in Delta State, 2.5 MW back pressure steam turbine on a biomass fired boiler, 8,000 hours a year.** At 61,000 running hours a borescope found root cracking across four blade rows. Reblading and a full overhaul came to ₦640m (about USD 413k) with a 46 day outage, because the rotor had to travel for reblading and high speed balancing and there was no spare on site.
+Forty six days of diesel standby at a realistic daily delta can exceed the overhaul cost itself. A complete new turbine generator set typically carries a lead time of around 14 weeks and a price several times the overhaul, so replacement is rarely the cheaper route in this scenario. The disciplined move is to overhaul, then hold a spare rotor so the next event is a short swap rather than a 46 day wait.
 
-The site had no gas connection, so the standby was diesel at ₦14.6m a day. Forty six days of that is ₦672m, more than the overhaul itself. A complete new turbine generator set was ₦3.4bn with a 14 week lead time, so replacement was never the cheaper route here. The plant overhauled, and then bought a spare rotor for ₦480m so the next event is a 12 day swap rather than a 46 day wait.
-
-**A beverage plant using a 1.5 MW unit for peak shaving only, 2,400 hours a year.** Low utilisation flattens the fuel argument almost completely. A 2 MJ/kWh heat rate improvement on 2,400 hours saves roughly ₦680m over ten years, nowhere near enough to justify replacement capital. Overhaul, keep the machine on a strict inspection regime, and spend the difference on the standby fleet instead.
+**Hypothetical example: 1.5 MW unit used for peak shaving only, 2,400 hours a year.** Low utilisation flattens the fuel argument almost completely. A 2 MJ/kWh heat rate improvement on so few running hours saves only a modest sum over ten years, nowhere near enough to justify replacement capital. Overhaul, keep the machine on a strict inspection regime, and spend the difference on the standby fleet instead.
 
 The pattern across all three is the same. High running hours favour replacement, low running hours favour overhaul, and outage length is frequently worth more than the repair price. [Book a plant assessment](/#contact) if you want these numbers built against your own load and fuel data.
 
@@ -100,7 +89,7 @@ Finally, cost the outage window and check the regulatory position. If replacemen
 
 Some of this needs specialist equipment and a qualified engineer on site. Rotor runout, clearance mapping and high speed balancing are not desk exercises, and a performance test is only meaningful with calibrated instrumentation and a stable load. Where site conditions prevent a full assessment, say so in the report rather than modelling around the gap.
 
-For the full comparison work, see our [steam turbine overhaul](/steam-turbine-overhaul-nigeria/) and [power plant audit](/power-plant-audit-nigeria/) services, or the current cost bands in our [generator and turbine maintenance cost](/generator-turbine-maintenance-cost/) guide. To start a condition assessment, call [+234 803 000 0000](tel:+2348030000000) or request a technical proposal and we will scope the survey against your outage calendar.
+For the full comparison work, see our [steam turbine overhaul](/steam-turbine-overhaul-nigeria/) and [power plant audit](/power-plant-audit-nigeria/) services, or the current cost bands in our [generator and turbine maintenance cost](/generator-turbine-maintenance-cost/) guide. To start a condition assessment, [request a technical proposal](/#contact) and we will scope the survey against your outage calendar.
 
 ## Frequently Asked Questions
 

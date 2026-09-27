@@ -2,7 +2,7 @@
 title: "Captive Power Generation Permit Nigeria: NERC Rules, NESREA Limits and Fuel Storage Approvals"
 navTitle: "Captive Power Generation"
 metaTitle: "Captive Power Generation Permit Nigeria: NERC & NESREA"
-metaDescription: "How to secure a captive power generation permit in Nigeria: NERC and state thresholds, NESREA noise and emission limits, fuel storage approvals and costs."
+metaDescription: "How to secure a captive power generation permit in Nigeria: NERC and state thresholds, NESREA noise and emission limits, fuel storage approvals and timelines."
 primaryKeyword: "captive power generation permit nigeria"
 secondaryKeywords: "NERC captive generation permit, captive power plant licence Nigeria, NESREA noise limits Nigeria, diesel storage approval NMDPRA, Electricity Act 2023 captive power"
 publishedDate: "2026-08-13"
@@ -19,7 +19,7 @@ faq:
   - question: "What happens if we energise before the approvals are complete?"
     answer: "You expose the plant to shutdown orders, penalties and, on the insurance side, a coverage argument you do not want to have after a fire or a fatality. Enforcement is uneven across states, which leads some operators to gamble, but the exposure sits with the plant manager and the company officers. If you are already running unapproved, the practical route is a voluntary regularisation filing rather than waiting to be found."
 ---
-A 3.2 MW gas engine plant can stand fully installed, factory tested and witnessed, and still not carry a single production shift, because one regulatory file is short. On a site in that position, the plant keeps running rented diesel sets while the paperwork is rebuilt, and the difference is visible in the monthly fuel line: diesel generation at N1,250 per litre of AGO and 0.28 litres per kWh works out around N350 to N400 per kWh on fuel alone, against roughly N95 to N130 per kWh for gas engines depending on gas price and heat rate. On 1.1 million kWh a month, an eleven week delay burns close to N870m (about USD 560,000 at N1,550 to the dollar) that no one budgeted for.
+A 3.2 MW gas engine plant can stand fully installed, factory tested and witnessed, and still not carry a single production shift, because one regulatory file is short. On a site in that position, the plant keeps running rented diesel sets while the paperwork is rebuilt, and the difference is visible in the monthly fuel line: diesel generation costs several times more per kWh on fuel alone than the gas engines it was meant to replace, since diesel is priced and taxed differently from gas and the gas engine's heat rate is typically far better. On a plant drawing over a million kWh a month, an outage delay measured in weeks rather than days burns real money that no one budgeted for, at a scale that quickly outstrips the cost of the permit process itself.
 
 That is why the captive power generation permit Nigeria requires is not an administrative afterthought. It sits on the critical path alongside the long lead equipment, and it is the item most often started last.
 
@@ -35,7 +35,7 @@ Two details catch people out. First, the threshold is aggregate at the site, not
 
 The permit is issued for a fixed term, commonly five years, and is renewable. Renewal is not automatic. If your operating record, metering or environmental compliance has drifted, renewal is where that surfaces.
 
-If you are still deciding whether to build captive at all, the honest comparison is capital plus whole life fuel and maintenance against grid plus outage cost. Our [power plant audit service](/power-plant-audit-nigeria/) runs that as a measured exercise rather than a spreadsheet assumption. To scope it for your site, [request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000).
+If you are still deciding whether to build captive at all, the honest comparison is capital plus whole life fuel and maintenance against grid plus outage cost. Our [power plant audit service](/power-plant-audit-nigeria/) runs that as a measured exercise rather than a spreadsheet assumption. To scope it for your site, [request a technical proposal](/#contact).
 
 ## NERC or your state regulator: the change that catches plants out
 
@@ -77,26 +77,24 @@ Whether diesel or gas serves you better is a whole life cost question rather tha
 
 The table below is a planning aid for a mid sized captive project. Treat the figures as indicative budget lines for a plant in the 1 MW to 5 MW range. Actual fees are set by each regulator, vary with capacity and state, and change. Lead times assume a complete and technically correct first submission, which is the assumption that most often fails.
 
-| Approval track | Issuing body | Typical lead time | Indicative budget, NGN (USD) | Most common cause of delay |
+| Approval track | Issuing body | Typical lead time | What drives the spend | Most common cause of delay |
 | --- | --- | --- | --- | --- |
-| Captive generation permit | NERC or state electricity regulator | 8 to 16 weeks | N6m to N14m (USD 3,900 to 9,000) | Filed with the wrong regulator after market devolution |
-| Environmental impact assessment | Federal or state environment ministry | 16 to 32 weeks | N28m to N45m (USD 18,000 to 29,000) | Seasonal baseline data window missed |
-| Noise and emissions compliance | NESREA and state agency | Runs with EIA | N40m to N90m (USD 26,000 to 58,000) for attenuation | Boundary noise measured only after installation |
-| Fuel storage approval | Midstream and downstream petroleum authority | 10 to 20 weeks | N12m to N40m (USD 7,700 to 26,000) including bund works | Bund volume or interceptor not to specification |
-| Electrical installation certification | Electricity management services agency | 2 to 6 weeks | N2m to N5m (USD 1,300 to 3,200) | Earthing and protection settings not evidenced |
-| Fire safety certification | Federal or state fire service | 4 to 8 weeks | N3m to N8m (USD 1,900 to 5,200) | Access and appliance provision at the tank farm |
+| Captive generation permit | NERC or state electricity regulator | 8 to 16 weeks | Filing fees, application preparation | Filed with the wrong regulator after market devolution |
+| Environmental impact assessment | Federal or state environment ministry | 16 to 32 weeks | Baseline data collection, consultant scope | Seasonal baseline data window missed |
+| Noise and emissions compliance | NESREA and state agency | Runs with EIA | Acoustic attenuation package, receptor distance | Boundary noise measured only after installation |
+| Fuel storage approval | Midstream and downstream petroleum authority | 10 to 20 weeks | Bund and interceptor civil works | Bund volume or interceptor not to specification |
+| Electrical installation certification | Electricity management services agency | 2 to 6 weeks | Filing and inspection fees | Earthing and protection settings not evidenced |
+| Fire safety certification | Federal or state fire service | 4 to 8 weeks | Detection and suppression provision | Access and appliance provision at the tank farm |
 
-Converted at about N1,550 to the dollar. The rate moves, so re-run the conversion at the date of your board paper.
-
-The pattern in that table is worth stating plainly. The regulator fees are the small numbers. The engineering required to satisfy the conditions, particularly acoustic attenuation and bund works, is where the money goes, and it is far cheaper designed in than retrofitted.
+The pattern in that table is worth stating plainly. Regulator filing fees are the small numbers. The engineering required to satisfy the conditions, particularly acoustic attenuation and bund works, is where the spend goes, and it is far cheaper designed in than retrofitted.
 
 ## Three site scenarios and what the captive power permit route cost them
 
-A flour mill on the Lagos mainland installed two 2.5 MW gas engines for a 5 MW captive plant, with the boundary wall roughly 40 m from residential housing. The permit itself was straightforward. Noise was not. Boundary readings at night exceeded the applicable limit by about 11 dB(A), and the fix ran to exhaust silencers with higher insertion loss, an acoustic louvre package on the radiator discharge and a 4 m barrier wall, at about N78m (USD 50,000). Had the sound power data been checked against the receptor distance at design stage, the same result would have cost roughly a third of that.
+**Hypothetical example: 5 MW captive plant, two 2.5 MW gas engines, boundary roughly 40 m from residential housing.** The permit itself can be straightforward. Noise often is not. Suppose boundary readings at night exceed the applicable limit by around 11 dB(A): the fix runs to exhaust silencers with higher insertion loss, an acoustic louvre package on the radiator discharge and a barrier wall, at a cost that would have been a fraction of that had the sound power data been checked against the receptor distance at design stage.
 
-A rubber processing plant in the Niger Delta ran three 750 kVA diesel sets, 1.8 MW aggregate, served by a 45,000 litre AGO farm. The generation permit cleared in about ten weeks. The storage approval took twenty two, because the existing bund held only about 70 percent of the largest tank and had no interceptor. Remedial civil works came to N31m (USD 20,000), and the tank farm was out of service for nineteen days, which meant running on day tanks with daily tanker deliveries and a supervisor on site for every offload.
+**Hypothetical example: 1.8 MW aggregate, three 750 kVA diesel sets, 45,000 litre AGO farm.** The generation permit can clear in around ten weeks. The storage approval takes far longer if the existing bund holds less than the required 110 percent of the largest tank and has no interceptor. Remedial civil works and weeks of running on day tanks with daily tanker deliveries and a supervisor on site for every offload cost considerably more than getting the bund right the first time.
 
-A 220 bed private hospital in Abuja installed two 500 kVA sets, 800 kW aggregate, which sits below the 1 MW threshold and therefore avoided the full permit route. It did not avoid anything else. Storage approval for the diesel farm, fire certification and installation certification all applied, and the theatre block boundary noise limit still had to be met. Staying under 1 MW simplified one file out of four.
+**Hypothetical example: 800 kW aggregate, two 500 kVA sets, below the 1 MW threshold.** Sitting below the threshold avoids the full generation permit route. It does not avoid anything else. Storage approval for the diesel farm, fire certification and installation certification all still apply, and any boundary noise limit near a sensitive receptor still has to be met. Staying under 1 MW simplifies one file out of several, not all of them.
 
 If you are sizing a plant near that threshold, the capacity decision and the permit decision should be taken together rather than in sequence. [Generator sizing guide](/blog/generator-sizing-guide/) covers the load side of that decision, and our [generator maintenance service](/generator-maintenance-nigeria/) covers the condition monitoring that keeps an approved plant inside its emissions and noise envelope. To have your site assessed against the current requirements, [book a plant assessment](/#contact).
 

@@ -7,7 +7,7 @@ secondary_keywords: "turbine overhaul specification, gas turbine overhaul contra
 
 # Turbine Overhaul Scope of Work: Clauses, Hold Points and Bid Comparison
 
-Three bids land on your desk for what is supposed to be the same hot gas path inspection: NGN 268 million, NGN 310 million and NGN 395 million (about USD 168,000, USD 194,000 and USD 247,000 at NGN 1,600 to the dollar). That spread is rarely competition. It is three contractors reading your enquiry three different ways, because the turbine overhaul scope of work you issued left room to guess.
+Three bids land on your desk for what is supposed to be the same hot gas path inspection, and the totals are nowhere close to each other. That spread is rarely competition. It is three contractors reading your enquiry three different ways, because the turbine overhaul scope of work you issued left room to guess.
 
 That guessing gets settled later, on site, with the casing open and the plant down, when you have no leverage and the meter is running. A document that takes two weeks to write is the cheapest risk control on a job this size.
 
@@ -15,7 +15,7 @@ That guessing gets settled later, on site, with the casing open and the plant do
 
 A weak scope produces two losses. The first is the variation order, priced without competition once the machine is in pieces. The second is the outage extension, which is almost always the larger number.
 
-Consider a flour milling plant in the South West running a 9 MW gas turbine in simple cycle, with grid supply as a partial fallback. Lost production plus diesel top-up during an outage runs at roughly NGN 22 million per day (about USD 13,750). The overhaul contract was NGN 310 million. An eleven day overrun, caused by nozzle segments that were never clearly in or out of scope, added NGN 242 million in downtime and NGN 47 million in unpriced parts. The contract almost doubled without a single line of the original price changing.
+Worked example (hypothetical): take a 9 MW gas turbine in simple cycle, with grid supply as a partial fallback. An eleven day overrun, caused by nozzle segments that were never clearly in or out of scope, stacks downtime cost on top of unpriced parts. On a job of that size, the contract can end up close to double its original value without a single line of the original price changing.
 
 The fix is not a longer document. It is a document that answers, for every component, three questions: what is being done to it, what number proves it is acceptable, and who signs before the job moves on.
 
@@ -61,7 +61,7 @@ A workable minimum set of hold points for a gas turbine major inspection:
 
 The casing closure hold point is the one to defend hardest. Once the top half is down, a missed clearance or a tool left in the flow path costs a second outage, and the second outage is never cheaper than the first.
 
-A sugar estate in the North with a 6 MW back pressure steam turbine learned this on a mid-life overhaul. Casing closure went ahead over a weekend with no client sign-off, and vibration at 3,000 rpm came up at 7.8 mm/s rms against an acceptance limit of 4.5. The strip and re-shim cost NGN 96 million (about USD 60,000) and thirteen days of the crushing season. A signed clearance sheet would have caught the bearing pedestal shim error in an afternoon.
+Hypothetical example: a 6 MW back pressure steam turbine on a mid-life overhaul. Suppose casing closure goes ahead over a weekend with no client sign-off, and vibration at 3,000 rpm comes up at 7.8 mm/s rms against an acceptance limit of 4.5. The strip and re-shim would cost a second outage on top of the first, and a signed clearance sheet would have caught the bearing pedestal shim error in an afternoon.
 
 Hold points only work if a competent person is present to exercise them. If you do not have a rotating equipment engineer free for the duration, appoint one, either from your own staff or as an owner's engineer on the contract. [Book a plant assessment](/#contact) if you need an independent pair of eyes to sit on the hold points during your window.
 
@@ -83,22 +83,22 @@ Condition assessment intervals matter here too. If you are unsure whether your m
 
 You cannot compare lump sums. You compare normalised totals: bid price, plus the value of scope the bidder pushed back to you, plus the cost of the outage days each bidder needs.
 
-Here is a real-shape comparison for a cement grinding plant in Rivers State running two 5.5 MW gas turbines, with downtime valued at NGN 22 million per day (about USD 13,750).
+Here is a real-shape comparison, hypothetical, for two 5.5 MW gas turbines, with downtime valued using the plant's own cost per day (our [downtime cost](/blog/plant-downtime-cost-per-hour/) guide sets out how to build that figure).
 
 | Scope line | Bid A | Bid B | What to check before comparing |
 |---|---|---|---|
-| Headline lump sum | NGN 268m (USD 168k) | NGN 310m (USD 194k) | Lowest number rarely survives normalisation |
+| Headline lump sum | Lower headline price | Higher headline price | Lowest number rarely survives normalisation |
 | Rotor NDT | Sampled, method unstated | 100 percent MPI and UT, standard cited | Coverage and method, not the word "NDT" |
-| Hot gas path parts | Provisional sum NGN 40m, no rates | Firm NGN 85m, OEM-spec nozzles | Provisional with no rate is unpriced risk |
+| Hot gas path parts | Provisional sum, no rates stated | Firm sum, OEM-spec nozzles | Provisional with no rate is unpriced risk |
 | Rotor balancing | Field balance only | Low speed shop balance to G2.5 | Field balance cannot fix a bent rotor |
 | Generator overhaul | Excluded | Included, winding tests and PI | Excluded scope returns as a second contract |
-| Scaffolding, cranage, site power | Client scope | Contractor scope | Price your own scope back in: NGN 96m |
-| Quoted outage duration | 34 days | 26 days | 8 day delta at NGN 22m = NGN 176m |
+| Scaffolding, cranage, site power | Client scope | Contractor scope | Price your own scope back in before comparing |
+| Quoted outage duration | 34 days | 26 days | 8 day delta, priced at your own downtime cost per day |
 | Liquidated damages | Not stated | 0.5 percent per day, 5 percent cap | No LDs means schedule is your risk |
 | Warranty | 6 months from handover | 12 months or 8,000 EOH, whichever first | EOH terms suit machines that run hard |
-| Normalised total | NGN 540m (USD 338k) | NGN 322m (USD 201k) | Bid B is cheaper by NGN 218m |
+| Normalised total | Higher once normalised | Lower once normalised | Normalisation can reverse the headline ranking |
 
-The headline gap said Bid A was NGN 42 million cheaper. The normalised gap said Bid B was NGN 218 million (about USD 136,000) cheaper. Nothing in that reversal required technical judgement, only a scope written well enough to expose the differences.
+The headline gap favoured Bid A. Once scope, coverage and outage days were normalised onto the same basis, Bid B came out lower overall. Nothing in that reversal required technical judgement, only a scope written well enough to expose the differences.
 
 Build this table before the bids arrive, with the rows fixed by a mandatory pricing schedule in the enquiry. Bidders who will not price it line by line are telling you something useful.
 
@@ -114,7 +114,7 @@ Two points specific to Nigerian sites. Ambient temperature, altitude and inlet f
 
 Scope, hold points and commercial terms are one system: written together they give you a contract that prices fairly and finishes on time, and written separately they give you a dispute.
 
-For a scope drafted against your machine history, outage window and downtime cost, [request a technical proposal](/#contact) or call +234 803 000 0000. We also execute the work through [steam turbine overhaul](/steam-turbine-overhaul-nigeria/) and [rotating equipment services](/rotating-equipment-services-nigeria/), with budget shape covered in our [maintenance cost](/generator-turbine-maintenance-cost/) guidance.
+For a scope drafted against your machine history, outage window and downtime cost, [request a technical proposal](/#contact). We also execute the work through [steam turbine overhaul](/steam-turbine-overhaul-nigeria/) and [rotating equipment services](/rotating-equipment-services-nigeria/), with budget shape covered in our [maintenance cost](/generator-turbine-maintenance-cost/) guidance.
 
 ## Frequently Asked Questions
 

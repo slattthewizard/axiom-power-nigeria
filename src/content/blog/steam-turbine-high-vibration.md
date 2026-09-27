@@ -2,7 +2,7 @@
 title: "Steam Turbine High Vibration Causes: Diagnosis and When to Trip the Machine"
 navTitle: "Steam Turbine High Vibration"
 metaTitle: "Steam Turbine High Vibration Causes and When to Trip"
-metaDescription: "Steam turbine high vibration causes, how to read the signature before opening a casing, and when to trip the machine. Field costs in NGN for Nigerian plants."
+metaDescription: "Steam turbine high vibration causes, how to read the signature before opening a casing, and when to trip the machine on Nigerian plants."
 primaryKeyword: "steam turbine high vibration causes"
 secondaryKeywords: "steam turbine vibration troubleshooting, turbine high vibration trip level, steam turbine rotor unbalance, turbine bearing vibration, steam turbine rub diagnosis"
 publishedDate: "2026-08-28"
@@ -23,7 +23,7 @@ Your 6 MW back pressure turbine has read 2.9 mm/s for two years. This morning th
 
 Most steam turbine high vibration causes fall into a small number of classes, and each class announces itself differently. Unbalance does not behave like a rub, a rub does not behave like oil whirl, and misalignment looks nothing like either once you have phase information in front of you. The difficulty on most captive plants is not that the fault is exotic. It is that the only number anyone holds is an overall amplitude on a panel, which answers almost none of the questions that matter.
 
-USD equivalents are shown at roughly NGN 1,550 to the dollar. Check the rate on the day you build a budget, and treat every cost band as indicative until a survey has been done on your machine.
+Every figure in this guide is an engineering reading, not a price. Cost depends on scope, outage length and parts lead time, so treat any specific figure as something to confirm in a technical proposal against your machine.
 
 ## The Number on the Panel Is the Least Useful Piece of Data
 
@@ -40,7 +40,7 @@ There is also a measurement question that catches many sites out. Casing seismic
 
 Evaluation criteria are set out in [ISO 20816-2](https://www.iso.org/standard/70047.html) for land based steam turbines and generators above 40 MW, and in [ISO 20816-3](https://www.iso.org/standard/78311.html) for the industrial machines that cover most captive units in Nigeria. Both make the point that panel readings obscure: evaluation of change matters as much as evaluation of level. Your OEM alarm and trip settings, fixed against that specific rotor and bearing design, are what actually govern.
 
-If your machine has moved outside its normal band and the only record you hold is a daily logsheet figure, that is where the work starts. [Request a technical proposal](/#contact) or call [+234 803 000 0000](tel:+2348030000000) and an engineer will review the vibration history and the instrumentation you have before anything is quoted.
+If your machine has moved outside its normal band and the only record you hold is a daily logsheet figure, that is where the work starts. [Request a technical proposal](/#contact) and an engineer will review the vibration history and the instrumentation you have before anything is quoted.
 
 ## The Main Steam Turbine High Vibration Causes and How Each One Announces Itself
 
@@ -64,11 +64,11 @@ Handling it is a discipline question. Turning gear must run through the entire c
 
 The step from bow to rub is short. Once the bowed rotor contacts a gland or oil seal you get local heating at the contact point, which deepens the bow, which increases the contact. That feedback loop can bend a rotor beyond field correction inside a single start attempt.
 
-**A palm oil mill in Delta State.** A 1.5 MW back pressure unit tripped on high vibration on every hot restart within about twenty minutes of shutdown, while cold starts were clean. The signature was running speed energy with phase that moved through the run up, plus second and third order harmonics above 2,400 rpm.
+**Worked example (hypothetical): 1.5 MW back pressure unit.** It trips on high vibration on every hot restart within about twenty minutes of shutdown, while cold starts stay clean. The signature is running speed energy with phase that moves through the run up, plus second and third order harmonics above 2,400 rpm.
 
-The turning gear motor had burnt out seven months earlier and had never been replaced, so the rotor was left stationary while hot after every stop. Motor repair and control wiring came to NGN 2,400,000 (about USD 1,550), and gland seal strip replacement added NGN 6,800,000 (about USD 4,400) across a four day outage.
+Suppose the turning gear motor burnt out seven months earlier and was never replaced, so the rotor was left stationary while hot after every stop. Motor repair and control wiring, plus a gland seal strip replacement across a four day outage, is a modest job set against what came next.
 
-The delay was the expensive part. Over two months the mill lost about twenty six hours of pressing at roughly NGN 850,000 an hour of contribution, close to NGN 22,100,000 (about USD 14,250), against a repair that would have cost under NGN 2,500,000 when the motor first failed. Putting a defensible figure on that exposure is covered in [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/).
+The delay is the expensive part. Over two months, lost production hours at the plant's own contribution margin add up to many times the cost of the repair that would have fixed it when the motor first failed. Putting a defensible figure on that exposure is covered in [plant downtime cost per hour](/blog/plant-downtime-cost-per-hour/).
 
 ## Bearing and Oil Film Faults: The Steam Turbine Vibration Causes That Build Slowly
 
@@ -78,11 +78,11 @@ Three site conditions push a healthy bearing towards instability. Viscosity fall
 
 Oil whirl and oil whip are worth separating. Whirl sits at a fraction of running speed and tracks with speed as you change it. Whip locks onto the rotor's first critical frequency and stays there as speed rises, and it is the more dangerous because the rotor is being driven at a resonance.
 
-**A cement plant in the south west with a waste heat unit.** A 4.5 MW condensing turbine developed a sub-synchronous component at about 0.43 times running speed, roughly six weeks after a lube oil top up during a hurried outage. Overall casing vibration had risen only modestly, from 3.4 to 5.1 mm/s, so the machine was left running.
+**Worked example (hypothetical): 4.5 MW condensing turbine with a waste heat boiler.** It develops a sub-synchronous component at about 0.43 times running speed, roughly six weeks after a lube oil top up during a hurried outage. Overall casing vibration has risen only modestly, from 3.4 to 5.1 mm/s, so the machine is left running.
 
-Oil analysis settled it. Viscosity had dropped about 18 percent below grade and water content was near 900 ppm, traced to gland sealing steam and a gland condenser holding poor vacuum. Two journal bearings were later found with babbitt wiping and clearance well outside drawing tolerance.
+Oil analysis settles it. Viscosity has dropped about 18 percent below grade and water content is near 900 ppm, traced to gland sealing steam and a gland condenser holding poor vacuum. Two journal bearings are later found with babbitt wiping and clearance well outside drawing tolerance.
 
-Oil replacement and flush, gland condenser correction and re-babbitting of two journals came to NGN 31,500,000 (about USD 20,300) over nine days. Routine sampling on the schedule described in [turbine lube oil analysis](/blog/turbine-lube-oil-analysis/) would have caught the dilution inside a fortnight for a fraction of that. Bearing work of this kind needs a proper shop, measured clearances and a qualified engineer on site.
+Oil replacement and flush, gland condenser correction and re-babbitting of two journals over nine days runs to several times the cost of the routine sample that would have caught the dilution a fortnight in, on the schedule described in [turbine lube oil analysis](/blog/turbine-lube-oil-analysis/). Bearing work of this kind needs a proper shop, measured clearances and a qualified engineer on site.
 
 ## When to Trip a Steam Turbine on High Vibration
 
@@ -104,29 +104,29 @@ One rule has no exception. Do not raise a vibration trip setting to keep a machi
 
 Be honest about what cannot be judged from a control room. Deciding whether a rotor with a confirmed rub can run to a planned outage needs run out measurements, bearing inspection and a rotordynamic view of the machine. That is specialist work, it needs an outage window, and no responsible answer to it comes over the phone.
 
-**A starch plant in Kaduna State.** A 6 MW back pressure unit drifted from 2.8 to 6.9 mm/s over eleven months, running speed dominant with stable phase and normal bearing temperatures. Steam sampling found cation conductivity and sodium well outside limits, with carryover from a boiler drum whose separators had been damaged during an earlier tube repair.
+**Worked example (hypothetical): 6 MW back pressure unit.** It drifts from 2.8 to 6.9 mm/s over eleven months, running speed dominant with stable phase and normal bearing temperatures. Steam sampling finds cation conductivity and sodium well outside limits, with carryover from a boiler drum whose separators were damaged during an earlier tube repair.
 
-The plant ran on to its planned outage with weekly phase referenced readings rather than tripping. Blade path cleaning and an in situ trim balance came to NGN 18,600,000 (about USD 12,000) across five days, and vibration returned to 3.1 mm/s. The turbine was never the fault, and without correcting the boiler water treatment the deposits would have returned within a year.
+In that case you would run on to the planned outage with weekly phase referenced readings rather than tripping. Blade path cleaning and an in situ trim balance across five days bring vibration back down to 3.1 mm/s. The turbine was never the fault, and without correcting the boiler water treatment the deposits would return within a year.
 
 ## What Diagnosis and Correction Cost
 
-The table maps signature to likely cause class, the first diagnostic step and an indicative cost band. Treat these as planning figures for a proposal conversation, not as a quotation.
+The table maps signature to likely cause class and the first diagnostic step. Cost depends on scope, outage length and parts lead time once the diagnosis is confirmed, and [our cost guide](/generator-turbine-maintenance-cost/) sets out how that is built, or [request a technical proposal](/#contact) for your machine.
 
-| Vibration signature | Likely cause class | First diagnostic step | Cost band (NGN) | USD equivalent |
-| --- | --- | --- | --- | --- |
-| Running speed dominant, stable phase, rise over months | Deposit or erosion unbalance | Steam purity sampling, in situ trim balance | 5,500,000 to 26,000,000 | 3,550 to 16,800 |
-| Step change at running speed during operation | Lost blade, shroud or coupling component | Controlled shutdown, borescope and run out check | 18,000,000 to 240,000,000 | 11,600 to 155,000 |
-| Unstable phase on hot restart only, harmonics present | Thermal bow progressing to gland rub | Turning gear check, soak and slow roll record | 2,400,000 to 14,000,000 | 1,550 to 9,000 |
-| Twice running speed with axial component | Misalignment, soft foot, piping strain or grout failure | Cold and hot laser alignment, hanger and anchor survey | 3,200,000 to 15,000,000 | 2,050 to 9,700 |
-| Sub-synchronous at 0.38 to 0.48 times speed | Oil whirl from clearance, viscosity or light loading | Oil analysis, bearing clearance measurement | 6,500,000 to 42,000,000 | 4,200 to 27,000 |
-| Non-synchronous locking at the first critical | Oil whip, bearing instability | Rotordynamic assessment, bearing geometry review | 22,000,000 to 95,000,000 | 14,200 to 61,300 |
-| Amplitude rise with bearing metal temperature rise | Babbitt distress or oil starvation | Oil analysis, bearing lift and inspection | 9,000,000 to 55,000,000 | 5,800 to 35,500 |
+| Vibration signature | Likely cause class | First diagnostic step |
+| --- | --- | --- |
+| Running speed dominant, stable phase, rise over months | Deposit or erosion unbalance | Steam purity sampling, in situ trim balance |
+| Step change at running speed during operation | Lost blade, shroud or coupling component | Controlled shutdown, borescope and run out check |
+| Unstable phase on hot restart only, harmonics present | Thermal bow progressing to gland rub | Turning gear check, soak and slow roll record |
+| Twice running speed with axial component | Misalignment, soft foot, piping strain or grout failure | Cold and hot laser alignment, hanger and anchor survey |
+| Sub-synchronous at 0.38 to 0.48 times speed | Oil whirl from clearance, viscosity or light loading | Oil analysis, bearing clearance measurement |
+| Non-synchronous locking at the first critical | Oil whip, bearing instability | Rotordynamic assessment, bearing geometry review |
+| Amplitude rise with bearing metal temperature rise | Babbitt distress or oil starvation | Oil analysis, bearing lift and inspection |
 
 Two patterns are worth noticing. The cheapest rows are the housekeeping ones, turning gear discipline, oil condition and alignment, and those are the faults most often left until they become rotor damage. The expensive rows cost what they cost because of the outage window and parts lead time, not the labour.
 
 The first correcting action is usually a monitoring one. Take a phase referenced baseline on every bearing at a defined load and steam condition, then repeat it monthly and log it. Six readings in, the trend answers the run or stop question far better than any single amplitude ever will, at a fraction of the cost of one avoidable shutdown.
 
-If a machine has moved outside its normal band and you need the signature read before the next outage is planned, [book a plant assessment](/#contact) or speak to an engineer on [+234 803 000 0000](tel:+2348030000000). Correction work sits under [steam and gas turbine overhaul](/steam-turbine-overhaul-nigeria/), and alignment, balancing and bearing scopes on driven equipment fall under [rotating equipment services](/rotating-equipment-services-nigeria/). We scope the diagnosis first and quote the correction afterwards, in writing, against what the data shows.
+If a machine has moved outside its normal band and you need the signature read before the next outage is planned, [book a plant assessment](/#contact) and an engineer will read it with you. Correction work sits under [steam and gas turbine overhaul](/steam-turbine-overhaul-nigeria/), and alignment, balancing and bearing scopes on driven equipment fall under [rotating equipment services](/rotating-equipment-services-nigeria/). We scope the diagnosis first and quote the correction afterwards, in writing, against what the data shows.
 
 ## Frequently Asked Questions
 
