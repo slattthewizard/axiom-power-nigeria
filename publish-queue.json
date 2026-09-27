@@ -126,7 +126,8 @@
   },
   {
     "draft": "drafts/diesel-price-nigeria-plant-fuel-budget-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-27T18:55:30.776315Z"
   },
   {
     "draft": "drafts/generator-avr-faults-2026-09-27.md",
