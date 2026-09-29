@@ -1,1 +1,1 @@
-Publish blog post: generator-avr-faults
+Publish blog post: industrial-generator-repair

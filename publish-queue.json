@@ -136,7 +136,8 @@
   },
   {
     "draft": "drafts/industrial-generator-repair-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-29T19:50:48.170932Z"
   },
   {
     "draft": "drafts/gas-turbine-how-it-works-2026-09-27.md",
