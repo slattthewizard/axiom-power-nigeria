@@ -171,7 +171,8 @@
   },
   {
     "draft": "drafts/kva-to-kw-conversion-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-06T20:02:01.561496Z"
   },
   {
     "draft": "drafts/root-cause-analysis-equipment-failure-2026-09-27.md",
