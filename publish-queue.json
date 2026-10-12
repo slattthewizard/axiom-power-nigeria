@@ -201,7 +201,8 @@
   },
   {
     "draft": "drafts/automatic-transfer-switch-amf-panel-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-12T22:24:49.119782Z"
   },
   {
     "draft": "drafts/changeover-switch-guide-2026-09-27.md",
