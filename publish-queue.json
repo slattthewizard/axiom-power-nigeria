@@ -206,7 +206,8 @@
   },
   {
     "draft": "drafts/changeover-switch-guide-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-13T20:32:13.705456Z"
   },
   {
     "draft": "drafts/predictive-maintenance-2026-09-27.md",
