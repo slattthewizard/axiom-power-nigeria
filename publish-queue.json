@@ -211,7 +211,8 @@
   },
   {
     "draft": "drafts/predictive-maintenance-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-14T19:13:01.078575Z"
   },
   {
     "draft": "drafts/preventive-maintenance-plan-2026-09-27.md",
