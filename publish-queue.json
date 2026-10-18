@@ -231,7 +231,8 @@
   },
   {
     "draft": "drafts/mechanical-seal-failure-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-18T17:52:08.251775Z"
   },
   {
     "draft": "drafts/variable-frequency-drive-guide-2026-09-27.md",
