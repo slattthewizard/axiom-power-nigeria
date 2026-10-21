@@ -246,7 +246,8 @@
   },
   {
     "draft": "drafts/thermal-power-plant-explained-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-21T19:09:15.158800Z"
   },
   {
     "draft": "drafts/head-gasket-failure-generator-2026-09-27.md",
