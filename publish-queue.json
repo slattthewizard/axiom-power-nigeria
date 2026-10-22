@@ -251,7 +251,8 @@
   },
   {
     "draft": "drafts/head-gasket-failure-generator-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-22T19:04:31.744930Z"
   },
   {
     "draft": "drafts/steam-turbine-how-it-works-2026-09-27.md",
