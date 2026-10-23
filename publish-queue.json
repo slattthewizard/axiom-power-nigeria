@@ -256,7 +256,8 @@
   },
   {
     "draft": "drafts/steam-turbine-how-it-works-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-23T18:54:28.977772Z"
   },
   {
     "draft": "drafts/band-a-tariff-vs-self-generation-2026-09-27.md",
