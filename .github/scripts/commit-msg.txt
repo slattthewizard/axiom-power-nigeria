@@ -1,1 +1,1 @@
-Publish blog post: cng-generator-guide
+Publish blog post: gas-generator-guide

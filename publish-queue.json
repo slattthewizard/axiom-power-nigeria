@@ -271,7 +271,8 @@
   },
   {
     "draft": "drafts/gas-generator-guide-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-26T20:20:13.141089Z"
   },
   {
     "draft": "drafts/star-delta-starter-2026-09-27.md",
