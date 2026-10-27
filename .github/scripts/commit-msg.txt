@@ -1,1 +1,1 @@
-Publish blog post: gas-generator-guide
+Publish blog post: star-delta-starter
