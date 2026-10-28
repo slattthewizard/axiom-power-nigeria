@@ -281,7 +281,8 @@
   },
   {
     "draft": "drafts/pump-cavitation-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-28T20:07:16.184334Z"
   },
   {
     "draft": "drafts/centrifugal-pump-guide-2026-09-27.md",
