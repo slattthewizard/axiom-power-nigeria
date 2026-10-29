@@ -286,7 +286,8 @@
   },
   {
     "draft": "drafts/centrifugal-pump-guide-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-29T20:05:29.589141Z"
   },
   {
     "draft": "drafts/500kva-generator-guide-2026-09-27.md",
