@@ -291,7 +291,8 @@
   },
   {
     "draft": "drafts/500kva-generator-guide-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-30T19:52:02.489406Z"
   },
   {
     "draft": "drafts/power-factor-correction-capacitor-banks-2026-09-27.md",
