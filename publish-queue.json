@@ -296,7 +296,8 @@
   },
   {
     "draft": "drafts/power-factor-correction-capacitor-banks-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-10-31T19:08:43.427049Z"
   },
   {
     "draft": "drafts/power-system-harmonics-2026-09-27.md",
