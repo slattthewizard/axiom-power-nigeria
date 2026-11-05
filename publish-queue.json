@@ -321,7 +321,8 @@
   },
   {
     "draft": "drafts/types-of-industrial-generators-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-05T21:21:21.123402Z"
   },
   {
     "draft": "drafts/generator-synchronization-2026-09-27.md",
