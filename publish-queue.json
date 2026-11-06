@@ -326,7 +326,8 @@
   },
   {
     "draft": "drafts/generator-synchronization-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-06T20:43:19.843326Z"
   },
   {
     "draft": "drafts/generator-earthing-industrial-2026-09-27.md",
