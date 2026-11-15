@@ -371,7 +371,8 @@
   },
   {
     "draft": "drafts/deep-sea-controller-alarms-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-15T20:12:37.268055Z"
   },
   {
     "draft": "drafts/megger-test-insulation-resistance-2026-09-27.md",
