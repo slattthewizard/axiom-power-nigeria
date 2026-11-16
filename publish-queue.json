@@ -376,7 +376,8 @@
   },
   {
     "draft": "drafts/megger-test-insulation-resistance-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-16T23:39:38.973470Z"
   },
   {
     "draft": "drafts/electric-motor-rewinding-2026-09-27.md",
