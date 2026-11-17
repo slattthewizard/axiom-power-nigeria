@@ -381,7 +381,8 @@
   },
   {
     "draft": "drafts/electric-motor-rewinding-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-17T22:47:39.374132Z"
   },
   {
     "draft": "drafts/transformer-maintenance-2026-09-27.md",
