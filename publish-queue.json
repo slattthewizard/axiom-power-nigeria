@@ -386,7 +386,8 @@
   },
   {
     "draft": "drafts/transformer-maintenance-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-18T22:29:29.726799Z"
   },
   {
     "draft": "drafts/screw-compressor-maintenance-2026-09-27.md",
