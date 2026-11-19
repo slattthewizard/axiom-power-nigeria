@@ -391,7 +391,8 @@
   },
   {
     "draft": "drafts/screw-compressor-maintenance-2026-09-27.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-19T22:35:54.050972Z"
   },
   {
     "draft": "drafts/gas-compressor-maintenance-2026-09-27.md",
