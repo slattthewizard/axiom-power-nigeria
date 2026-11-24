@@ -401,7 +401,8 @@
   },
   {
     "draft": "drafts/generator-fuel-consumption-chart-2026-11-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-24T02:01:25.867848Z"
   },
   {
     "draft": "drafts/generator-smoke-colours-2026-11-23.md",
