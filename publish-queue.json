@@ -406,7 +406,8 @@
   },
   {
     "draft": "drafts/generator-smoke-colours-2026-11-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-24T23:47:05.987359Z"
   },
   {
     "draft": "drafts/generator-not-starting-2026-11-23.md",
