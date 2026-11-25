@@ -1,1 +1,1 @@
-Publish blog post: generator-smoke-colours
+Publish blog post: generator-not-starting

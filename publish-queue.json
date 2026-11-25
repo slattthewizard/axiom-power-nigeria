@@ -411,7 +411,8 @@
   },
   {
     "draft": "drafts/generator-not-starting-2026-11-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-25T23:28:59.500044Z"
   },
   {
     "draft": "drafts/generator-overheating-causes-2026-11-23.md",
