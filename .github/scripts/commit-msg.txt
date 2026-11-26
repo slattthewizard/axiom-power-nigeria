@@ -1,1 +1,1 @@
-Publish blog post: generator-not-starting
+Publish blog post: generator-overheating-causes
