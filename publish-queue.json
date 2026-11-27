@@ -421,7 +421,8 @@
   },
   {
     "draft": "drafts/generator-house-design-2026-11-23.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-11-27T23:15:56.178652Z"
   },
   {
     "draft": "drafts/injection-substation-33-11kv-2026-11-23.md",
